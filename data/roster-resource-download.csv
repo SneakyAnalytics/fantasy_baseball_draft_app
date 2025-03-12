@@ -1,0 +1,2008 @@
+﻿playerId,Team,Name,Pos,Age,Proj PA,Proj IP,Service Time,Options or R5 Status,Projected Opening Day Status
+25878,ARI,Corbin Carroll,RF,24.5,672,,2.038,3,Lineup Regular
+13613,ARI,Ketel Marte,2B,31.4,637,,8.162,n/a,Lineup Regular
+12552,ARI,Eugenio Suárez,3B,33.6,609,,10.061,n/a,Lineup Regular
+18839,ARI,Josh Naylor,1B,27.7,609,,5.127,n/a,Lineup Regular
+22799,ARI,Geraldo Perdomo,SS,25.4,567,,3.015,2,Lineup Regular
+19238,ARI,Lourdes Gurriel Jr.,LF,31.6,560,,6.094,n/a,Lineup Regular
+21622,ARI,Jake McCarthy,CF,27.6,518,,2.124,1,Lineup Regular
+22664,ARI,Gabriel Moreno,C,25.1,507,,2.061,1,Lineup Regular
+19892,ARI,Pavin Smith,DH,29.1,329,,3.015,0,Platoon vs R
+10243,ARI,Randal Grichuk,OF,33.6,266,,10.033,n/a,Platoon vs L
+19361,ARI,Corbin Burnes,SP,30.4,,188,6.049,n/a,Starting Rotation
+19291,ARI,Zac Gallen,SP,29.6,,170,5.100,n/a,Starting Rotation
+11156,ARI,Merrill Kelly,SP,36.4,,149,6.000,n/a,Starting Rotation
+13164,ARI,Eduardo Rodriguez,SP,31.9,,143,9.070,n/a,Starting Rotation
+27782,ARI,Brandon Pfaadt,SP,26.4,,137,1.097,2,Starting Rotation
+23792,ARI,Alek Thomas,OF,24.9,308,,2.103,1,Bench
+17040,ARI,Jose Herrera,C,28.0,96,,2.021,0,Bench
+25813,ARI,Grae Kessinger,INF,27.5,56,,1.054,2,Bench
+24453,ARI,Justin Martinez,RP,23.6,,67,1.024,1,Closer
+19343,ARI,A.J. Puk,RP,29.9,,64,4.124,2,Closer
+19876,ARI,Kevin Ginkel,RP,31.0,,61,4.033,2,Setup Man
+16647,ARI,Ryan Thompson,RP,32.7,,63,4.095,2,Middle Reliever
+14857,ARI,Joe Mantiply,RP,34.0,,59,4.029,2,Middle Reliever
+10197,ARI,Shelby Miller,RP,34.4,,56,9.016,n/a,Middle Reliever
+26260,ARI,Drey Jameson,RP,27.7,,50,2.003,2,Middle Reliever
+16511,ARI,Jordan Montgomery,RP,32.2,,115,7.145,n/a,Long Reliever
+15514,ARI,Kendall Graveman,RP,34.2,,53,9.078,n/a,Projected Injured List
+23789,ARI,Blaze Alexander,INF,25.7,126,,0.104,1,Projected Injured List
+29976,ARI,Jordan Lawlar,INF,22.6,224,,0.025,2,Lineup Candidate
+29554,ARI,Adrian Del Castillo,C,25.4,93,,0.055,3,Lineup/Bench Candidate
+15149,ARI,Trey Mancini,1B/OF,33.0,28,,6.141,n/a,Bench Candidate
+sa3016970,ARI,Tim Tawa,INF/OF,25.9,21,,0.000,3,Bench Candidate
+23968,ARI,Jorge Barrosa,OF,24.1,7,,0.008,1,Bench Candidate
+19859,ARI,René Pinto,C,28.3,6,,1.015,0,Bench Candidate
+16925,ARI,Aramis Garcia,C,32.2,,,3.047,0,Bench Candidate
+19262,ARI,Garrett Hampson,INF/OF,30.4,,,6.010,n/a,Bench Candidate
+sa3014525,ARI,A.J. Vukovich,OF,23.6,,,,R5,Bench Candidate
+21535,ARI,Connor Kaiser,INF,28.3,,,0.014,3,Bench Candidate
+13324,ARI,Ildemaro Vargas,INF/OF,33.6,,,5.007,n/a,Bench Candidate
+sa3022887,ARI,LuJames Groover,INF,22.9,,,,Dec'26,Bench Candidate
+sa876328,ARI,Tristin English,INF/OF,27.8,,,,R5,Bench Candidate
+sa3006884,ARI,Kristian Robinson,OF,24.2,,,0.000,1,Bench Candidate
+19948,ARI,Cristian Pache,OF,26.3,,,3.031,0,Bench Candidate
+sa3015623,ARI,Christian Cerda,C,22.2,,,,R5,Bench Candidate
+26253,ARI,Ryne Nelson,SP,27.1,,100,2.020,3,Rotation/Bullpen Candidate
+29271,ARI,Yilber Diaz,SP,24.6,,49,0.039,2,Bullpen Candidate
+27477,ARI,Bryce Jarvis,RP,27.2,,48,1.050,2,Bullpen Candidate
+20515,ARI,Kyle Nelson,RP,28.7,,35,3.076,2,Bullpen Candidate
+26270,ARI,Blake Walston,SP/RP,23.7,,32,0.096,2,Bullpen Candidate
+26285,ARI,Tommy Henry,SP,27.6,,28,1.094,1,Bullpen Candidate
+16128,ARI,John Curtiss,RP,31.9,,22,3.157,0,Bullpen Candidate
+27974,ARI,Cristian Mena,SP,22.2,,21,0.001,2,Bullpen Candidate
+16631,ARI,Jeff Brigham,RP,33.1,,20,3.142,1,Bullpen Candidate
+12056,ARI,Scott McGough,RP,35.4,,16,1.121,1,Bullpen Candidate
+sa3022904,ARI,Kyle Amendt,RP,24.9,,14,,Dec'26,Bullpen Candidate
+17169,ARI,José Castillo,RP,29.2,,,4.011,0,Bullpen Candidate
+sa917772,ARI,Juan Morillo,RP,26.0,,,,R5,Bullpen Candidate
+sa3009725,ARI,Listher Sosa,RP,23.5,,,,R5,Bullpen Candidate
+sa3017068,ARI,Kyle Backhus,RP,27.1,,,,R5,Bullpen Candidate
+sa3018207,ARI,Christian Montes De Oca,RP,25.5,,,,Dec'25,Bullpen Candidate
+19866,ARI,Brandon Bielak,SP/RP,28.9,,,3.018,0,Bullpen Candidate
+sa3015216,ARI,Joe Elbis,SP,22.5,,,0.000,3,Optioned
+24606,ARI,Josh Winder,RP,28.4,,,2.002,0,Projected Injured List (MiLB)
+14510,ARI,Thyago Vieira,RP,31.7,,,1.065,0,Projected Injured List (MiLB)
+26368,ATH,JJ Bleday,CF,27.3,651,,2.055,2,Lineup Regular
+19627,ATH,Brent Rooker,DH,30.4,644,,3.059,1,Lineup Regular
+22542,ATH,Lawrence Butler,RF,24.7,644,,1.032,1,Lineup Regular
+29766,ATH,Zack Gelof,2B,25.4,630,,1.080,3,Lineup Regular
+33266,ATH,Jacob Wilson,SS,22.9,553,,0.073,3,Lineup Regular
+27467,ATH,Tyler Soderstrom,1B,23.3,522,,1.053,2,Lineup Regular
+25816,ATH,Shea Langeliers,C,27.3,506,,2.051,3,Lineup Regular
+15878,ATH,Miguel Andujar,OF,30.0,385,,5.053,n/a,Platoon vs L
+10681,ATH,Gio Urshela,3B,33.4,378,,7.127,n/a,Platoon vs R
+16622,ATH,Luis Urías,INF,27.8,336,,5.024,n/a,Platoon vs L
+18171,ATH,Seth Brown,LF,32.7,308,,4.096,2,Platoon vs R
+15890,ATH,Luis Severino,SP,31.0,,177,8.170,n/a,Starting Rotation
+23429,ATH,JP Sears,SP,29.1,,176,2.081,2,Starting Rotation
+17677,ATH,Jeffrey Springs,SP,32.5,,133,6.055,n/a,Starting Rotation
+27707,ATH,Mitch Spence,SP,26.8,,118,1.000,3,Starting Rotation
+23150,ATH,Osvaldo Bido,SP,29.4,,94,1.009,1,Starting Rotation
+19802,ATH,Jhonny Pereda,C,28.9,109,,0.052,2,Bench
+21780,ATH,Esteury Ruiz,OF,26.1,98,,2.029,2,Bench
+31757,ATH,Mason Miller,RP,26.5,,67,1.166,3,Closer
+14524,ATH,José Leclerc,RP,31.2,,64,8.041,n/a,Setup Man
+22533,ATH,Michel Otañez,RP,27.7,,62,0.087,2,Setup Man
+19481,ATH,Tyler Ferguson,RP,31.4,,61,0.111,2,Middle Reliever
+30002,ATH,Grant Holman,RP,24.8,,60,0.044,3,Middle Reliever
+3237,ATH,T.J. McFarland,RP,35.8,,58,9.050,n/a,Middle Reliever
+sa919012,ATH,Noah Murdock,RP,26.6,,56,0.000,n/a,Middle Reliever
+25098,ATH,Jacob Lopez,RP,27.0,,38,0.021,1,Long Reliever
+25582,ATH,Brady Basso,SP/RP,27.4,,61,0.030,2,Projected Injured List
+29788,ATH,Brett Harris,INF,26.7,21,,0.052,2,Projected Injured List
+27681,ATH,Ken Waldichuk,SP,27.2,,,2.035,3,Projected Injured List
+21649,ATH,Luis Medina,SP,25.9,,,1.146,0,60-Day IL
+26224,ATH,Darell Hernaiz,INF,23.6,112,,0.150,2,Lineup/Bench Candidate
+24488,ATH,Max Schuemann,INF/OF,27.7,112,,1.000,3,Lineup/Bench Candidate
+sa3020713,ATH,Colby Thomas,OF,24.1,98,,,Dec'25,Lineup/Bench Candidate
+sa3017290,ATH,Max Muncy,INF,22.5,56,,,Dec'25,Lineup/Bench Candidate
+sa3025385,ATH,Nick Kurtz,1B,22.0,35,,,Dec'27,Lineup Candidate
+sa918676,ATH,Logan Davidson,INF/OF,27.2,21,,,R5,Lineup/Bench Candidate
+sa3006937,ATH,Drew Avans,OF,28.7,14,,,R5,Bench Candidate
+20557,ATH,CJ Alexander,INF/OF,28.6,7,,0.012,2,Bench Candidate
+sa3017426,ATH,Denzel Clarke,OF,24.9,,,0.000,3,Lineup/Bench Candidate
+sa1171936,ATH,Pedro Santos,RP,25.2,,,,R5,Bench Candidate
+sa3007828,ATH,Willie MacIver,C,28.4,,,,R5,Bench Candidate
+25575,ATH,Kyle McCann,C,27.3,,,1.000,3,Bench Candidate
+sa3008079,ATH,Carlos Cortes,OF,27.7,,,,R5,Bench Candidate
+sa3020006,ATH,Henry Bolte,OF,21.6,,,,Dec'26,Lineup/Bench Candidate
+21127,ATH,Alejo Lopez,INF/OF,28.8,,,0.147,1,Bench Candidate
+26257,ATH,Joey Estes,SP,23.4,,102,0.154,2,Rotation/Bullpen Candidate
+27889,ATH,J.T. Ginn,SP,25.8,,95,0.041,3,Rotation Candidate
+sa3019785,ATH,Gunnar Hoglund,SP,25.2,,73,0.000,3,Rotation Candidate
+13394,ATH,Dylan Floro,RP,34.2,,48,7.053,n/a,Bullpen Candidate
+27694,ATH,Justin Sterner,RP,28.5,,44,0.007,2,Bullpen Candidate
+21520,ATH,Hogan Harris,SP/RP,28.2,,33,0.170,1,Rotation/Bullpen Candidate
+19315,ATH,Matt Krook,RP,30.4,,16,0.048,1,Bullpen Candidate
+sa3017385,ATH,Ryan Cusick,SP/RP,25.3,,13,0.000,3,Rotation/Bullpen Candidate
+sa3007008,ATH,Tanner Dodson,RP,27.8,,9,,R5,Bullpen Candidate
+20198,ATH,Ben Bowden,RP,30.4,,,1.000,1,Bullpen Candidate
+sa3020076,ATH,Jack Perkins,SP,25.2,,,,Dec'25,Rotation/Bullpen Candidate
+19666,ATH,Jason Alexander,SP,32.0,,,0.103,2,Rotation/Bullpen Candidate
+sa3020622,ATH,Mason Barnett,SP,24.3,,9,,Dec'25,Reassigned
+sa872881,ATH,Domingo Robles,SP,26.9,,,,R5,Reassigned
+26034,ATH,Anthony Maldonado,RP,27.1,,,0.051,2,Reassigned
+sa3018174,ATH,Chen Zhong-Ao Zhuang,SP,24.5,,,,Dec'25,Reassigned
+sa918343,ATH,Lyle Lin,C,27.7,,,,R5,Reassigned
+sa3019997,ATH,Daniel Susac,C,23.8,,,,Dec'25,Reassigned
+19820,ATH,CD Pelham,RP,30.0,,,0.027,2,Reassigned
+14344,ATL,Matt Olson,1B,30.9,686,,7.103,n/a,Lineup Regular
+18360,ATL,Austin Riley,3B,27.9,679,,5.138,n/a,Lineup Regular
+10324,ATL,Marcell Ozuna,DH,34.3,665,,11.124,n/a,Lineup Regular
+16556,ATL,Ozzie Albies,2B,28.2,658,,7.062,n/a,Lineup Regular
+10815,ATL,Jurickson Profar,LF,32.0,630,,10.165,n/a,Lineup Regular
+25931,ATL,Michael Harris II,CF,24.0,616,,3.000,3,Lineup Regular
+13185,ATL,Orlando Arcia,SS,30.6,595,,7.114,n/a,Lineup Regular
+sa3019920,ATL,Drake Baldwin,C,23.9,211,,,Dec'25,Lineup Regular
+22558,ATL,Jarred Kelenic,RF,25.6,182,,2.169,1,Platoon vs R
+19600,ATL,Bryan De La Cruz,OF,28.2,105,,3.056,2,Platoon vs L
+10603,ATL,Chris Sale,SP,35.9,,182,14.061,n/a,Starting Rotation
+16400,ATL,Reynaldo López,SP,31.2,,173,7.004,n/a,Starting Rotation
+31846,ATL,Spencer Schwellenbach,SP,24.8,,165,0.124,3,Starting Rotation
+16944,ATL,Grant Holmes,SP,29.0,,121,0.106,0,Starting Rotation
+19951,ATL,Ian Anderson,SP,26.9,,92,2.046,0,Starting Rotation
+22277,ATL,Nick Allen,INF,26.4,119,,1.164,0,Bench
+19346,ATL,Eli White,OF/INF,30.7,63,,2.140,0,Bench
+16953,ATL,Chadwick Tromp,C,30.0,51,,2.066,0,Bench
+17130,ATL,Raisel Iglesias,RP,35.2,,68,9.154,n/a,Closer
+13435,ATL,Pierce Johnson,RP,33.8,,64,5.137,n/a,Setup Man
+16258,ATL,Aaron Bummer,RP,31.5,,61,6.150,n/a,Setup Man
+19996,ATL,Dylan Lee,RP,30.6,,62,2.150,2,Middle Reliever
+20271,ATL,Daysbel Hernández,RP,28.5,,58,0.111,2,Middle Reliever
+11804,ATL,Héctor Neris,RP,35.7,,56,9.068,n/a,Middle Reliever
+17759,ATL,Angel Perdomo,RP,30.8,,54,2.131,0,Middle Reliever
+14814,ATL,Buck Farmer,RP,34.0,,50,7.140,n/a,Long Reliever
+27498,ATL,Spencer Strider,SP,26.4,,119,3.003,3,Projected Injured List
+15761,ATL,Joe Jiménez,RP,30.1,,25,7.061,n/a,Projected Injured List
+18401,ATL,Ronald Acuña Jr.,OF,27.2,553,,6.159,n/a,Projected Injured List
+19352,ATL,Sean Murphy,C,30.4,365,,5.029,n/a,Projected Injured List
+19931,ATL,Luke Williams,INF/OF,28.6,21,,2.101,0,Bench Candidate
+31765,ATL,Nacho Alvarez Jr.,INF,21.9,14,,0.009,2,Bench Candidate
+12510,ATL,Curt Casali,C,36.3,13,,8.117,n/a,Bench Candidate
+15279,ATL,Garrett Cooper,1B/OF,34.2,7,,6.131,n/a,Bench Candidate
+sa3010028,ATL,Christian Cairo,INF,23.7,,,0.000,n/a,Bench Candidate
+11339,ATL,Jake Marisnick,OF,33.9,,,9.052,n/a,Bench Candidate
+19813,ATL,Charles Leblanc,INF,28.8,,,0.104,2,Bench Candidate
+19983,ATL,Conner Capel,OF,27.8,,,0.105,0,Bench Candidate
+sa3017075,ATL,Luke Waddell,INF,26.7,,,,R5,Bench Candidate
+5273,ATL,Sandy León,C,36.0,,,8.112,n/a,Bench Candidate
+29960,ATL,AJ Smith-Shawver,SP,22.3,,79,0.099,1,Rotation/Bullpen Candidate
+5003,ATL,Jake Diekman,RP,38.1,,46,12.007,n/a,Bullpen Candidate
+27779,ATL,Bryce Elder,SP,25.8,,45,1.075,2,Rotation/Bullpen Candidate
+18403,ATL,Enyel De Los Santos,RP,29.2,,43,4.015,0,Bullpen Candidate
+sa917899,ATL,Anderson Pilar,RP,27.0,,17,0.000,n/a,Bullpen Candidate
+14825,ATL,Dylan Covey,RP,33.6,,,4.119,0,Bullpen Candidate
+26128,ATL,Amos Willingham,RP,26.5,,44,0.079,1,Optioned
+sa3007495,ATL,Domingo Gonzalez,SP/RP,25.4,,35,0.000,3,Optioned
+33527,ATL,Hurston Waldrep,SP,23.0,,29,0.051,2,Optioned
+29928,ATL,Dylan Dodd,SP,26.8,,26,0.039,1,Optioned
+sa3011575,ATL,Rolddy Munoz,SP/RP,24.9,,20,0.000,3,Optioned
+27582,ATL,Davis Daniel,SP/RP,27.7,,13,1.029,1,Optioned
+sa3005478,ATL,Carlos D. Rodriguez,OF,24.3,7,,0.000,3,Optioned
+14975,ATL,Chad Kuhl,SP/RP,32.5,,,7.099,n/a,Reassigned
+16959,ATL,Eddy Alvarez,INF/OF,35.1,,,0.167,2,Reassigned
+15855,ATL,Wander Suero,RP,33.5,,,3.157,1,Reassigned
+sa3017221,ATL,Adam Zebrowski,C,24.4,,,,R5,Reassigned
+20447,ATL,Enoli Paredes,RP,29.4,,,2.060,0,Reassigned
+sa3009243,ATL,Royber Salinas,SP,23.9,,,0.000,2,Reassigned
+13190,ATL,Jordan Weems,RP,32.3,,,3.025,0,Reassigned
+10855,ATL,Chasen Shreve,RP,34.7,,,7.067,n/a,Reassigned
+20540,ATL,José Devers,INF,25.3,,,1.040,1,Reassigned
+26289,BAL,Gunnar Henderson,SS,23.7,679,,2.036,3,Lineup Regular
+26288,BAL,Adley Rutschman,C,27.1,586,,3.000,3,Lineup Regular
+27815,BAL,Jordan Westburg,3B,26.1,574,,1.098,3,Lineup Regular
+29591,BAL,Colton Cowser,RF,25.0,560,,1.043,2,Lineup Regular
+18373,BAL,Ryan Mountcastle,1B,28.1,532,,4.105,2,Lineup Regular
+15711,BAL,Tyler O'Neill,LF,29.7,476,,6.059,n/a,Lineup Regular
+17929,BAL,Cedric Mullins,CF,30.4,560,,5.078,n/a,Platoon vs R
+31781,BAL,Jackson Holliday,2B,21.3,469,,0.078,2,Platoon vs R
+16442,BAL,Ryan O'Hearn,DH,31.6,406,,6.002,n/a,Platoon vs R
+11442,BAL,Gary Sánchez,C,32.3,257,,8.050,n/a,Platoon vs L
+18795,BAL,Ramón Urías,INF,30.8,231,,4.025,0,Platoon vs L
+17128,BAL,Ramón Laureano,OF,30.7,203,,5.159,n/a,Platoon vs L
+13774,BAL,Zach Eflin,SP,30.9,,174,8.018,n/a,Starting Rotation
+4676,BAL,Charlie Morton,SP,41.3,,156,16.010,n/a,Starting Rotation
+sa3025685,BAL,Tomoyuki Sugano,SP,35.4,,145,0.000,n/a,Starting Rotation
+19350,BAL,Dean Kremer,SP,29.2,,139,3.112,1,Starting Rotation
+30055,BAL,Cade Povich,SP,24.9,,101,0.080,2,Starting Rotation
+31166,BAL,Heston Kjerstad,OF/1B,26.1,399,,0.137,2,Bench
+20666,BAL,Félix Bautista,RP,29.7,,60,3.000,3,Closer
+19362,BAL,Keegan Akin,RP,29.9,,70,4.083,1,Setup Man
+19249,BAL,Seranthony Domínguez,RP,30.3,,63,6.131,n/a,Setup Man
+25911,BAL,Yennier Cano,RP,31.0,,62,2.065,2,Middle Reliever
+19677,BAL,Gregory Soto,RP,30.1,,61,5.102,n/a,Middle Reliever
+19614,BAL,Cionel Pérez,RP,28.9,,59,4.085,0,Middle Reliever
+19804,BAL,Bryan Baker,RP,30.3,,52,2.049,0,Middle Reliever
+6175,BAL,Albert Suárez,RP,35.4,,71,2.019,0,Long Reliever
+24492,BAL,Grayson Rodriguez,SP,25.3,,147,1.129,2,Projected Injured List
+29866,BAL,Chayce McDermott,SP,26.5,,49,0.001,2,Projected Injured List
+12828,BAL,Andrew Kittredge,RP,35.0,,38,6.070,n/a,Projected Injured List
+22286,BAL,Trevor Rogers,SP,27.3,,36,4.069,2,Projected Injured List
+24586,BAL,Kyle Bradish,SP,28.5,,21,2.160,2,Projected Injured List
+20000,BAL,Tyler Wells,SP,30.5,,10,3.132,2,Projected Injured List
+17273,BAL,Jorge Mateo,INF/OF,29.7,133,,5.000,n/a,Projected Injured List
+28312,BAL,Coby Mayo,3B/1B,23.2,119,,0.043,2,Lineup/Bench Candidate
+20126,BAL,Dylan Carlson,OF,26.4,35,,4.104,3,Bench Candidate
+22471,BAL,Livan Soto,INF,24.7,14,,0.094,1,Bench Candidate
+23250,BAL,David Bañuelos,C,28.4,6,,0.013,3,Bench Candidate
+23442,BAL,Luis Vazquez,INF,25.4,,,0.047,2,Bench Candidate
+sa3010848,BAL,Maverick Handley,C,27.0,,,,R5,Bench Candidate
+sa3015716,BAL,Samuel Basallo,C/1B,20.6,,,,Dec'25,Lineup/Bench Candidate
+19890,BAL,Emmanuel Rivera,3B/1B,28.7,,,3.026,0,Bench Candidate
+18353,BAL,Daz Cameron,OF,28.1,,,1.162,0,Bench Candidate
+24400,BAL,Terrin Vavra,INF/OF,27.8,,,0.149,0,Bench Candidate
+16337,BAL,Nick Gordon,OF/INF,29.4,,,3.097,0,Bench Candidate
+23788,BAL,Jordyn Adams,OF,25.4,,,0.066,1,Bench Candidate
+17684,BAL,Vimael Machín,INF,31.5,,,1.141,2,Bench Candidate
+15519,BAL,Franklin Barreto,OF/INF,29.0,,,3.031,0,Bench Candidate
+sa550522,BAL,Luis González,RP,33.1,,30,0.000,3,Bullpen Candidate
+22810,BAL,Roansy Contreras,RP,25.3,,28,2.039,0,Bullpen Candidate
+sa3011418,BAL,Kade Strowd,RP,27.5,,26,0.000,3,Bullpen Candidate
+22276,BAL,Dylan Coleman,RP,28.5,,21,1.078,1,Bullpen Candidate
+sa206642,BAL,Rodolfo Martinez,RP,30.9,,18,,R5,Bullpen Candidate
+13528,BAL,Matt Bowman,RP,33.8,,15,4.137,0,Bullpen Candidate
+21513,BAL,Thaddeus Ward,SP/RP,28.1,,13,1.000,2,Bullpen Candidate
+sa3005696,BAL,Raúl Alcantara,RP,24.1,,,,R5,Bullpen Candidate
+25650,BAL,Levi Stoudt,SP/RP,27.3,,,0.010,1,Bullpen Candidate
+19884,BAL,Corbin Martin,RP,29.2,,,2.081,0,Bullpen Candidate
+24986,BAL,Colin Selby,RP,27.4,,48,0.066,1,Optioned
+sa3014926,BAL,Brandon Young,SP,26.6,,42,0.000,3,Optioned
+sa3017536,BAL,Carlos Tavera,SP/RP,26.4,,,,R5,Reassigned
+sa3004823,BAL,Jakob Hernandez,RP,28.5,,,,R5,Reassigned
+sa3022917,BAL,Enrique Bradfield Jr.,OF,23.3,,,,Dec'26,Reassigned
+sa918814,BAL,Nathan Webb,RP,27.6,,,0.000,2,Reassigned
+sa3019983,BAL,Dylan Beavers,OF,23.6,,,,Dec'25,Reassigned
+sa3006562,BAL,Yaramil Hiraldo,RP,29.2,,,,R5,Reassigned
+sa3019976,BAL,Silas Ardoin,C,24.5,,,,Dec'25,Reassigned
+sa873188,BAL,Robinson Martínez,RP,27.0,,,,R5,Reassigned
+sa3007740,BAL,Jeremiah Jackson,INF,25.0,,,,R5,Reassigned
+sa3017548,BAL,Justin Armbruester,SP,26.4,,,,R5,Reassigned
+sa3019942,BAL,Jud Fabian,OF,24.4,,,,Dec'25,Reassigned
+17678,BOS,Alex Bregman,2B,30.9,679,,8.070,n/a,Lineup Regular
+17350,BOS,Rafael Devers,3B,28.4,679,,7.070,n/a,Lineup Regular
+24617,BOS,Jarren Duran,LF,28.5,658,,2.155,2,Lineup Regular
+12564,BOS,Trevor Story,SS,32.3,609,,9.000,n/a,Lineup Regular
+22514,BOS,Triston Casas,1B,25.1,602,,2.032,3,Lineup Regular
+24262,BOS,Ceddanne Rafaela,CF,24.5,434,,1.035,2,Lineup Regular
+19896,BOS,Connor Wong,C,28.8,371,,2.079,1,Lineup Regular
+13770,BOS,Rob Refsnyder,RF,34.0,238,,6.048,n/a,Lineup Regular
+31837,BOS,Masataka Yoshida,DH,31.6,392,,2.000,3,Platoon vs R
+21562,BOS,Romy Gonzalez,INF/OF,28.5,84,,2.083,2,Platoon vs L
+19879,BOS,Tanner Houck,SP,28.7,,180,3.100,2,Starting Rotation
+27463,BOS,Garrett Crochet,SP,25.7,,157,4.028,3,Starting Rotation
+19374,BOS,Walker Buehler,SP,30.6,,148,6.168,n/a,Starting Rotation
+15474,BOS,Lucas Giolito,SP,30.7,,137,7.080,n/a,Starting Rotation
+25977,BOS,Quinn Priester,SP,24.5,,45,0.134,1,Starting Rotation
+19722,BOS,Carlos Narvaez,C/1B,26.3,198,,0.038,2,Bench
+27531,BOS,David Hamilton,INF/OF,27.4,77,,1.020,2,Bench
+25483,BOS,Nick Sogard,INF/OF,27.5,35,,0.061,3,Bench
+10233,BOS,Aroldis Chapman,RP,37.0,,63,14.009,n/a,Closer
+3548,BOS,Liam Hendriks,RP,36.1,,61,10.164,n/a,Closer
+20191,BOS,Garrett Whitlock,RP,28.7,,67,4.000,3,Setup Man
+25648,BOS,Justin Slaten,RP,27.5,,64,1.000,3,Middle Reliever
+20375,BOS,Greg Weissert,RP,30.1,,60,1.079,1,Middle Reliever
+4301,BOS,Justin Wilson,RP,37.6,,58,12.035,n/a,Middle Reliever
+16835,BOS,Brennan Bernardino,RP,33.1,,52,1.153,1,Middle Reliever
+13218,BOS,Michael Fulmer,RP,32.0,,55,7.157,n/a,Long Reliever
+23920,BOS,Brayan Bello,SP,25.8,,153,2.082,2,Projected Injured List
+20531,BOS,Kutter Crawford,SP,28.9,,134,2.136,2,Projected Injured List
+19447,BOS,Patrick Sandoval,SP,28.4,,15,4.149,1,60-Day IL
+25368,BOS,Zach Penrod,SP/RP,27.7,,14,0.016,3,Projected Injured List
+26214,BOS,Chris Murphy,SP,26.8,,8,1.081,2,Projected Injured List
+23772,BOS,Wilyer Abreu,OF,25.7,448,,1.041,2,Projected Injured List
+sa3020211,BOS,Roman Anthony,OF,20.8,350,,,Dec'26,Lineup Candidate
+sa3023011,BOS,Kristian Campbell,INF/OF,22.7,224,,,Dec'26,Lineup Candidate
+26031,BOS,Vaughn Grissom,INF,24.2,63,,1.066,1,Bench Candidate
+25805,BOS,Blake Sabol,C/1B,27.2,58,,1.023,2,Bench Candidate
+sa3017114,BOS,Marcelo Mayer,INF,22.2,21,,,Dec'25,Lineup Candidate
+18887,BOS,Seby Zavala,C,31.5,13,,2.146,0,Bench Candidate
+9952,BOS,Trayce Thompson,OF,34.0,7,,4.010,0,Bench Candidate
+sa3017398,BOS,Nathan Hickey,C,25.3,,,,R5,Bench Candidate
+25055,BOS,Nate Eaton,INF/OF,28.2,,,0.125,2,Bench Candidate
+21304,BOS,Mark Kolozsvary,C,29.5,,,0.047,2,Bench Candidate
+19844,BOS,Abraham Toro,INF,28.2,,,3.165,0,Bench Candidate
+31184,BOS,Luis Guerrero,RP,24.6,,50,0.024,3,Bullpen Candidate
+30160,BOS,Richard Fitts,SP/RP,25.2,,47,0.022,3,Rotation/Bullpen Candidate
+1247,BOS,Adam Ottavino,RP,39.3,,44,13.087,n/a,Bullpen Candidate
+22387,BOS,Josh Winckowski,SP/RP,26.7,,42,2.045,1,Rotation/Bullpen Candidate
+1890,BOS,Matt Moore,RP,35.7,,28,12.000,n/a,Bullpen Candidate
+20349,BOS,Zack Kelly,RP,30.0,,26,2.017,2,Bullpen Candidate
+24975,BOS,Cooper Criswell,SP/RP,28.6,,25,1.117,1,Rotation/Bullpen Candidate
+13801,BOS,Austin Adams,RP,33.8,,22,5.150,n/a,Bullpen Candidate
+sa3018275,BOS,Hunter Dobbins,SP/RP,25.5,,,0.000,3,Rotation/Bullpen Candidate
+25862,BOS,Noah Davis,SP/RP,27.9,,,0.129,0,Bullpen Candidate
+20010,BOS,Wyatt Mills,RP,30.1,,,1.134,1,Bullpen Candidate
+25551,BOS,Isaiah Campbell,RP,27.6,,,1.011,1,Bullpen Candidate
+sa917784,BOS,Bryan Mata,SP/RP,25.9,,,1.000,0,Bullpen Candidate
+16943,BOS,Sean Newcomb,RP,31.7,,,5.041,n/a,Bullpen Candidate
+sa3015523,BOS,Jhostynxon Garcia,OF,22.2,,,0.000,3,Optioned
+sa3014677,BOS,Luis Perales,SP,21.9,,,0.000,2,Optioned
+sa3017547,BOS,Jacob Webb,RP,26.0,,,,R5,Reassigned
+20422,BOS,Jovani Moran,RP,27.9,,,1.090,1,Reassigned
+6576,BOS,Robert Stock,SP/RP,35.3,,,2.030,0,Reassigned
+sa3014925,BOS,Brian Van Belle,SP/RP,28.5,,,,R5,Reassigned
+sa3002951,BOS,Yovanny Cruz,RP,25.5,,,,R5,Reassigned
+18314,CHC,Dansby Swanson,SS,31.1,679,,8.047,n/a,Lineup Regular
+17919,CHC,Ian Happ,LF,30.6,672,,7.036,n/a,Lineup Regular
+18345,CHC,Kyle Tucker,RF,28.1,665,,5.079,n/a,Lineup Regular
+27769,CHC,Pete Crow-Armstrong,CF,23.0,560,,0.170,2,Lineup Regular
+30116,CHC,Seiya Suzuki,DH,30.6,560,,3.000,3,Lineup Regular
+21479,CHC,Nico Hoerner,2B,27.8,560,,5.014,n/a,Lineup Regular
+sa3022615,CHC,Matt Shaw,3B,23.3,518,,,Dec'26,Lineup Regular
+21693,CHC,Miguel Amaya,C,26.0,326,,1.130,0,Lineup Regular
+26319,CHC,Michael Busch,1B,27.3,553,,1.045,2,Platoon vs R
+5235,CHC,Justin Turner,INF,40.3,357,,14.045,n/a,Platoon vs L
+33829,CHC,Shota Imanaga,SP,31.5,,172,1.000,n/a,Starting Rotation
+17312,CHC,Justin Steele,SP,29.7,,166,3.143,0,Starting Rotation
+11674,CHC,Jameson Taillon,SP,33.3,,165,8.110,n/a,Starting Rotation
+15440,CHC,Matthew Boyd,SP,34.1,,124,8.057,n/a,Starting Rotation
+12317,CHC,Colin Rea,SP,34.7,,122,5.057,n/a,Starting Rotation
+13620,CHC,Carson Kelly,C,30.7,301,,6.161,n/a,Bench
+12037,CHC,Jon Berti,INF/OF,35.1,182,,5.168,n/a,Bench
+20536,CHC,Vidal Bruján,OF/INF,27.1,112,,2.014,0,Bench
+7005,CHC,Ryan Pressly,RP,36.2,,61,11.039,n/a,Closer
+26413,CHC,Porter Hodge,RP,24.0,,63,0.125,3,Setup Man
+5615,CHC,Ryan Brasier,RP,37.5,,58,7.094,n/a,Setup Man
+19976,CHC,Tyson Miller,RP,29.6,,62,1.085,0,Middle Reliever
+10078,CHC,Caleb Thielbar,RP,38.1,,56,6.131,n/a,Middle Reliever
+16703,CHC,Julian Merryweather,RP,33.4,,54,4.109,0,Middle Reliever
+20160,CHC,Nate Pearson,RP,28.6,,52,4.005,1,Middle Reliever
+19795,CHC,Keegan Thompson,RP,30.0,,66,3.006,0,Long Reliever
+21741,CHC,Javier Assad,SP,27.6,,137,2.027,2,Projected Injured List
+sa3014441,CHC,Gage Workman,INF,25.4,70,,0.000,n/a,Bench Candidate
+25971,CHC,Kevin Alcántara,OF,22.7,49,,0.005,1,Bench Candidate
+15674,CHC,Reese McGuire,C,30.0,13,,4.155,0,Bench Candidate
+16623,CHC,Greg Allen,OF,32.0,,,3.127,0,Bench Candidate
+sa3017295,CHC,James Triantos,INF/OF,22.1,,,,Dec'25,Lineup/Bench Candidate
+sa3017510,CHC,Christian Franklin,OF,25.3,,,,R5,Bench Candidate
+20203,CHC,Eli Morgan,RP,28.8,,50,3.091,1,Bullpen Candidate
+23590,CHC,Ben Brown,SP/RP,25.5,,45,1.000,2,Rotation/Bullpen Candidate
+30094,CHC,Jordan Wicks,SP,25.5,,45,1.037,3,Rotation/Bullpen Candidate
+27914,CHC,Daniel Palencia,RP,25.1,,38,0.159,2,Bullpen Candidate
+15734,CHC,Brad Keller,SP/RP,29.6,,16,6.062,n/a,Bullpen Candidate
+28036,CHC,Luke Little,RP,24.6,,40,1.020,2,Optioned
+24930,CHC,Ethan Roberts,RP,27.7,,35,2.075,2,Optioned
+18769,CHC,Cody Poteet,SP/RP,30.6,,30,2.095,2,Optioned
+26213,CHC,Caleb Kilian,SP/RP,27.8,,28,0.153,1,Optioned
+30106,CHC,Jack Neely,RP,24.8,,26,0.034,2,Optioned
+25427,CHC,Gavin Hollowell,RP,27.3,,6,0.095,1,Optioned
+sa3014465,CHC,Owen Caissie,OF,22.7,35,,0.000,3,Optioned
+sa3016976,CHC,Ben Cowles,INF,25.1,,,0.000,3,Optioned
+19309,CHC,Trevor Richards,RP,31.8,,22,6.070,n/a,Reassigned
+13896,CHC,Chris Flexen,SP,30.7,,8,4.099,0,Reassigned
+13768,CHC,Travis Jankowski,OF,33.7,21,,7.153,n/a,Reassigned
+19339,CHC,Nicky Lopez,INF,30.0,7,,5.139,n/a,Reassigned
+sa3022603,CHC,Brett Bateman,OF,23.0,,,,Dec'26,Reassigned
+18519,CHC,Phil Bickford,RP,29.7,,,2.162,0,Reassigned
+sa3020797,CHC,Brandon Birdsell,SP,25.0,,,,Dec'25,Reassigned
+23460,CHC,Brandon Hughes,RP,29.3,,,2.011,2,Reassigned
+15100,CHC,Ben Heller,RP,33.6,,,3.165,0,Reassigned
+sa3020860,CHC,Cade Horton,SP,23.6,,,,Dec'25,Reassigned
+21189,CHC,Brooks Kriske,RP,31.1,,,0.121,0,Reassigned
+sa3006220,CHC,Pablo Aliendo,C,23.8,,,,R5,Reassigned
+10642,CHC,Carlos Pérez,C,34.4,,,3.167,0,Reassigned
+20383,CHC,Antonio Santos,SP,28.4,,,0.080,1,Reassigned
+sa3017601,CHC,Riley Martin,RP,27.0,,,,R5,Reassigned
+sa3015713,CHC,Moises Ballesteros,C,21.3,,,,Dec'25,Reassigned
+sa3022864,CHC,Jonathon Long,INF/OF,23.1,,,,Dec'26,Reassigned
+20043,CHW,Luis Robert Jr.,CF,27.6,651,,5.000,n/a,Lineup Regular
+26197,CHW,Andrew Vaughn,1B,26.9,623,,4.000,3,Lineup Regular
+20178,CHW,Miguel Vargas,3B,25.3,497,,1.101,0,Lineup Regular
+sa3017170,CHW,Colson Montgomery,SS,23.0,448,,0.000,3,Lineup Regular
+15274,CHW,Mike Tauchman,RF,34.3,399,,4.143,0,Lineup Regular
+22896,CHW,Lenyn Sosa,DH,25.1,308,,1.044,0,Lineup Regular
+25543,CHW,Korey Lee,C,26.6,186,,1.071,1,Lineup Regular
+19734,CHW,Josh Rojas,2B,30.7,336,,4.126,1,Platoon vs R
+11615,CHW,Brandon Drury,INF,32.5,266,,8.001,n/a,Platoon vs L
+14128,CHW,Joey Gallo,LF,31.3,182,,8.103,n/a,Platoon vs R
+11489,CHW,Michael A. Taylor,OF,34.0,168,,9.129,n/a,Platoon vs L
+31730,CHW,Jonathan Cannon,SP,24.6,,157,0.127,2,Starting Rotation
+6902,CHW,Martín Pérez,SP,33.9,,136,12.038,n/a,Starting Rotation
+21448,CHW,Davis Martin,SP,28.2,,123,0.117,1,Starting Rotation
+29878,CHW,Sean Burke,SP,25.2,,120,0.020,3,Starting Rotation
+19990,CHW,Bryse Wilson,SP,27.2,,97,4.036,0,Starting Rotation
+19318,CHW,Matt Thaiss,C,29.8,109,,3.038,0,Bench
+26149,CHW,Dominic Fletcher,OF,27.5,105,,1.040,1,Bench
+24737,CHW,Gus Varland,RP,28.3,,64,0.169,2,Closer
+16201,CHW,Justin Anderson,RP,32.4,,63,3.122,2,Closer
+29530,CHW,Fraser Ellard,RP,27.3,,62,0.062,3,Closer
+29950,CHW,Jordan Leasure,RP,26.6,,60,0.162,2,Closer
+12808,CHW,Mike Clevinger,RP,34.2,,48,8.008,n/a,Closer
+17964,CHW,Tyler Gilbert,RP,31.2,,62,1.076,1,Middle Reliever
+25174,CHW,Penn Murfee,RP,30.9,,54,2.169,3,Middle Reliever
+sa3020469,CHW,Shane Smith,RP,24.9,,84,0.000,n/a,Long Reliever
+31967,CHW,Drew Thorpe,SP,24.4,,78,0.111,3,Projected Injured List
+17901,CHW,Andrew Benintendi,OF,30.7,490,,8.062,n/a,Projected Injured List
+16153,CHW,Austin Slater,OF,32.2,210,,6.147,n/a,Projected Injured List
+22932,CHW,Prelander Berroa,RP,24.9,,,0.045,1,Projected Injured List
+19205,CHW,Jesse Scholtens,SP,30.9,,,1.125,2,60-Day IL
+29823,CHW,Ky Bush,SP/RP,25.3,,,0.056,2,60-Day IL
+sa3020011,CHW,Chase Meidroth,INF,23.6,336,,,Dec'25,Lineup/Bench Candidate
+31394,CHW,Brooks Baldwin,INF,24.6,189,,0.073,3,Lineup/Bench Candidate
+30162,CHW,Oscar Colás,OF,26.5,189,,0.147,1,Lineup/Bench Candidate
+sa3022886,CHW,Kyle Teel,C,23.1,179,,,Dec'26,Lineup Candidate
+sa3015239,CHW,Edgar Quero,C,21.9,154,,,Dec'25,Lineup Candidate
+25621,CHW,Bryan Ramos,3B,23.0,119,,0.053,1,Lineup/Bench Candidate
+23296,CHW,Jacob Amaya,INF,26.5,35,,0.054,0,Lineup/Bench Candidate
+sa3020188,CHW,Tim Elko,1B,26.2,28,,,Dec'25,Lineup/Bench Candidate
+13338,CHW,Omar Narváez,C,33.1,19,,7.159,n/a,Lineup/Bench Candidate
+21635,CHW,Nick Maton,INF/OF,28.1,14,,2.017,0,Bench Candidate
+27471,CHW,Zach DeLoach,OF,26.6,,,0.042,2,Bench Candidate
+22169,CHW,Cal Mitchell,OF,26.2,,,0.100,1,Lineup/Bench Candidate
+19877,CHW,Tristan Gray,INF,29.0,,,0.057,2,Lineup/Bench Candidate
+19966,CHW,Bobby Dalbec,INF/OF,29.7,,,2.169,0,Lineup/Bench Candidate
+25822,CHW,Andre Lipcius,INF,26.8,,,0.031,2,Bench Candidate
+20311,CHW,Corey Julks,OF,29.0,,,1.105,1,Bench Candidate
+29833,CHW,Nick Nastrini,SP,25.1,,84,0.058,2,Rotation/Bullpen Candidate
+16061,CHW,Cam Booser,RP,32.8,,58,0.150,3,Bullpen Candidate
+27472,CHW,Jared Shuster,SP/RP,26.6,,44,1.066,1,Bullpen Candidate
+20151,CHW,James Karinchak,RP,29.5,,40,4.099,1,Bullpen Candidate
+20353,CHW,Steven Wilson,RP,30.5,,37,3.000,3,Bullpen Candidate
+sa3020388,CHW,Mason Adams,SP,25.0,,27,,Dec'25,Rotation/Bullpen Candidate
+27668,CHW,Brandon Eisert,RP,27.1,,25,0.034,2,Bullpen Candidate
+22224,CHW,Jonathan Heasley,SP/RP,28.1,,23,1.029,0,Rotation/Bullpen Candidate
+16507,CHW,Dan Altavilla,RP,32.5,,21,4.153,0,Bullpen Candidate
+sa3020742,CHW,Peyton Pallette,SP/RP,23.8,,,,Dec'25,Rotation/Bullpen Candidate
+26907,CHW,Jairo Iriarte,SP/RP,23.2,,36,0.029,2,Optioned
+27590,CHW,Jake Eder,SP/RP,26.6,,14,0.018,2,Optioned
+sa3008687,CHW,Wikelman Gonzalez,SP,23.0,,8,0.000,2,Optioned
+sa3009237,CHW,Juan Carela,SP/RP,23.2,,,0.000,3,Optioned
+sa3020949,CHW,Noah Schultz,SP,21.6,,39,,Dec'26,Reassigned
+sa3025544,CHW,Hagen Smith,SP,21.6,,,,Dec'27,Reassigned
+sa3020592,CHW,Eric Adler,RP,24.4,,,,Dec'25,Reassigned
+sa3038253,CHW,Braden Montgomery,OF,21.9,,,,Dec'27,Reassigned
+sa1170436,CHW,Trey McGough,RP,26.9,,,,R5,Reassigned
+sa3017041,CHW,Adam Hackenberg,C,25.5,,,,R5,Reassigned
+sa3015178,CHW,Wilfred Veras,OF,22.3,,,,R5,Reassigned
+sa3004691,CHW,Jacob Gonzalez,INF,26.7,,,,R5,Reassigned
+sa3023634,CHW,Grant Taylor,SP,22.8,,,,Dec'26,Reassigned
+26668,CIN,Elly De La Cruz,SS,23.2,665,,1.118,2,Lineup Regular
+29695,CIN,Matt McLain,2B,25.6,595,,1.140,3,Lineup Regular
+19522,CIN,TJ Friedl,CF,29.6,567,,2.112,2,Lineup Regular
+13621,CIN,Jeimer Candelario,1B,31.3,518,,7.038,n/a,Lineup Regular
+19363,CIN,Austin Hays,LF,29.7,504,,5.057,n/a,Lineup Regular
+17988,CIN,Tyler Stephenson,C,28.6,490,,4.056,2,Lineup Regular
+19955,CIN,Gavin Lux,3B,27.3,490,,4.114,2,Platoon vs R
+19260,CIN,Jake Fraley,DH,29.8,448,,4.097,2,Platoon vs R
+30011,CIN,Christian Encarnacion-Strand,1B,25.3,364,,1.077,3,Platoon vs L
+20321,CIN,Stuart Fairchild,OF,29.0,224,,2.114,0,Platoon vs L
+19997,CIN,Santiago Espinal,INF/OF,30.3,203,,4.149,2,Platoon vs L
+21853,CIN,Will Benson,RF,26.7,196,,2.042,2,Platoon vs R
+22182,CIN,Hunter Greene,SP,25.6,,169,3.000,3,Starting Rotation
+12730,CIN,Nick Martinez,SP,34.6,,168,6.002,n/a,Starting Rotation
+25377,CIN,Brady Singer,SP,28.6,,167,4.156,2,Starting Rotation
+29911,CIN,Andrew Abbott,SP,25.8,,133,1.119,3,Starting Rotation
+26378,CIN,Nick Lodolo,SP,27.1,,132,3.000,3,Starting Rotation
+16725,CIN,Jose Trevino,C,32.3,262,,5.063,n/a,Bench
+21132,CIN,Alexis Díaz,RP,28.4,,65,3.000,3,Closer
+14771,CIN,Emilio Pagán,RP,33.8,,64,7.091,n/a,Setup Man
+13449,CIN,Taylor Rogers,RP,34.2,,62,8.145,n/a,Setup Man
+13942,CIN,Brent Suter,RP,35.5,,63,7.161,n/a,Middle Reliever
+19926,CIN,Tony Santillan,RP,27.9,,58,2.099,0,Middle Reliever
+14993,CIN,Scott Barlow,RP,32.2,,58,6.026,n/a,Middle Reliever
+14874,CIN,Sam Moll,RP,33.2,,55,3.075,1,Middle Reliever
+27552,CIN,Graham Ashcraft,RP,27.1,,53,2.130,2,Long Reliever
+26323,CIN,Spencer Steer,INF/OF,27.3,497,,2.035,3,Projected Injured List
+25463,CIN,Brandon Williamson,SP,26.9,,,1.139,2,Projected Injured List
+30031,CIN,Julian Aguiar,SP,23.8,,,0.042,3,60-Day IL
+26517,CIN,Noelvi Marte,INF,23.4,154,,0.139,2,Lineup/Bench Candidate
+27599,CIN,Jacob Hurtubise,OF,27.2,21,,0.040,2,Lineup/Bench Candidate
+29487,CIN,Blake Dunn,OF,26.5,21,,0.045,2,Lineup/Bench Candidate
+sa1169610,CIN,Tyler Callihan,INF/OF,24.7,7,,0.000,3,Lineup/Bench Candidate
+sa3016966,CIN,Cooper Bowman,INF/OF,25.1,7,,0.000,n/a,Bench Candidate
+15271,CIN,Austin Wynns,C,34.2,6,,4.017,0,Bench Candidate
+27493,CIN,Rece Hinds,OF,24.5,,,0.053,2,Lineup/Bench Candidate
+sa3020130,CIN,Sal Stewart,INF,21.3,,,,Dec'26,Lineup Candidate
+sa3007973,CIN,Will Banfield,C,25.3,,,,R5,Bench Candidate
+33876,CIN,Rhett Lowder,SP,23.0,,117,0.031,3,Rotation Candidate
+27685,CIN,Carson Spiers,SP/RP,27.3,,46,0.157,2,Rotation/Bullpen Candidate
+27765,CIN,Yosver Zulueta,RP,27.1,,46,0.032,1,Bullpen Candidate
+sa3017963,CIN,Chase Petty,SP,21.9,,35,,Dec'25,Rotation Candidate
+sa3020255,CIN,Zach Maxwell,RP,24.1,,33,,Dec'25,Bullpen Candidate
+27649,CIN,Connor Phillips,SP/RP,23.8,,22,0.027,2,Rotation/Bullpen Candidate
+17485,CIN,Albert Abreu,RP,29.5,,14,2.118,0,Bullpen Candidate
+8110,CIN,Bryan Shaw,RP,37.3,,13,11.086,n/a,Bullpen Candidate
+18333,CIN,Alex Young,RP,31.5,,11,4.085,0,Bullpen Candidate
+24581,CIN,Lyon Richardson,SP/RP,25.1,,10,0.037,1,Rotation/Bullpen Candidate
+sa3008329,CIN,Lenny Torres Jr.,RP,24.4,,6,,R5,Bullpen Candidate
+19268,CIN,Justin Dunn,SP/RP,29.5,,6,4.020,3,Rotation/Bullpen Candidate
+25481,CIN,Joe La Sorsa,RP,26.9,,,0.132,2,Bullpen Candidate
+17871,CIN,Ian Gibaut,RP,31.3,,,3.077,0,Bullpen Candidate
+sa3010130,CIN,Luis Mey,RP,23.7,,42,0.000,3,Optioned
+18335,CIN,Josh Staumont,RP,31.2,,28,5.028,1,Reassigned
+sa3015828,CIN,Hector Rodriguez,OF,21.0,,,,Dec'25,Reassigned
+sa1169627,CIN,Ivan Johnson,OF/INF,26.4,,,,R5,Reassigned
+sa3015331,CIN,Jose Acuna,SP,22.4,,,,R5,Reassigned
+sa3028086,CIN,Chase Burns,SP,22.1,,,,Dec'27,Reassigned
+sa3017043,CIN,Michael Trautwein,C/LF,25.5,,,,R5,Reassigned
+sa3020131,CIN,Cam Collier,3B,20.3,,,,Dec'26,Reassigned
+sa3017626,CIN,Edwin Arroyo,INF,21.5,,,,Dec'25,Reassigned
+8779,CIN,Wade Miley,SP,38.3,,52,13.025,n/a,Projected Injured List (MiLB)
+13510,CLE,José Ramírez,3B,32.5,672,,10.074,n/a,Lineup Regular
+24610,CLE,Steven Kwan,LF,27.5,672,,3.000,3,Lineup Regular
+16939,CLE,Lane Thomas,CF,29.5,595,,5.014,n/a,Lineup Regular
+2396,CLE,Carlos Santana,1B,38.9,588,,14.115,n/a,Lineup Regular
+23690,CLE,Brayan Rocchio,SS,24.2,581,,1.037,1,Lineup Regular
+21865,CLE,Bo Naylor,C,25.0,435,,1.113,2,Lineup Regular
+22563,CLE,Gabriel Arias,2B,25.0,266,,1.124,0,Lineup Regular
+29794,CLE,Kyle Manzardo,DH,24.6,427,,0.073,2,Platoon vs R
+24257,CLE,Jhonkensy Noel,1B/OF,23.6,329,,0.096,1,Platoon vs L
+25660,CLE,Will Brennan,RF,27.1,280,,2.015,3,Platoon vs R
+22530,CLE,Johnathan Rodriguez,OF,25.3,147,,0.024,2,Platoon vs L
+30134,CLE,Tanner Bibee,SP,26.0,,167,2.000,3,Starting Rotation
+27646,CLE,Luis L. Ortiz,SP,26.1,,145,1.121,2,Starting Rotation
+30122,CLE,Gavin Williams,SP,25.6,,132,1.103,3,Starting Rotation
+14932,CLE,Ben Lively,SP,33.0,,131,2.133,0,Starting Rotation
+18000,CLE,Triston McKenzie,SP,27.6,,119,3.168,0,Starting Rotation
+22532,CLE,Tyler Freeman,INF/OF,25.8,245,,2.046,1,Bench
+12976,CLE,Austin Hedges,C,32.6,192,,8.166,n/a,Bench
+21032,CLE,Emmanuel Clase,RP,27.0,,66,4.059,3,Closer
+27867,CLE,Cade Smith,RP,25.8,,68,1.000,3,Setup Man
+25636,CLE,Hunter Gaddis,RP,26.9,,65,1.073,1,Setup Man
+25139,CLE,Tim Herrin,RP,28.4,,62,1.077,2,Middle Reliever
+13892,CLE,Paul Sewald,RP,34.8,,59,6.072,n/a,Middle Reliever
+sa3018110,CLE,Doug Nikhazy,RP,25.6,,56,0.000,3,Middle Reliever
+33834,CLE,Andrew Walters,RP,24.2,,50,0.018,3,Middle Reliever
+13619,CLE,Jakob Junis,RP,32.5,,70,7.002,n/a,Long Reliever
+19427,CLE,Shane Bieber,SP,29.8,,94,6.097,n/a,Projected Injured List
+24978,CLE,Erik Sabrowski,RP,27.4,,46,0.033,3,Projected Injured List
+19932,CLE,Trevor Stephan,RP,29.3,,36,4.000,3,Projected Injured List
+24934,CLE,David Fry,UTL,29.3,175,,1.154,3,60-Day IL
+16269,CLE,John Means,SP,31.9,,,6.007,n/a,Projected Injured List
+18548,CLE,Sam Hentges,RP,28.6,,,3.157,0,60-Day IL
+sa3009808,CLE,Juan Brito,INF,23.5,252,,0.000,1,Lineup/Bench Candidate
+25180,CLE,Daniel Schneemann,INF/OF,28.1,105,,0.120,3,Lineup/Bench Candidate
+26540,CLE,Angel Martínez,OF/INF,23.1,98,,0.118,1,Lineup/Bench Candidate
+15055,CLE,Dom Nuñez,C,30.1,13,,1.098,1,Bench Candidate
+sa3014461,CLE,Petey Halpin,OF,22.8,7,,0.000,3,Lineup/Bench Candidate
+sa3017513,CLE,Kahlil Watson,OF/INF,21.9,,,,Dec'25,Lineup/Bench Candidate
+sa3010037,CLE,Yordys Valdes,INF,23.6,,,,R5,Lineup/Bench Candidate
+sa3006674,CLE,Jake Anchia,C,28.0,,,,R5,Bench Candidate
+sa3008768,CLE,Dayan Frias,INF,22.7,,,,R5,Lineup/Bench Candidate
+sa3014830,CLE,Micah Pries,1B/OF,27.0,,,,R5,Lineup/Bench Candidate
+sa3014544,CLE,Milan Tolentino,INF,23.3,,,,R5,Lineup/Bench Candidate
+sa3009871,CLE,Will Wilson,INF,26.6,,,,R5,Lineup/Bench Candidate
+sa3023069,CLE,Cooper Ingle,C,23.0,,,,Dec'26,Bench Candidate
+sa3019982,CLE,Kody Huff,C,24.2,,,,Dec'25,Bench Candidate
+23335,CLE,Joey Cantillo,SP,25.2,,94,0.031,1,Rotation/Bullpen Candidate
+27500,CLE,Slade Cecconi,SP,25.7,,57,0.155,1,Rotation/Bullpen Candidate
+27589,CLE,Logan Allen,SP,26.5,,34,1.093,1,Rotation/Bullpen Candidate
+sa3010118,CLE,Andrew Misiaszek,RP,27.5,,30,,R5,Bullpen Candidate
+21997,CLE,Luis Frías,RP,26.8,,27,1.072,0,Bullpen Candidate
+sa3018280,CLE,Ryan Webb,SP,25.9,,20,,R5,Rotation/Bullpen Candidate
+11189,CLE,Vince Velasquez,SP,32.8,,16,8.086,n/a,Rotation/Bullpen Candidate
+sa3017850,CLE,Will Dion,SP,24.9,,12,,R5,Rotation/Bullpen Candidate
+sa3018169,CLE,Jack Leftwich,RP,26.5,,,,R5,Bullpen Candidate
+18694,CLE,Kolby Allard,SP,27.6,,,4.021,0,Rotation/Bullpen Candidate
+sa3010837,CLE,Bradley Hanner,RP,26.1,,,,R5,Bullpen Candidate
+21324,CLE,Parker Mushinski,RP,29.3,,,1.049,0,Bullpen Candidate
+sa3010315,CLE,Zak Kent,SP,27.0,,,0.000,1,Rotation/Bullpen Candidate
+sa3014451,CLE,Tanner Burns,RP,26.2,,,,R5,Bullpen Candidate
+sa3015033,CLE,Mason Hickman,RP,26.2,,,,R5,Bullpen Candidate
+sa3010299,CLE,Nic Enright,RP,28.2,,41,0.000,3,Optioned
+sa3018178,CLE,Franco Aleman,RP,24.7,,22,0.000,3,Optioned
+sa3011495,CLE,Daniel Espino,SP,24.2,,,0.000,2,Optioned
+sa3021053,CLE,Chase DeLauter,OF,23.4,49,,,Dec'25,Reassigned
+sa3006872,CLE,George Valera,OF,24.3,,,0.000,1,Reassigned
+24064,COL,Ezequiel Tovar,SS,23.6,686,,2.014,2,Lineup Regular
+25479,COL,Brenton Doyle,CF,26.8,665,,1.161,2,Lineup Regular
+15112,COL,Ryan McMahon,3B,30.2,637,,7.006,n/a,Lineup Regular
+25845,COL,Michael Toglia,1B,26.6,560,,1.077,1,Lineup Regular
+16426,COL,Thairo Estrada,2B,29.0,518,,4.153,0,Lineup Regular
+15429,COL,Kris Bryant,DH,33.2,476,,9.171,n/a,Lineup Regular
+31431,COL,Jordan Beck,RF,23.9,441,,0.153,3,Lineup Regular
+13723,COL,Jacob Stallings,C,35.2,294,,6.149,n/a,Lineup Regular
+20529,COL,Nolan Jones,LF,26.8,490,,2.007,0,Platoon vs R
+14813,COL,Kyle Farmer,INF,34.6,273,,6.129,n/a,Platoon vs L
+21446,COL,Ryan Feltner,SP,28.5,,170,2.143,2,Starting Rotation
+15038,COL,Germán Márquez,SP,30.0,,156,8.027,n/a,Starting Rotation
+16256,COL,Kyle Freeland,SP,31.8,,152,7.144,n/a,Starting Rotation
+15488,COL,Antonio Senzatela,SP,30.1,,139,7.106,n/a,Starting Rotation
+26419,COL,Bradley Blalock,SP,24.2,,49,0.057,2,Starting Rotation
+29715,COL,Hunter Goodman,UTL,25.4,319,,1.010,2,Bench
+17954,COL,Sam Hilliard,OF,31.0,203,,4.023,0,Bench
+21270,COL,Sean Bouchard,OF,28.8,182,,1.147,1,Bench
+18297,COL,Tyler Kinley,RP,34.1,,64,6.014,n/a,Closer
+33294,COL,Seth Halvorsen,RP,25.1,,63,0.031,3,Setup Man
+24203,COL,Luis Peralta,RP,24.2,,61,0.038,3,Setup Man
+24614,COL,Victor Vodnik,RP,25.4,,66,1.024,3,Middle Reliever
+21267,COL,Jake Bird,RP,29.3,,61,2.092,2,Middle Reliever
+10591,COL,Scott Alexander,RP,35.7,,56,7.080,n/a,Middle Reliever
+17556,COL,Jimmy Herget,RP,31.5,,50,3.069,0,Middle Reliever
+27669,COL,Tanner Gordon,RP,27.4,,41,0.047,2,Long Reliever
+16561,COL,Austin Gomber,SP,31.3,,143,5.111,n/a,Projected Injured List
+27608,COL,Jeff Criswell,RP,26.0,,,0.040,3,Projected Injured List
+27763,COL,Drew Romo,C,23.5,243,,0.045,3,Lineup/Bench Candidate
+sa3014516,COL,Zac Veen,OF,23.2,154,,0.000,3,Lineup Candidate
+27962,COL,Adael Amador,2B,21.9,28,,0.024,2,Lineup/Bench Candidate
+20003,COL,Keston Hiura,INF,28.6,14,,3.032,0,Lineup/Bench Candidate
+24655,COL,Owen Miller,INF/OF,28.3,7,,2.108,0,Bench Candidate
+sa3015648,COL,Yanquiel Fernandez,OF,22.2,,,0.000,2,Lineup/Bench Candidate
+15941,COL,Austin Nola,C,35.2,,,4.051,0,Bench Candidate
+sa3017164,COL,Braxton Fulford,C,26.2,,,,R5,Bench Candidate
+12005,COL,Nick Martini,OF/1B,34.7,,,2.118,0,Lineup/Bench Candidate
+sa3022559,COL,Kyle Karros,3B,22.6,,,,Dec'26,Bench Candidate
+25524,COL,Aaron Schunk,INF,27.6,,,0.094,3,Bench Candidate
+sa3023361,COL,Chase Dollander,SP,23.4,,86,,Dec'26,Rotation Candidate
+26790,COL,Angel Chivilli,RP,22.6,,53,0.082,2,Bullpen Candidate
+21290,COL,Lucas Gilbreath,RP,29.0,,46,3.148,2,Bullpen Candidate
+30250,COL,Jaden Hill,RP,25.2,,42,0.025,3,Bullpen Candidate
+17496,COL,Diego Castillo,RP,31.1,,34,4.169,1,Bullpen Candidate
+sa3020560,COL,Zach Agnos,RP,24.6,,26,,Dec'25,Bullpen Candidate
+sa3020473,COL,Carson Palmquist,SP,24.4,,16,,Dec'25,Rotation/Bullpen Candidate
+18674,COL,Jake Woodford,SP/RP,28.4,,9,3.096,0,Rotation/Bullpen Candidate
+30008,COL,Evan Justice,RP,26.7,,48,0.042,1,Optioned
+26952,COL,Anthony Molina,SP/RP,23.2,,22,1.000,3,Optioned
+sa3003159,COL,Juan Mejia,RP,24.7,,21,0.000,2,Optioned
+25448,COL,Greg Jones,OF/INF,27.0,49,,0.030,1,Optioned
+sa828460,COL,Jefry Yan,RP,28.6,,31,,R5,Reassigned
+sa3020661,COL,Gabriel Hughes,SP,23.5,,18,,Dec'25,Reassigned
+21281,COL,Tommy Doyle,RP,28.9,,11,0.057,1,Reassigned
+22690,COL,Jack O'Loughlin,SP/RP,25.0,,8,0.027,2,Reassigned
+sa3022596,COL,Cole Carrigg,OF/INF,22.8,,,,Dec'26,Reassigned
+sa3015846,COL,Bryant Betancourt,C,21.4,,,,Dec'25,Reassigned
+sa3005598,COL,Julio Carreras,INF,25.2,,,0.000,1,Reassigned
+sa3019999,COL,Sterlin Thompson,OF/INF,23.7,,,,Dec'25,Reassigned
+sa3023162,COL,Sean Sullivan,SP,22.6,,,,Dec'26,Reassigned
+sa3017169,COL,Benny Montgomery,OF,22.5,,,,Dec'25,Reassigned
+sa3005624,COL,Ronaiker Palma,C,25.2,,,,R5,Reassigned
+sa3020206,COL,Ryan Ritter,INF,24.3,,,,Dec'25,Reassigned
+16997,DET,Gleyber Torres,2B,28.2,658,,6.162,n/a,Lineup Regular
+25976,DET,Riley Greene,LF,24.4,644,,2.110,3,Lineup Regular
+27899,DET,Colt Keith,1B,23.6,539,,1.000,3,Lineup Regular
+25961,DET,Kerry Carpenter,RF,27.5,518,,2.057,3,Lineup Regular
+19452,DET,Jake Rogers,C,29.9,384,,4.040,1,Lineup Regular
+27465,DET,Spencer Torkelson,DH,25.5,357,,2.076,1,Lineup Regular
+22857,DET,Wenceel Pérez,CF,25.4,287,,1.000,2,Lineup Regular
+31437,DET,Jace Jung,3B,24.4,357,,0.045,3,Platoon vs R
+29575,DET,Trey Sweeney,SS,24.9,350,,0.045,3,Platoon vs R
+12979,DET,Javier Báez,INF,32.3,343,,9.089,n/a,Platoon vs L
+18819,DET,Andy Ibáñez,INF/OF,31.9,196,,2.170,1,Platoon vs L
+22267,DET,Tarik Skubal,SP,28.3,,198,4.114,2,Starting Rotation
+17479,DET,Jack Flaherty,SP,29.4,,164,7.006,n/a,Starting Rotation
+24968,DET,Reese Olson,SP,25.6,,134,1.123,2,Starting Rotation
+20492,DET,Casey Mize,SP,27.9,,118,4.111,3,Starting Rotation
+18498,DET,Kenta Maeda,SP,36.9,,89,9.000,n/a,Starting Rotation
+27464,DET,Dillon Dingler,C,26.5,237,,0.063,2,Bench
+19392,DET,Zach McKinstry,INF/OF,29.9,196,,3.099,0,Bench
+26231,DET,Tyler Holton,RP,28.7,,72,2.047,2,Closer
+26079,DET,Beau Brieske,RP,26.9,,66,2.134,2,Closer
+19531,DET,Jason Foley,RP,29.4,,63,3.033,2,Closer
+19769,DET,Will Vest,RP,29.8,,68,3.100,2,Middle Reliever
+11384,DET,Tommy Kahnle,RP,35.6,,58,9.131,n/a,Middle Reliever
+12777,DET,John Brebbia,RP,34.8,,57,7.078,n/a,Middle Reliever
+12988,DET,Andrew Chafin,RP,34.7,,55,10.020,n/a,Middle Reliever
+30133,DET,Brant Hurter,RP,26.5,,60,0.057,3,Long Reliever
+6562,DET,Alex Cobb,SP,37.4,,95,13.061,n/a,Projected Injured List
+19883,DET,Alex Lange,RP,29.4,,39,2.169,2,60-Day IL
+26048,DET,Sawyer Gipson-Long,SP,27.2,,37,1.022,3,60-Day IL
+30140,DET,Ty Madden,SP/RP,25.0,,21,0.035,3,Projected Injured List
+23800,DET,Parker Meadows,OF,25.3,525,,0.169,1,Projected Injured List
+21558,DET,Matt Vierling,OF/INF,28.5,476,,3.026,1,Projected Injured List
+18413,DET,José Urquidy,SP,29.9,,,5.049,n/a,Projected Injured List
+29606,DET,Justyn-Henry Malloy,OF/1B,25.1,91,,0.119,3,Lineup/Bench Candidate
+sa3017863,DET,Hao-Yu  Lee,INF,22.1,35,,,Dec'25,Lineup/Bench Candidate
+18872,DET,Jahmai Jones,INF/OF,27.6,21,,1.033,0,Bench Candidate
+13755,DET,Tomás Nido,C,30.9,19,,5.121,n/a,Bench Candidate
+25867,DET,Ryan Kreidler,INF/OF,27.3,7,,0.122,1,Bench Candidate
+sa3010703,DET,Andrew Navigato,INF,26.8,,,,R5,Bench Candidate
+sa3015790,DET,Thayron Liranzo,C,21.7,,,,Dec'25,Bench Candidate
+19422,DET,Brian Serven,C,29.8,,,1.089,1,Bench Candidate
+20054,DET,Bligh Madris,1B/OF,29.0,,,0.144,1,Bench Candidate
+30203,DET,Jackson Jobe,SP,22.6,,104,0.006,3,Rotation Candidate
+22304,DET,Brenan Hanifee,RP,26.8,,44,0.072,3,Bullpen Candidate
+20045,DET,Sean Guenther,RP,29.2,,43,1.124,3,Bullpen Candidate
+22630,DET,Keider Montero,SP/RP,24.7,,31,0.091,2,Rotation/Bullpen Candidate
+13932,DET,Dietrich Enns,SP/RP,33.8,,12,0.059,0,Rotation/Bullpen Candidate
+21866,DET,Jordan Balazovic,SP/RP,26.5,,8,0.065,0,Rotation/Bullpen Candidate
+17381,DET,Matt Gage,RP,32.1,,,0.063,0,Bullpen Candidate
+26024,DET,Brendan White,RP,26.3,,,0.159,2,Bullpen Candidate
+20369,DET,Matt Manning,SP,27.1,,33,2.112,1,Optioned
+sa3011201,DET,Tyler Owens,RP,24.2,,32,0.000,3,Optioned
+sa3016946,DET,Chase Lee,RP,26.6,,18,0.000,3,Optioned
+sa3018117,DET,Tyler Mattison,RP,25.5,,16,0.000,3,Optioned
+sa3015223,DET,Wilmer Flores,RP,24.0,,6,0.000,2,Reassigned
+sa3005554,DET,Eddys Leonard,INF,24.3,,,0.000,1,Reassigned
+sa3003262,DET,Eliezer Alfonzo,C,25.5,,,,R5,Reassigned
+23391,DET,Ricky Vanasco,RP,26.4,,,0.039,1,Reassigned
+sa918026,DET,Wilkel Hernandez,SP,25.9,,,,R5,Reassigned
+22187,DET,Ryan Miller,RP,28.9,,,0.034,3,Reassigned
+22168,DET,Akil Baddoo,OF,26.6,,,2.169,1,Projected Injured List (MiLB)
+21636,HOU,Jeremy Peña,SS,27.5,679,,3.000,3,Lineup Regular
+5417,HOU,Jose Altuve,LF,34.8,658,,13.072,n/a,Lineup Regular
+13419,HOU,Christian Walker,1B,33.9,644,,6.124,n/a,Lineup Regular
+20036,HOU,Isaac Paredes,3B,26.1,609,,3.160,0,Lineup Regular
+19556,HOU,Yordan Alvarez,DH,27.7,609,,5.113,n/a,Lineup Regular
+23003,HOU,Yainer Diaz,C,26.5,574,,2.035,3,Lineup Regular
+19599,HOU,Chas McCormick,RF,29.9,448,,4.000,3,Lineup Regular
+20308,HOU,Jake Meyers,CF,28.7,434,,3.044,2,Lineup Regular
+17907,HOU,Brendan Rodgers,2B,28.6,357,,5.075,n/a,Lineup Regular
+17295,HOU,Framber Valdez,SP,31.3,,181,5.163,n/a,Starting Rotation
+25880,HOU,Hunter Brown,SP,26.5,,166,2.035,3,Starting Rotation
+19407,HOU,Ronel Blanco,SP,31.5,,159,1.101,1,Starting Rotation
+29921,HOU,Spencer Arrighetti,SP,25.2,,138,1.000,3,Starting Rotation
+27581,HOU,Hayden Wesneski,SP,27.3,,102,1.170,1,Starting Rotation
+16530,HOU,Mauricio Dubón,OF/INF,30.6,336,,4.162,0,Bench
+14968,HOU,Victor Caratini,C/1B,31.6,200,,7.051,n/a,Bench
+12160,HOU,Ben Gamel,OF,32.8,161,,6.152,n/a,Bench
+10441,HOU,Jon Singleton,1B,33.5,98,,2.069,0,Bench
+14212,HOU,Josh Hader,RP,30.9,,68,7.115,n/a,Closer
+16609,HOU,Bryan Abreu,RP,27.5,,72,4.022,0,Setup Man
+13652,HOU,Tayler Scott,RP,32.8,,65,2.015,0,Setup Man
+25890,HOU,Bryan King,RP,28.3,,62,0.100,3,Middle Reliever
+20061,HOU,Kaleb Ort,RP,33.1,,60,1.108,0,Middle Reliever
+19586,HOU,Forrest Whitley,RP,27.5,,59,0.006,0,Middle Reliever
+12760,HOU,Rafael Montero,RP,34.4,,54,8.095,n/a,Middle Reliever
+19281,HOU,Nick Hernandez,RP,30.2,,48,0.061,2,Long Reliever
+23735,HOU,Luis Garcia,SP,28.2,,106,4.083,3,Projected Injured List
+14120,HOU,Lance McCullers Jr.,SP,31.4,,97,9.140,n/a,Projected Injured List
+24977,HOU,Shawn Dubin,SP/RP,29.5,,26,0.156,0,Projected Injured List
+21212,HOU,J.P. France,SP,29.9,,25,1.047,1,Projected Injured List
+17606,HOU,Cristian Javier,SP,28.0,,13,5.000,n/a,Projected Injured List
+19960,HOU,Taylor Trammell,OF,27.5,77,,1.144,0,Projected Injured List
+27781,HOU,Pedro León,OF,26.8,21,,0.021,2,Projected Injured List
+sa3025358,HOU,Cam Smith,3B,22.0,56,,,Dec'27,Lineup Candidate
+16451,HOU,Luis Guillorme,INF,30.4,35,,5.159,n/a,Lineup/Bench Candidate
+19458,HOU,Cooper Hummel,OF/1B,30.3,28,,1.003,0,Bench Candidate
+27789,HOU,Shay Whitcomb,INF/OF,26.4,28,,0.045,3,Lineup/Bench Candidate
+31562,HOU,Zach Dezenzo,INF,24.8,21,,0.055,2,Bench Candidate
+21587,HOU,César Salazar,C,29.0,6,,0.139,1,Bench Candidate
+sa3009845,HOU,Kenedy Corona,OF,25.0,,,0.000,3,Lineup/Bench Candidate
+sa3017215,HOU,Quincy Hamilton,OF,26.7,,,,R5,Lineup/Bench Candidate
+sa3022698,HOU,Will Bush,C,21.0,,,,Dec'26,Bench Candidate
+sa916969,HOU,Jesús Bastidas,INF,26.5,,,,R5,Bench Candidate
+sa3022563,HOU,Brice Matthews,INF,23.0,,,,Dec'26,Lineup Candidate
+14412,HOU,Joe Hudson,C,33.8,,,0.153,2,Bench Candidate
+19562,HOU,Zack Short,INF/OF,29.8,,,2.036,0,Bench Candidate
+sa3019935,HOU,Collin Price,C/1B,25.3,,,,Dec'25,Bench Candidate
+17192,HOU,Jalen Beeks,RP,31.7,,52,6.003,n/a,Bullpen Candidate
+25839,HOU,Luis Contreras,RP,28.9,,44,0.019,3,Bullpen Candidate
+21345,HOU,Bennett Sousa,RP,29.9,,43,1.156,1,Bullpen Candidate
+sa3019956,HOU,Logan VanWey,RP,26.1,,36,,Dec'25,Bullpen Candidate
+15684,HOU,Miguel Castro,RP,30.2,,28,8.033,n/a,Bullpen Candidate
+13580,HOU,Steven Okert,RP,33.7,,22,4.089,0,Bullpen Candidate
+sa3019426,HOU,Colton Gordon,SP/RP,26.2,,18,0.000,3,Rotation/Bullpen Candidate
+sa3004211,HOU,Blake Weiman,RP,29.3,,12,,R5,Bullpen Candidate
+26056,HOU,Brandon Walter,SP,28.5,,,0.054,1,Rotation/Bullpen Candidate
+sa3020112,HOU,A.J. Blubaugh,SP,24.7,,,,Dec'25,Rotation/Bullpen Candidate
+sa3009632,HOU,Misael Tamarez,SP,25.1,,,,R5,Rotation/Bullpen Candidate
+sa3014684,HOU,Alex Santos II,SP,23.1,,,,R5,Bullpen Candidate
+sa3011818,HOU,Ryan Gusto,SP/RP,26.0,,36,0.001,3,Optioned
+sa3019988,HOU,Jacob Melton,OF,24.5,161,,,Dec'25,Reassigned
+21366,HOU,Glenn Otto,SP/RP,29.0,,,2.091,1,Reassigned
+sa3009279,HOU,Miguel Palma,C,23.2,,,,R5,Reassigned
+sa3020125,HOU,Tommy Sacco Jr.,INF,25.8,,,,Dec'25,Reassigned
+sa3016504,HOU,Miguel Ullola,SP,22.7,,,,Dec'25,Reassigned
+sa3017500,HOU,Aaron Brown,SP,27.0,,,,R5,Reassigned
+sa3017270,HOU,Ray Gaither,RP,27.0,,,,R5,Reassigned
+sa3019255,HOU,Jose Fleury,SP,23.0,,,,Dec'25,Reassigned
+25764,KCR,Bobby Witt Jr.,SS,24.7,686,,3.000,3,Lineup Regular
+27676,KCR,Vinnie Pasquantino,1B,27.4,630,,2.101,3,Lineup Regular
+21523,KCR,Jonathan India,DH,28.2,616,,4.000,3,Lineup Regular
+7304,KCR,Salvador Perez,C,34.8,612,,13.050,n/a,Lineup Regular
+22715,KCR,Maikel Garcia,3B,25.0,595,,1.168,1,Lineup Regular
+15464,KCR,Hunter Renfroe,RF,33.1,371,,7.165,n/a,Lineup Regular
+21614,KCR,Kyle Isbel,CF,28.0,546,,3.043,2,Platoon vs R
+27684,KCR,Michael Massey,2B,27.0,518,,2.068,3,Platoon vs R
+22197,KCR,MJ Melendez,LF,26.3,490,,2.153,2,Platoon vs R
+21840,KCR,Freddy Fermin,C,29.8,275,,1.165,2,Platoon vs L
+19779,KCR,Dairon Blanco,OF,31.9,175,,1.132,3,Platoon vs L
+23359,KCR,Nelson Velázquez,OF,26.2,126,,1.101,0,Platoon vs L
+12447,KCR,Seth Lugo,SP,35.3,,188,8.082,n/a,Starting Rotation
+21846,KCR,Cole Ragans,SP,27.2,,179,2.029,2,Starting Rotation
+14078,KCR,Michael Wacha,SP,33.7,,155,11.062,n/a,Starting Rotation
+14843,KCR,Michael Lorenzen,SP,33.2,,148,9.159,n/a,Starting Rotation
+21455,KCR,Kris Bubic,SP,27.6,,118,4.135,1,Starting Rotation
+27630,KCR,Nick Loftin,INF,26.5,126,,0.121,2,Bench
+19360,KCR,Lucas Erceg,RP,29.9,,67,1.136,3,Closer
+14542,KCR,Carlos Estévez,RP,32.2,,64,8.022,n/a,Closer
+15507,KCR,Hunter Harvey,RP,30.2,,60,5.047,n/a,Setup Man
+20020,KCR,John Schreiber,RP,31.0,,61,4.027,3,Middle Reliever
+22717,KCR,Angel Zerpa,RP,25.4,,59,2.082,1,Middle Reliever
+25379,KCR,Sam Long,RP,29.7,,56,2.121,0,Middle Reliever
+13761,KCR,Chris Stratton,RP,34.5,,54,7.100,n/a,Middle Reliever
+22713,KCR,Carlos Hernández,RP,28.0,,48,3.099,0,Long Reliever
+19665,KCR,Kyle Wright,SP,29.4,,94,4.062,1,Projected Injured List
+21527,KCR,James McArthur,RP,28.2,,32,1.150,1,Projected Injured List
+27690,KCR,Joey Wiemer,OF,26.1,161,,1.046,1,Lineup/Bench Candidate
+20505,KCR,Drew Waters,OF,26.2,91,,1.062,1,Lineup/Bench Candidate
+22117,KCR,Nick Pratto,1B/OF,26.4,84,,1.070,0,Lineup/Bench Candidate
+sa3025245,KCR,Jac Caglianone,1B,22.1,63,,,Dec'27,Lineup Candidate
+27784,KCR,Tyler Gentry,OF,26.1,35,,0.007,2,Lineup/Bench Candidate
+19252,KCR,Cavan Biggio,INF/OF,29.9,21,,5.110,n/a,Lineup/Bench Candidate
+13355,KCR,Luke Maile,C,34.1,19,,7.148,n/a,Bench Candidate
+sa3017339,KCR,Carter Jensen,INF,21.7,,,,Dec'25,Bench Candidate
+sa3010337,KCR,Tyler Tolbert,INF/OF,27.1,,,,R5,Lineup/Bench Candidate
+sa3019985,KCR,Gavin Cross,OF,24.1,,,,Dec'25,Lineup/Bench Candidate
+sa3017394,KCR,Luca Tresh,C,25.2,,,,R5,Bench Candidate
+sa1170010,KCR,Cam Devanney,INF,27.9,,,,R5,Lineup/Bench Candidate
+16680,KCR,Brian O'Keefe,C,31.6,,,0.053,3,Bench Candidate
+14691,KCR,Harold Castro,INF/OF,31.3,,,4.141,2,Bench Candidate
+sa918890,KCR,John Rave,OF,27.2,,,,R5,Lineup/Bench Candidate
+sa3018212,KCR,Kyle Hayes,C,27.4,,,,Dec'25,Bench Candidate
+27451,KCR,Alec Marsh,SP,26.8,,113,1.078,1,Rotation/Bullpen Candidate
+21537,KCR,Daniel Lynch IV,SP/RP,28.3,,59,2.136,1,Rotation/Bullpen Candidate
+23165,KCR,Steven Cruz,RP,25.7,,44,0.058,2,Bullpen Candidate
+24607,KCR,Jonathan Bowlan,RP,28.3,,40,0.017,1,Bullpen Candidate
+sa3007612,KCR,Evan Sisk,RP,27.9,,36,0.000,3,Bullpen Candidate
+sa3018097,KCR,Noah Cameron,SP/RP,25.6,,24,0.000,3,Rotation/Bullpen Candidate
+13273,KCR,Ross Stripling,SP/RP,35.3,,21,8.115,n/a,Rotation/Bullpen Candidate
+sa3017914,KCR,Eric Cerantola,RP,24.9,,10,0.000,3,Bullpen Candidate
+17611,KCR,Taylor Clarke,RP,31.8,,8,4.169,1,Bullpen Candidate
+sa3017202,KCR,Andrew Hoffmann,SP,25.1,,,,R5,Bullpen Candidate
+19264,KCR,Thomas Hatch,SP/RP,30.4,,,2.032,0,Bullpen Candidate
+24604,KCR,Austin Cox,RP,27.9,,,0.104,2,Bullpen Candidate
+18496,KCR,Junior Fernández,RP,28.0,,,1.163,0,Bullpen Candidate
+sa3017312,KCR,Anthony Simonelli,RP,26.2,,,,R5,Bullpen Candidate
+sa3006507,KCR,Luinder Avila,SP/RP,23.5,,18,0.000,3,Optioned
+sa3014934,KCR,Kale Emshoff,C,26.9,,,,R5,Reassigned
+sa3020875,KCR,Steven Zobac,SP,24.4,,,,Dec'25,Reassigned
+sa3018138,KCR,Chandler Champlain,SP,25.6,,,,R5,Reassigned
+sa3022756,KCR,Blake Mitchell,C,20.6,,,,Dec'27,Reassigned
+sa3018253,KCR,Ben Kudrna,SP,22.1,,,,Dec'25,Reassigned
+sa3019906,KCR,Javier Vaz,INF/OF,24.5,,,,Dec'25,Reassigned
+sa3014462,KCR,Beck Way,RP,25.6,,,,R5,Reassigned
+sa3017140,KCR,Tyson Guerrero,SP,26.1,,,,Dec'25,Reassigned
+sa3010155,KCR,Omar Hernandez,C,23.2,,,,R5,Reassigned
+17548,LAA,Taylor Ward,LF,31.2,644,,4.164,1,Lineup Regular
+14221,LAA,Jorge Soler,DH,33.0,574,,9.143,n/a,Lineup Regular
+19858,LAA,Luis Rengifo,2B,28.0,546,,5.043,n/a,Lineup Regular
+17232,LAA,Yoán Moncada,3B,29.8,525,,7.106,n/a,Lineup Regular
+10155,LAA,Mike Trout,RF,33.6,518,,13.070,n/a,Lineup Regular
+20220,LAA,Jo Adell,CF,25.9,483,,3.085,0,Lineup Regular
+24729,LAA,Logan O'Hoppe,C,25.1,461,,2.008,3,Lineup Regular
+17696,LAA,Kevin Newman,SS,31.6,238,,6.046,n/a,Lineup Regular
+33189,LAA,Nolan Schanuel,1B,23.1,553,,1.045,3,Platoon vs R
+16219,LAA,J.D. Davis,1B/3B,31.9,98,,6.092,n/a,Platoon vs L
+20633,LAA,Yusei Kikuchi,SP,33.7,,169,6.000,n/a,Starting Rotation
+12880,LAA,Tyler Anderson,SP,35.2,,169,9.065,n/a,Starting Rotation
+22100,LAA,José Soriano,SP,26.4,,146,2.121,2,Starting Rotation
+12049,LAA,Kyle Hendricks,SP,35.3,,127,10.081,n/a,Starting Rotation
+27468,LAA,Reid Detmers,SP,25.7,,106,2.159,2,Starting Rotation
+19956,LAA,Mickey Moniak,OF,26.8,280,,3.027,0,Bench
+7739,LAA,Travis d'Arnaud,C,36.1,257,,11.044,n/a,Bench
+15172,LAA,Tim Anderson,INF/OF,31.7,63,,8.043,n/a,Bench
+3096,LAA,Kenley Jansen,RP,37.4,,60,14.073,n/a,Closer
+17968,LAA,Brock Burke,RP,28.6,,66,4.045,0,Setup Man
+31461,LAA,Ben Joyce,RP,24.5,,62,1.075,2,Setup Man
+19911,LAA,José Suarez,RP,27.2,,69,4.022,0,Middle Reliever
+19200,LAA,José Quijada,RP,29.3,,62,4.046,0,Middle Reliever
+25420,LAA,Ryan Zeferjahn,RP,27.0,,61,0.038,3,Middle Reliever
+22192,LAA,Hans Crouse,RP,26.5,,56,1.002,1,Middle Reliever
+sa3020619,LAA,Garrett McDaniels,RP,25.2,,52,0.000,n/a,Long Reliever
+13594,LAA,Robert Stephenson,RP,32.0,,32,7.049,n/a,60-Day IL
+31347,LAA,Zach Neto,SS,24.1,560,,1.170,3,Projected Injured List
+12861,LAA,Anthony Rendon,3B,34.8,,,11.130,n/a,60-Day IL
+sa3025168,LAA,Christian Moore,2B,22.4,315,,,Dec'27,Lineup Candidate
+23312,LAA,Ryan Noda,1B/OF,28.9,35,,1.055,2,Bench Candidate
+17975,LAA,Scott Kingery,INF/OF,30.9,28,,3.047,3,Bench Candidate
+sa1169598,LAA,Matthew Lugo,OF,23.8,21,,0.000,3,Bench Candidate
+26420,LAA,Kyren Paris,INF,23.3,21,,0.061,2,Bench Candidate
+19824,LAA,Chuckie Robinson,C,30.2,6,,0.129,2,Bench Candidate
+sa3025335,LAA,David Mershon,INF,21.8,,,,Dec'27,Bench Candidate
+sa3021185,LAA,Juan Flores,C,19.1,,,,Dec'27,Bench Candidate
+27688,LAA,Jack Kochanowicz,SP/RP,24.2,,93,0.063,2,Rotation/Bullpen Candidate
+30074,LAA,Chase Silseth,SP/RP,24.8,,54,1.071,1,Rotation/Bullpen Candidate
+29754,LAA,Sam Bachman,SP/RP,25.4,,44,1.036,2,Rotation/Bullpen Candidate
+20827,LAA,Michael Petersen,RP,30.8,,36,0.053,2,Bullpen Candidate
+sa3034809,LAA,Ryan Johnson,SP,22.6,,12,,Dec'27,Bullpen Candidate
+31508,LAA,Caden Dana,SP,21.2,,69,0.031,3,Optioned
+sa3015035,LAA,Jack Dashwood,RP,27.3,,42,0.000,3,Optioned
+31533,LAA,Victor Mederos,SP/RP,23.8,,23,0.049,1,Optioned
+26443,LAA,Sam Aldegheri,SP,23.5,,17,0.031,3,Optioned
+22707,LAA,Gustavo Campero,OF,27.5,7,,0.015,3,Optioned
+29782,LAA,Niko Kavadas,1B,26.4,7,,0.045,3,Optioned
+21205,LAA,Connor Brogdon,RP,30.1,,38,3.139,0,Reassigned
+16408,LAA,Victor González,RP,29.3,,22,3.149,0,Reassigned
+sa3020438,LAA,Michael Darrell-Hicks,RP,27.3,,17,,Dec'25,Reassigned
+19206,LAA,Dakota Hudson,SP/RP,30.5,,15,5.141,n/a,Reassigned
+21735,LAA,Sebastián  Rivero,C,26.3,,,0.141,2,Reassigned
+Dylan Jordan,LAA,Dylan Jordan,SP/RP,19.4,,,,Dec'28,Reassigned
+sa3022728,LAA,Camden Minacci,RP,23.1,,,,Dec'26,Reassigned
+21163,LAA,Angel Felipe,RP,27.5,,,0.087,1,Reassigned
+sa3023455,LAA,Jose Fermin,RP,23.3,,,,Dec'27,Reassigned
+sa3015711,LAA,Denzer Guzman,SS,21.1,,,,Dec'25,Reassigned
+sa3020862,LAA,Samy Natera Jr.,SP/RP,25.3,,,,Dec'25,Reassigned
+24681,LAA,Kelvin Cáceres,RP,25.1,,,0.149,2,Reassigned
+Austin Gordon,LAA,Austin Gordon,SP/RP,19.4,,,,Dec'27,Reassigned
+19958,LAA,Carter Kieboom,INF,27.5,,,2.168,0,Reassigned
+sa3029417,LAA,Chris Cortez,RP,22.4,,,,Dec'27,Reassigned
+sa3018470,LAA,Dario Laverde,C,20.0,,,,Dec'26,Reassigned
+sa3022441,LAA,Alberto Rios,C,23.0,,,,Dec'26,Reassigned
+sa3023440,LAA,George Klassen,SP,23.1,,,,Dec'26,Reassigned
+sa3022429,LAA,Cole Fontenelle,INF,23.0,,,,Dec'26,Reassigned
+sa3018421,LAA,Nelson Rada,OF,19.5,,,,Dec'26,Reassigned
+29524,LAA,Bryce Teodosio,OF,25.7,,,0.023,3,Reassigned
+11602,LAA,Yolmer Sánchez,INF/OF,32.7,,,5.083,n/a,Reassigned
+19755,LAD,Shohei Ohtani,DH,30.7,651,123,7.000,n/a,Lineup Regular
+13611,LAD,Mookie Betts,SS,32.4,679,,10.070,n/a,Lineup Regular
+5361,LAD,Freddie Freeman,1B,35.5,665,,14.033,n/a,Lineup Regular
+13066,LAD,Teoscar Hernández,RF,32.4,651,,7.097,n/a,Lineup Regular
+19470,LAD,Tommy Edman,CF,29.8,609,,5.114,n/a,Lineup Regular
+13301,LAD,Max Muncy,3B,34.5,546,,8.027,n/a,Lineup Regular
+19197,LAD,Will Smith,C,29.9,501,,5.090,n/a,Lineup Regular
+16376,LAD,Michael Conforto,LF,32.0,497,,8.043,n/a,Lineup Regular
+sa3012639,LAD,Hyeseong Kim,2B,26.1,385,,0.000,3,Platoon vs R
+10472,LAD,Enrique Hernández,OF/INF,33.5,287,,10.054,n/a,Platoon vs L
+33825,LAD,Yoshinobu Yamamoto,SP,26.6,,163,1.000,n/a,Starting Rotation
+13543,LAD,Blake Snell,SP,32.3,,160,8.072,n/a,Starting Rotation
+14374,LAD,Tyler Glasnow,SP,31.5,,140,7.158,n/a,Starting Rotation
+sa3025686,LAD,Roki Sasaki,SP,23.3,,135,0.000,3,Starting Rotation
+19388,LAD,Tony Gonsolin,SP,30.8,,95,4.152,1,Starting Rotation
+13757,LAD,Chris Taylor,INF/OF,34.5,280,,9.037,n/a,Bench
+12158,LAD,Austin Barnes,C,35.2,141,,8.098,n/a,Bench
+7802,LAD,Miguel Rojas,INF,36.0,98,,10.043,n/a,Bench
+17586,LAD,Tanner Scott,RP,30.6,,66,6.059,n/a,Closer
+9073,LAD,Kirby Yates,RP,38.0,,60,10.021,n/a,Setup Man
+12572,LAD,Blake Treinen,RP,36.7,,59,10.065,n/a,Setup Man
+25007,LAD,Alex Vesia,RP,28.9,,58,4.078,1,Middle Reliever
+14706,LAD,Anthony Banda,RP,31.6,,57,3.135,0,Middle Reliever
+30085,LAD,Ben Casparius,RP,26.1,,40,0.016,3,Middle Reliever
+31204,LAD,Justin Wrobleski,RP,24.7,,38,0.050,2,Middle Reliever
+19716,LAD,Dustin May,RP,27.5,,73,5.059,n/a,Long Reliever
+2036,LAD,Clayton Kershaw,SP,37.0,,68,16.105,n/a,Projected Injured List
+17282,LAD,Michael Kopech,RP,28.9,,53,5.041,n/a,Projected Injured List
+17734,LAD,Evan Phillips,RP,30.5,,50,4.136,0,Projected Injured List
+23221,LAD,Michael Grove,RP,28.2,,44,2.031,1,Projected Injured List
+20367,LAD,Brusdar Graterol,RP,26.5,,24,4.167,2,Projected Injured List
+26944,LAD,Edgardo Henriquez,RP,22.7,,16,0.006,3,Projected Injured List
+27514,LAD,Kyle Hurt,SP,26.8,,,0.099,2,Projected Injured List
+29839,LAD,Emmet Sheehan,SP,25.3,,,1.080,2,Projected Injured List
+27792,LAD,Gavin Stone,SP,26.4,,,1.034,2,60-Day IL
+29514,LAD,River Ryan,SP,26.6,,,0.070,3,60-Day IL
+24816,LAD,Andy Pages,OF,24.2,189,,0.155,1,Bench Candidate
+14593,LAD,David Bote,INF,31.9,28,,4.168,1,Bench Candidate
+23372,LAD,Hunter Feduccia,C,27.8,19,,0.029,2,Bench Candidate
+24770,LAD,James Outman,OF,27.8,14,,1.095,1,Bench Candidate
+sa3019892,LAD,Dalton Rushing,C/OF,24.0,,,,Dec'25,Bench Candidate
+12155,LAD,Eddie Rosario,OF,33.4,,,9.080,n/a,Bench Candidate
+27483,LAD,Bobby Miller,SP,25.9,,45,1.116,2,Rotation/Bullpen Candidate
+27487,LAD,Landon Knack,SP/RP,27.6,,43,0.079,2,Rotation/Bullpen Candidate
+sa3018789,LAD,Jack Dreyer,RP,26.0,,33,0.000,3,Bullpen Candidate
+14986,LAD,Giovanny Gallegos,RP,33.6,,28,6.041,n/a,Bullpen Candidate
+22284,LAD,Matt Sauer,RP,26.1,,22,0.060,3,Bullpen Candidate
+6984,LAD,Luis García,RP,38.1,,12,9.007,n/a,Bullpen Candidate
+sa3014492,LAD,Nick Frasso,SP/RP,26.4,,10,0.000,2,Optioned
+25178,LAD,Joe Jacques,RP,30.0,,8,0.097,1,Reassigned
+sa3022703,LAD,Zyhir Hope,OF,20.1,,,,Dec'27,Reassigned
+sa3007775,LAD,Justin Jarvis,SP/RP,25.1,,,,R5,Reassigned
+sa3005015,LAD,Sam Carlson,RP,26.3,,,,R5,Reassigned
+sa3007070,LAD,Justin Dean,OF,28.3,,,,R5,Reassigned
+sa3018591,LAD,Josue De Paula,OF,19.8,,,,Dec'26,Reassigned
+sa3020891,LAD,Jackson Ferris,SP,21.1,,,,Dec'26,Reassigned
+sa1115817,LAD,Jack Little,RP,27.2,,,,R5,Reassigned
+sa3019303,LAD,Griffin Lockwood-Powell,1B/C,27.0,,,,R5,Reassigned
+sa3020653,LAD,Alex Freeland,INF,23.5,,,,Dec'25,Reassigned
+19245,LAD,Chris Okey,C,30.2,,,0.033,2,Reassigned
+18341,LAD,Julian Fernández,RP,29.3,,,2.034,2,Reassigned
+sa3006404,LAD,Carlos Duran,SP,23.6,,,,R5,Reassigned
+sa3010021,LAD,Kody Hoese,INF,27.7,,,,R5,Reassigned
+22318,LAD,Jose E. Hernandez,RP,27.2,,,1.028,2,Reassigned
+sa3020859,LAD,Jared Karros,SP,24.3,,,,Dec'25,Reassigned
+sa1169792,LAD,Ryan Ward,OF/1B,27.0,,,,R5,Reassigned
+sa3015437,LAD,Jose Rodriguez,RP,23.6,,,,R5,Reassigned
+sa3017121,LAD,Austin Gauthier,OF/INF,25.8,,,,R5,Reassigned
+22266,MIA,Xavier Edwards,SS,25.6,588,,1.034,1,Lineup Regular
+29592,MIA,Connor Norby,3B,24.8,588,,0.057,2,Lineup Regular
+19913,MIA,Jesús Sánchez,RF,27.4,539,,3.118,0,Lineup Regular
+19608,MIA,Otto Lopez,2B,26.4,469,,1.109,0,Lineup Regular
+24703,MIA,Jonah Bride,DH,29.2,392,,1.137,0,Lineup Regular
+22054,MIA,Dane Myers,CF,29.0,371,,1.037,1,Lineup Regular
+21538,MIA,Nick Fortes,C,28.3,352,,2.149,2,Lineup Regular
+26151,MIA,Kyle Stowers,LF,27.2,462,,1.012,1,Platoon vs R
+27845,MIA,Matt Mervis,1B,26.9,399,,0.053,1,Platoon vs R
+16947,MIA,Derek Hill,OF,29.2,273,,2.040,0,Platoon vs L
+23395,MIA,Eric Wagaman,INF/OF,27.6,147,,0.020,3,Platoon vs L
+18684,MIA,Sandy Alcantara,SP,29.5,,190,6.100,n/a,Starting Rotation
+19312,MIA,Cal Quantrill,SP,30.1,,143,5.132,n/a,Starting Rotation
+23796,MIA,Ryan Weathers,SP,25.3,,142,2.066,1,Starting Rotation
+27474,MIA,Max Meyer,SP,26.0,,133,1.166,2,Starting Rotation
+21690,MIA,Edward Cabrera,SP,26.9,,125,2.147,0,Starting Rotation
+28253,MIA,Javier Sanoja,INF/OF,22.5,217,,0.023,3,Bench
+sa3017400,MIA,Liam Hicks,C/1B,25.8,103,,0.000,n/a,Bench
+20116,MIA,Calvin Faucher,RP,29.5,,63,1.156,1,Closer
+16300,MIA,Jesus Tinoco,RP,29.9,,64,1.112,0,Setup Man
+19742,MIA,Anthony Bender,RP,30.1,,60,3.153,3,Setup Man
+25645,MIA,Declan Cronin,RP,27.5,,67,1.066,2,Middle Reliever
+19222,MIA,Lake Bachar,RP,29.8,,58,0.024,2,Middle Reliever
+27453,MIA,Anthony Veneziano,RP,27.5,,56,0.045,2,Middle Reliever
+24094,MIA,Ronny Henriquez,RP,24.7,,53,0.115,0,Middle Reliever
+26171,MIA,Connor Gillispie,RP,27.3,,41,0.007,2,Long Reliever
+27768,MIA,Eury Pérez,SP,21.9,,73,1.113,2,60-Day IL
+25942,MIA,Andrew Nardi,RP,26.6,,50,2.053,3,Projected Injured List
+21844,MIA,Braxton Garrett,SP,27.6,,,2.168,1,60-Day IL
+21626,MIA,Griffin Conine,OF,27.7,322,,0.035,3,Lineup/Bench Candidate
+sa3009276,MIA,Agustin Ramirez,C,23.5,263,,0.000,2,Lineup/Bench Candidate
+31363,MIA,Graham Pauley,INF,24.5,91,,0.036,2,Lineup/Bench Candidate
+sa3017374,MIA,Joe Mack,C,22.2,13,,,Dec'25,Lineup/Bench Candidate
+sa3017120,MIA,Bennett Hostetler,C/INF,27.5,,,,R5,Bench Candidate
+sa3005630,MIA,Heriberto Hernandez,OF,25.2,,,,R5,Lineup/Bench Candidate
+sa3008365,MIA,Ronny Simon,INF/OF,24.9,,,,R5,Lineup/Bench Candidate
+sa3010899,MIA,Troy Johnston,1B/OF,27.7,,,,R5,Lineup/Bench Candidate
+14109,MIA,Albert Almora Jr.,OF,30.9,,,5.110,n/a,Lineup/Bench Candidate
+10655,MIA,Rob Brantly,C,35.7,,,2.067,0,Bench Candidate
+23899,MIA,Valente Bellozo,SP/RP,25.2,,57,0.066,2,Rotation/Bullpen Candidate
+21863,MIA,George Soriano,RP,26.0,,48,1.019,1,Bullpen Candidate
+23592,MIA,Brett de Geus,RP,27.3,,39,1.050,2,Bullpen Candidate
+sa3016940,MIA,Patrick Monteverde,SP,27.5,,35,,R5,Rotation/Bullpen Candidate
+sa1053035,MIA,Josh Simpson,RP,27.6,,33,1.008,1,Bullpen Candidate
+sa3008417,MIA,John Rooney,RP,28.1,,28,,R5,Bullpen Candidate
+23301,MIA,Janson Junk,SP/RP,29.1,,22,0.089,0,Rotation/Bullpen Candidate
+sa3023204,MIA,Josh Ekness,RP,23.1,,18,,Dec'26,Bullpen Candidate
+25595,MIA,Xzavion Curry,SP/RP,26.6,,8,1.089,1,Rotation/Bullpen Candidate
+sa3010254,MIA,Austin Roberts,RP,26.6,,,,R5,Bullpen Candidate
+sa3007599,MIA,Luarbert Arias,RP,24.2,,44,0.000,3,Optioned
+31900,MIA,Adam Mazur,SP,23.9,,33,0.034,2,Optioned
+sa3015168,MIA,Deyvison De Los Santos,1B,21.7,350,,0.000,3,Optioned
+sa3014711,MIA,Max Acosta,INF,22.4,154,,0.000,3,Optioned
+sa3010700,MIA,Victor Mesa Jr.,OF,23.5,98,,0.000,2,Optioned
+sa3015579,MIA,Jared Serna,INF,22.8,28,,0.000,3,Optioned
+sa3014535,MIA,Dax Fulton,SP,23.4,,,0.000,3,Optioned
+sa3003123,MIA,Robinson Pina,SP/RP,26.3,,,,R5,Optioned
+sa3020707,MIA,Robby Snelling,SP,21.2,,25,,Dec'26,Reassigned
+sa3019955,MIA,Matt Pushard,RP,27.4,,24,,Dec'25,Reassigned
+sa3018278,MIA,Justin King,RP,27.2,,15,,Dec'25,Reassigned
+sa3019868,MIA,Jakob Marsee,OF,23.7,21,,,Dec'25,Reassigned
+sa3012630,MIA,Woo-Suk Go,RP,26.6,,,0.000,n/a,Reassigned
+sa3019978,MIA,Nathan Martorella,1B/OF,24.1,,,,Dec'25,Reassigned
+sa3020715,MIA,Andrew Pintar,OF,24.0,,,,Dec'25,Reassigned
+sa3019825,MIA,Jacob Berry,OF/1B,23.8,,,,Dec'25,Reassigned
+sa3019833,MIA,Dale Stanavich,RP,25.7,,,,Dec'25,Reassigned
+sa3022573,MIA,Ryan Ignoffo,C,24.6,,,,Dec'26,Reassigned
+sa3014477,MIA,Christian Roa,RP,25.9,,,0.042,2,Reassigned
+23324,MIA,Freddy Tarnok,SP/RP,26.3,,,1.068,1,Reassigned
+28806,MIL,Jackson Chourio,RF,21.0,644,,1.000,3,Lineup Regular
+25493,MIL,Joey Ortiz,SS,26.7,630,,1.030,2,Lineup Regular
+20503,MIL,William Contreras,C,27.2,626,,3.112,1,Lineup Regular
+11477,MIL,Christian Yelich,DH,33.3,574,,11.069,n/a,Lineup Regular
+16472,MIL,Rhys Hoskins,1B,32.0,567,,7.053,n/a,Lineup Regular
+27555,MIL,Garrett Mitchell,CF,26.5,476,,2.040,3,Lineup Regular
+22186,MIL,Brice Turang,2B,25.3,581,,1.165,1,Platoon vs R
+29622,MIL,Sal Frelick,LF,24.9,448,,1.072,3,Platoon vs R
+26295,MIL,Oliver Dunn,3B,27.5,364,,1.000,2,Platoon vs R
+sa3017183,MIL,Caleb Durbin,INF/OF,25.0,203,,0.000,3,Platoon vs L
+11445,MIL,Mark Canha,OF/1B,36.1,154,,9.092,n/a,Platoon vs L
+25040,MIL,Vinny Capra,INF/OF,28.7,147,,0.084,0,Platoon vs L
+18679,MIL,Freddy Peralta,SP,28.8,,171,6.090,n/a,Starting Rotation
+19479,MIL,Aaron Civale,SP,29.7,,146,5.058,n/a,Starting Rotation
+17874,MIL,Nestor Cortes,SP,30.2,,144,5.094,n/a,Starting Rotation
+22191,MIL,Tobias Myers,SP,26.6,,142,0.166,2,Starting Rotation
+11423,MIL,Jose Quintana,SP,36.1,,131,12.133,n/a,Starting Rotation
+14111,MIL,Eric Haase,C,32.2,128,,3.159,0,Bench
+17722,MIL,Trevor Megill,RP,31.3,,64,3.002,1,Closer
+27517,MIL,Jared Koenig,RP,31.1,,62,1.043,2,Setup Man
+14332,MIL,Joel Payamps,RP,30.9,,61,4.027,0,Setup Man
+19924,MIL,Bryan Hudson,RP,27.8,,60,1.005,1,Middle Reliever
+25376,MIL,Nick Mears,RP,28.4,,59,3.022,0,Middle Reliever
+21652,MIL,Elvis Peguero,RP,28.0,,56,2.072,1,Middle Reliever
+sa3010784,MIL,Connor Thomas,RP,26.8,,50,0.000,n/a,Middle Reliever
+17735,MIL,Tyler Alexander,RP,30.7,,56,5.011,n/a,Long Reliever
+16162,MIL,Brandon Woodruff,SP,32.1,,153,6.161,n/a,Projected Injured List
+23550,MIL,Aaron Ashby,SP/RP,26.8,,64,2.088,1,Projected Injured List
+22207,MIL,DL Hall,SP/RP,26.5,,43,1.074,1,60-Day IL
+19921,MIL,Blake Perkins,OF,28.5,252,,1.133,2,Projected Injured List
+29812,MIL,Robert Gasser,SP,25.8,,,0.143,3,60-Day IL
+29949,MIL,Tyler Black,1B/3B,24.6,196,,0.031,2,Lineup/Bench Candidate
+19455,MIL,Andruw Monasterio,INF,27.8,105,,1.128,3,Bench Candidate
+14712,MIL,Manuel Margot,OF,30.4,56,,8.012,n/a,Bench Candidate
+20450,MIL,Brewer Hicklen,OF,29.1,28,,0.038,2,Bench Candidate
+15194,MIL,Jake Bauers,1B/OF,29.4,28,,4.084,0,Bench Candidate
+sa3015407,MIL,Jeferson Quero,C,22.4,26,,0.000,2,Bench Candidate
+25477,MIL,Isaac Collins,OF/INF,27.6,7,,0.022,3,Bench Candidate
+12180,MIL,Jorge Alfaro,C,31.7,,,5.133,n/a,Bench Candidate
+sa918698,MIL,Ramón Rodríguez,C,26.4,,,,R5,Bench Candidate
+19968,MIL,Jared Oliva,OF,29.3,,,0.050,2,Bench Candidate
+sa3011330,MIL,Darrien Miller,C,24.0,,,,R5,Bench Candidate
+sa3007288,MIL,Raynel Delgado,INF,24.9,,,,R5,Bench Candidate
+25327,MIL,Abner Uribe,RP,24.7,,54,0.121,1,Bullpen Candidate
+sa3023032,MIL,Craig Yoho,RP,25.4,,49,,Dec'26,Bullpen Candidate
+sa3020644,MIL,Jacob Misiorowski,SP/RP,22.9,,36,,Dec'25,Rotation/Bullpen Candidate
+20546,MIL,Grant Anderson,RP,27.7,,34,1.007,1,Bullpen Candidate
+30161,MIL,Carlos Rodriguez,SP/RP,23.3,,30,0.015,2,Rotation/Bullpen Candidate
+20962,MIL,Elvin Rodriguez,SP/RP,26.9,,25,0.034,2,Rotation/Bullpen Candidate
+sa3008313,MIL,Grant Wolfram,RP,28.2,,18,0.000,3,Bullpen Candidate
+sa3020080,MIL,Logan Henderson,SP/RP,23.0,,10,0.000,3,Rotation/Bullpen Candidate
+22176,MIL,Easton McGee,SP/RP,27.2,,,0.163,2,Bullpen Candidate
+20276,MIL,Deivi García,RP,25.8,,,0.120,0,Bullpen Candidate
+16754,MIL,Vinny Nittoli,RP,34.3,,,0.096,0,Bullpen Candidate
+sa3017933,MIL,Chad Patrick,SP/RP,26.6,,24,0.000,3,Optioned
+sa3022867,MIL,Cooper Pratt,INF,20.6,,,,Dec'27,Reassigned
+20370,MIL,Bruce Zimmermann,SP/RP,30.1,,,1.129,0,Reassigned
+sa3008183,MIL,Jimmy Herron,OF,28.6,,,,R5,Reassigned
+sa3003173,MIL,Ernesto Martinez Jr.,1B/OF,25.7,,,,R5,Reassigned
+17952,MIL,Tyler Jay,RP,30.9,,,0.011,2,Reassigned
+sa3003197,MIL,David García,C,25.1,,,0.000,2,Reassigned
+17281,MIL,Thomas Pannone,SP/RP,30.9,,,1.010,0,Reassigned
+sa3006894,MIL,Anthony Seigler,INF,25.7,,,,R5,Reassigned
+sa3018514,MIL,Luis Lara,OF,20.3,,,,Dec'26,Reassigned
+20491,MIL,J.B. Bukauskas,RP,28.4,,,2.086,1,Projected Injured List (MiLB)
+17338,MIN,Willi Castro,DH,27.9,602,,5.017,n/a,Lineup Regular
+20437,MIN,Royce Lewis,3B,25.8,574,,2.142,2,Lineup Regular
+14162,MIN,Carlos Correa,SS,30.5,560,,9.119,n/a,Lineup Regular
+14161,MIN,Byron Buxton,CF,31.2,504,,8.160,n/a,Lineup Regular
+31595,MIN,Brooks Lee,2B,24.1,490,,0.089,3,Lineup Regular
+17982,MIN,Ty France,1B,30.7,441,,5.089,n/a,Lineup Regular
+24618,MIN,Ryan Jeffers,C,27.8,403,,4.089,2,Lineup Regular
+26466,MIN,Matt Wallner,RF,27.2,490,,1.043,1,Platoon vs R
+21501,MIN,Trevor Larnach,LF,28.0,469,,3.014,1,Platoon vs R
+20538,MIN,Jose Miranda,1B/3B,26.7,385,,2.118,1,Platoon vs L
+18030,MIN,Harrison Bader,OF,30.8,371,,7.030,n/a,Platoon vs L
+17085,MIN,Pablo López,SP,29.0,,192,6.093,n/a,Starting Rotation
+21224,MIN,Bailey Ober,SP,29.7,,167,3.093,1,Starting Rotation
+21390,MIN,Joe Ryan,SP,28.8,,158,3.033,3,Starting Rotation
+24494,MIN,Simeon Woods Richardson,SP,24.4,,130,0.165,1,Starting Rotation
+20099,MIN,Chris Paddack,SP,29.2,,113,6.000,n/a,Starting Rotation
+27534,MIN,Edouard Julien,INF,25.9,308,,1.083,1,Bench
+9774,MIN,Christian Vázquez,C,34.5,301,,10.031,n/a,Bench
+21029,MIN,Jhoan Duran,RP,27.2,,65,3.000,1,Closer
+20253,MIN,Griffin Jax,RP,30.3,,70,3.091,2,Setup Man
+21461,MIN,Cole Sands,RP,27.6,,64,2.017,1,Setup Man
+19459,MIN,Jorge Alcala,RP,29.6,,63,4.165,2,Middle Reliever
+16727,MIN,Brock Stewart,RP,33.4,,60,3.093,0,Middle Reliever
+13293,MIN,Danny Coulombe,RP,35.4,,54,6.008,n/a,Middle Reliever
+24993,MIN,Kody Funderburk,RP,28.3,,50,1.023,2,Middle Reliever
+27691,MIN,Louis Varland,RP,27.2,,65,0.163,1,Long Reliever
+10315,MIN,Michael Tonkin,RP,35.3,,51,4.074,0,Projected Injured List
+15145,MIN,Justin Topa,RP,34.0,,48,4.044,2,Projected Injured List
+27462,MIN,Austin Martin,OF/INF,26.0,105,,0.154,2,Lineup/Bench Candidate
+sa3022614,MIN,Luke Keaschall,INF/OF,22.6,98,,,Dec'26,Lineup/Bench Candidate
+24496,MIN,DaShawn Keirsey Jr.,OF,27.8,63,,0.025,3,Bench Candidate
+21730,MIN,Jair Camargo,C,25.7,19,,0.043,2,Bench Candidate
+24759,MIN,Mickey Gasper,C/INF,29.4,,,0.049,3,Bench Candidate
+sa3008742,MIN,Diego Cartaya,C,23.5,,,0.000,1,Bench Candidate
+19292,MIN,Armando Alvarez,INF,30.7,,,0.065,2,Bench Candidate
+sa3005472,MIN,Jeferson Morales,UTL,25.8,,,,R5,Bench Candidate
+15585,MIN,Mike Ford,1B,32.7,,,3.032,0,Lineup/Bench Candidate
+sa3017556,MIN,Patrick Winkel,C,25.1,,,,R5,Bench Candidate
+30056,MIN,David Festa,SP,25.0,,95,0.095,3,Rotation Candidate
+31827,MIN,Zebby Matthews,SP,24.8,,84,0.048,3,Rotation Candidate
+16427,MIN,Scott Blewett,RP,28.9,,42,0.102,0,Bullpen Candidate
+18152,MIN,Anthony Misiewicz,RP,30.4,,39,3.000,0,Bullpen Candidate
+sa3015414,MIN,Eiberson Castellano,RP,23.8,,36,0.000,n/a,Bullpen Candidate
+20468,MIN,Huascar Ynoa,SP/RP,26.8,,18,3.117,0,Rotation/Bullpen Candidate
+sa3020569,MIN,Andrew Morris,SP,23.5,,13,,Dec'25,Rotation/Bullpen Candidate
+21859,MIN,Alex Speas,RP,27.0,,10,0.012,1,Bullpen Candidate
+sa3011496,MIN,Ryan Jensen,RP,27.3,,,0.000,2,Bullpen Candidate
+20038,MIN,Darren McCaughan,SP/RP,29.0,,,0.063,0,Bullpen Candidate
+sa3017991,MIN,Travis Adams,SP/RP,25.1,,21,0.000,3,Optioned
+sa3014693,MIN,Emmanuel Rodriguez,OF,22.0,56,,0.000,2,Optioned
+sa3011530,MIN,Matt Canterino,SP/RP,27.2,,,0.000,1,Optioned
+sa3014550,MIN,Marco Raya,SP,22.6,,,0.000,3,Optioned
+sa3020702,MIN,Cory Lewis,SP,24.4,,9,,Dec'25,Reassigned
+23798,MIN,Randy Dobnak,SP/RP,30.1,,8,3.052,2,Reassigned
+10314,MIN,Erasmo Ramírez,RP,34.9,,,9.003,n/a,Reassigned
+sa3003185,MIN,Yunior Severino,INF/OF,25.4,,,0.000,3,Reassigned
+sa1170516,MIN,Alex Isola,UTL,26.6,,,,R5,Reassigned
+12916,NYM,Francisco Lindor,SS,31.3,686,,9.113,n/a,Lineup Regular
+20123,NYM,Juan Soto,RF,26.4,686,,6.134,n/a,Lineup Regular
+19251,NYM,Pete Alonso,1B,30.3,665,,6.000,n/a,Lineup Regular
+22184,NYM,Mark Vientos,3B,25.2,665,,1.102,0,Lineup Regular
+12927,NYM,Brandon Nimmo,LF,32.0,574,,8.042,n/a,Lineup Regular
+15362,NYM,Jeff McNeil,2B,32.9,525,,6.069,n/a,Lineup Regular
+17452,NYM,Jose Siri,CF,29.6,413,,3.015,0,Lineup Regular
+15905,NYM,Luis Torrens,C,28.9,160,,4.105,0,Lineup Regular
+13590,NYM,Jesse Winker,DH,31.6,420,,7.080,n/a,Platoon vs R
+9241,NYM,Starling Marte,OF,36.4,280,,11.162,n/a,Platoon vs L
+13649,NYM,Clay Holmes,SP,32.0,,164,6.031,n/a,Starting Rotation
+31838,NYM,Kodai Senga,SP,32.1,,160,2.000,3,Starting Rotation
+20302,NYM,David Peterson,SP,29.5,,147,4.089,1,Starting Rotation
+19867,NYM,Griffin Canning,SP,28.8,,97,5.075,n/a,Starting Rotation
+21318,NYM,Tylor Megill,SP,29.6,,91,3.031,1,Starting Rotation
+13675,NYM,Tyrone Taylor,OF,31.1,336,,4.093,0,Bench
+26548,NYM,Luisangel Acuña,INF/OF,23.0,168,,0.016,1,Bench
+17837,NYM,Jakson Reetz,C,29.2,6,,0.043,1,Bench
+14710,NYM,Edwin Díaz,RP,31.0,,65,8.121,n/a,Closer
+16866,NYM,Reed Garrett,RP,32.2,,66,1.143,1,Setup Man
+23313,NYM,José Buttó,RP,27.0,,63,0.168,0,Setup Man
+15947,NYM,Ryne Stanek,RP,33.6,,58,7.038,n/a,Middle Reliever
+18439,NYM,Danny Young,RP,30.8,,56,0.160,0,Middle Reliever
+6107,NYM,Huascar Brazobán,RP,35.4,,51,2.023,2,Middle Reliever
+17490,NYM,Génesis Cabrera,RP,28.4,,44,5.011,n/a,Middle Reliever
+14739,NYM,Paul Blackburn,RP,31.3,,103,5.018,n/a,Long Reliever
+15873,NYM,Sean Manaea,SP,33.1,,159,8.157,n/a,Projected Injured List
+14309,NYM,Frankie Montas,SP,32.0,,102,7.015,n/a,Projected Injured List
+18655,NYM,A.J. Minter,RP,31.5,,54,6.154,n/a,Projected Injured List
+17755,NYM,Drew Smith,RP,31.5,,14,6.034,n/a,60-Day IL
+26121,NYM,Francisco Alvarez,C,23.3,488,,2.006,3,Projected Injured List
+20521,NYM,Nick Madrigal,INF,28.0,,,4.087,1,60-Day IL
+30107,NYM,Christian Scott,SP,25.7,,,0.116,2,60-Day IL
+26123,NYM,Brett Baty,INF,25.3,77,,1.088,1,Bench Candidate
+23698,NYM,Ronny Mauricio,INF,23.9,42,,1.031,1,Bench Candidate
+22842,NYM,Alexander Canario,OF,24.8,35,,0.062,0,Lineup/Bench Candidate
+18821,NYM,José Azocar,OF,28.8,,,2.022,0,Bench Candidate
+19314,NYM,Donovan Walton,INF,30.8,,,1.029,0,Bench Candidate
+21682,NYM,Luis De Los Santos,INF,26.7,,,0.042,2,Bench Candidate
+sa3007009,NYM,Hayden Senger,C,27.9,,,,R5,Bench Candidate
+sa3007028,NYM,Chris Williams,C/1B,28.3,,,,R5,Bench Candidate
+14366,NYM,Joey Meneses,1B,32.8,,,1.164,2,Bench Candidate
+23055,NYM,Dedniel Núñez,RP,28.8,,49,1.131,2,Bullpen Candidate
+22175,NYM,Max Kranick,RP,27.6,,47,2.011,1,Bullpen Candidate
+20379,NYM,Tyler Zuber,RP,29.7,,30,2.104,1,Bullpen Candidate
+12763,NYM,Chris Devenski,RP,34.3,,19,7.115,n/a,Bullpen Candidate
+11589,NYM,José Ureña,SP/RP,33.5,,17,8.045,n/a,Rotation/Bullpen Candidate
+5097,NYM,Anthony Gose,RP,34.6,,,3.159,0,Bullpen Candidate
+15369,NYM,Kevin Herget,RP,33.9,,33,0.102,1,Optioned
+sa3008022,NYM,Justin Hagenman,SP/RP,28.4,,12,0.000,3,Optioned
+24937,NYM,Austin Warren,RP,28.8,,10,2.135,1,Optioned
+20404,NYM,Jared Young,INF/OF,29.7,,,0.061,2,Optioned
+sa3023499,NYM,Brandon Sproat,SP,24.5,,25,,Dec'26,Reassigned
+17034,NYM,Sean Reid-Foley,RP,29.5,,22,3.133,0,Reassigned
+sa3009878,NYM,Luke Ritter,INF/OF,28.1,14,,,R5,Reassigned
+15007,NYM,Yacksel Ríos,RP,31.7,,,3.020,0,Reassigned
+sa3019980,NYM,Drew Gilbert,OF,24.4,,,,Dec'25,Reassigned
+25651,NYM,Ty Adcock,RP,28.1,,,0.048,1,Reassigned
+20023,NYM,Rico Garcia,RP,31.2,,,1.042,0,Reassigned
+sa3017949,NYM,Dom Hamel,SP,26.0,,,,R5,Reassigned
+29946,NYM,Grant Hartwig,RP,27.2,,,0.115,2,Reassigned
+sa3020126,NYM,Ryan Clifford,1B/OF,21.6,,,,Dec'26,Reassigned
+21025,NYM,Oliver Ortega,RP,28.4,,,2.019,1,Reassigned
+18347,NYM,Brandon Waddell,SP,30.8,,,0.106,1,Reassigned
+sa3020134,NYM,Jett Williams,INF/OF,21.3,,,,Dec'26,Reassigned
+sa3020575,NYM,Kevin Parada,C,23.6,,,,Dec'25,Reassigned
+sa3014695,NYM,Alex Ramírez,OF,22.2,,,0.000,2,Reassigned
+17859,NYM,Adbert Alzolay,RP,30.0,,,4.050,0,Reassigned
+10323,NYM,Rafael Ortega,OF,33.8,,,3.057,0,Reassigned
+sa3020177,NYM,Blade Tidwell,SP,23.8,,,,Dec'25,Reassigned
+15640,NYY,Aaron Judge,RF,32.9,686,,8.051,n/a,Lineup Regular
+27647,NYY,Anthony Volpe,SS,23.9,679,,2.000,3,Lineup Regular
+9218,NYY,Paul Goldschmidt,1B,37.5,637,,13.059,n/a,Lineup Regular
+15998,NYY,Cody Bellinger,CF,29.7,609,,7.160,n/a,Lineup Regular
+20454,NYY,Jazz Chisholm Jr.,2B,27.1,609,,4.075,2,Lineup Regular
+28080,NYY,Jasson Domínguez,LF,22.1,574,,0.130,2,Lineup Regular
+27562,NYY,Austin Wells,C,26.5,475,,1.031,3,Lineup Regular
+21707,NYY,Oswaldo Cabrera,3B,26.0,385,,2.050,2,Lineup Regular
+29576,NYY,Ben Rice,DH,26.0,138,,0.076,2,Platoon vs R
+23695,NYY,Everson Pereira,OF,23.9,133,,0.041,1,Platoon vs L
+13743,NYY,Max Fried,SP,31.1,,176,6.148,n/a,Starting Rotation
+16137,NYY,Carlos Rodón,SP,32.2,,173,9.168,n/a,Starting Rotation
+19899,NYY,Clarke Schmidt,SP,29.0,,149,3.148,1,Starting Rotation
+13431,NYY,Marcus Stroman,SP,33.9,,145,10.026,n/a,Starting Rotation
+30182,NYY,Will Warren,SP,25.7,,77,0.016,2,Starting Rotation
+18564,NYY,Trent Grisham,OF,28.4,231,,5.060,n/a,Bench
+22823,NYY,Oswald Peraza,INF,24.7,210,,1.014,0,Bench
+17276,NYY,Alex Jackson,C,29.2,134,,2.123,0,Bench
+15816,NYY,Devin Williams,RP,30.5,,63,5.056,n/a,Closer
+16918,NYY,Luke Weaver,RP,31.5,,68,7.112,n/a,Setup Man
+19261,NYY,Ian Hamilton,RP,29.7,,60,2.126,1,Setup Man
+16814,NYY,Tim Hill,RP,35.1,,63,6.112,n/a,Middle Reliever
+7048,NYY,Fernando Cruz,RP,34.9,,61,2.035,3,Middle Reliever
+15551,NYY,Mark Leiter Jr.,RP,34.0,,58,4.031,0,Middle Reliever
+22872,NYY,Yoendrys Gómez,RP,25.4,,46,0.029,0,Middle Reliever
+27702,NYY,Brent Headrick,RP,27.2,,44,0.075,1,Long Reliever
+13125,NYY,Gerrit Cole,SP,34.5,,131,11.111,n/a,Projected Injured List
+21052,NYY,Luis Gil,SP,26.8,,97,2.073,1,Projected Injured List
+21620,NYY,Jake Cousins,RP,30.7,,54,2.091,1,Projected Injured List
+17578,NYY,JT Brubaker,SP/RP,31.3,,50,5.000,n/a,Projected Injured List
+19753,NYY,Jonathan Loáisiga,RP,30.3,,40,6.022,n/a,Projected Injured List
+18384,NYY,Scott Effross,RP,31.2,,26,2.154,2,Projected Injured List
+4949,NYY,Giancarlo Stanton,DH,35.3,308,,14.118,n/a,Projected Injured List
+9874,NYY,DJ LeMahieu,INF,36.7,294,,12.128,n/a,Projected Injured List
+sa738605,NYY,J.C. Escarra,C/INF,29.9,46,,0.000,3,Bench Candidate
+16357,NYY,Pablo Reyes,INF/OF,31.5,35,,2.096,0,Bench Candidate
+15653,NYY,Dominic Smith,1B,29.7,35,,6.034,n/a,Bench Candidate
+sa3005511,NYY,Jorbit Vivas,INF,24.0,14,,0.003,1,Lineup/Bench Candidate
+25817,NYY,Braden Shewmake,INF,27.3,7,,0.065,1,Bench Candidate
+sa3019969,NYY,Spencer Jones,OF,23.8,,,,Dec'25,Lineup Candidate
+14196,NYY,Andrew Velazquez,INF/OF,30.7,,,3.033,0,Bench Candidate
+sa917132,NYY,Ismael Munguia,OF,26.4,,,,R5,Bench Candidate
+sa3023233,NYY,George Lombard Jr.,INF,19.8,,,,Dec'27,Lineup Candidate
+10058,NYY,Tyler Matzek,RP,34.4,,38,6.003,n/a,Bullpen Candidate
+27494,NYY,Clayton Beeter,RP,26.4,,28,0.011,2,Bullpen Candidate
+6632,NYY,Carlos Carrasco,SP,38.0,,26,13.147,n/a,Rotation/Bullpen Candidate
+21420,NYY,Yerry De Los Santos,RP,27.2,,24,1.019,2,Bullpen Candidate
+12997,NYY,Colten Brewer,RP,32.4,,22,3.063,0,Bullpen Candidate
+19558,NYY,Geoff Hartlieb,RP,31.2,,16,1.158,0,Bullpen Candidate
+22273,NYY,Owen White,SP/RP,25.6,,12,0.042,1,Rotation/Bullpen Candidate
+21238,NYY,Allan Winans,SP/RP,29.6,,,0.031,1,Bullpen Candidate
+16135,NYY,Brandon Leibrandt,SP/RP,32.2,,,0.126,2,Bullpen Candidate
+15094,NYY,Rob Zastryzny,RP,33.0,,,1.157,0,Bullpen Candidate
+8801,NYY,Wilking Rodríguez,RP,35.0,,,1.008,1,Bullpen Candidate
+sa3017036,NYY,Michael Arias,RP,23.3,,6,0.000,2,Optioned
+sa3008916,NYY,Jesus Rodriguez,C/INF,22.9,,,0.000,3,Optioned
+sa3021981,NYY,Cam Schlittler,SP,24.1,,9,,Dec'25,Reassigned
+27543,NYY,Duke Ellis,OF,27.1,,,0.037,2,Reassigned
+sa3005836,NYY,Cristian Hernandez,RP,24.5,,,,R5,Reassigned
+sa3007618,NYY,Sean Boyle,SP/RP,28.4,,,,R5,Reassigned
+sa3007876,NYY,Brennen Davis,OF,25.3,,,0.017,1,Reassigned
+sa3007621,NYY,Jayvien Sandridge,RP,26.1,,,,R5,Reassigned
+sa3008573,NYY,Omar Martinez,C,23.7,,,,R5,Reassigned
+sa3020682,NYY,Chase Hampton,SP,23.6,,,,Dec'25,Reassigned
+sa3020611,NYY,Eric Reyzelman,RP,23.7,,,,Dec'25,Reassigned
+sa3017330,NYY,T.J. Rumfield,1B,24.8,,,,R5,Reassigned
+sa657825,NYY,Erick Leal,SP/RP,30.0,,,,R5,Reassigned
+sa3019674,NYY,Roderick Arias,INF,20.5,,,,Dec'26,Reassigned
+sa881850,NYY,Ronaldo Hernández,C,27.3,,,0.004,1,Reassigned
+sa3005456,NYY,Leonardo Pestana,RP,26.6,,,,R5,Reassigned
+sa3020243,NYY,Rafael Flores,C,24.3,,,,Dec'25,Reassigned
+sa3020613,NYY,Kevin Stevens,RP,27.1,,,,Dec'25,Reassigned
+sa919291,OAK,Elvis Alvarado,RP,26.0,,22,0.000,3,Bullpen Candidate
+16252,PHI,Trea Turner,SS,31.7,672,,8.135,n/a,Lineup Regular
+11579,PHI,Bryce Harper,1B,32.4,665,,12.159,n/a,Lineup Regular
+16478,PHI,Kyle Schwarber,DH,32.0,658,,9.086,n/a,Lineup Regular
+11737,PHI,Nick Castellanos,RF,33.0,637,,11.029,n/a,Lineup Regular
+21618,PHI,Alec Bohm,3B,28.6,616,,4.106,2,Lineup Regular
+11739,PHI,J.T. Realmuto,C,34.0,501,,10.038,n/a,Lineup Regular
+12144,PHI,Max Kepler,LF,32.1,497,,8.152,n/a,Lineup Regular
+26294,PHI,Bryson Stott,2B,27.4,602,,3.000,3,Platoon vs R
+20202,PHI,Brandon Marsh,CF,27.2,539,,3.078,2,Platoon vs R
+24336,PHI,Johan Rojas,OF,24.6,315,,1.080,2,Platoon vs L
+17022,PHI,Edmundo Sosa,INF,29.0,175,,4.140,0,Platoon vs L
+10310,PHI,Zack Wheeler,SP,34.8,,202,11.098,n/a,Starting Rotation
+16149,PHI,Aaron Nola,SP,31.8,,188,9.076,n/a,Starting Rotation
+20778,PHI,Cristopher Sánchez,SP,28.2,,171,2.083,0,Starting Rotation
+17277,PHI,Ranger Suárez,SP,29.5,,166,5.112,n/a,Starting Rotation
+19959,PHI,Jesús Luzardo,SP,27.4,,157,4.165,2,Starting Rotation
+21646,PHI,Rafael Marchán,C,26.0,141,,2.006,0,Bench
+20572,PHI,Kody Clemens,INF/OF,28.8,49,,1.134,0,Bench
+16122,PHI,Jordan Romano,RP,31.9,,59,5.051,n/a,Closer
+13799,PHI,Matt Strahm,RP,33.3,,67,8.064,n/a,Setup Man
+31776,PHI,Orion Kerkering,RP,23.9,,63,1.010,3,Setup Man
+16990,PHI,Tanner Banks,RP,33.4,,68,2.092,1,Middle Reliever
+12972,PHI,Joe Ross,RP,31.8,,63,7.018,n/a,Middle Reliever
+14552,PHI,José Ruiz,RP,30.4,,62,4.148,0,Middle Reliever
+17780,PHI,José Alvarado,RP,29.8,,60,7.088,n/a,Middle Reliever
+11836,PHI,Taijuan Walker,RP,32.6,,66,10.142,n/a,Long Reliever
+19358,PHI,Weston Wilson,INF/OF,30.5,84,,0.113,1,Projected Injured List
+22411,PHI,Cal Stevenson,OF,28.5,42,,0.088,1,Bench Candidate
+22505,PHI,Buddy Kennedy,INF/OF,26.4,21,,0.131,0,Bench Candidate
+18067,PHI,Garrett Stubbs,C,31.8,19,,4.120,1,Bench Candidate
+sa3020758,PHI,Gabriel Rincones Jr.,OF,24.0,7,,,Dec'25,Bench Candidate
+21987,PHI,Rodolfo Castro,INF,25.8,,,1.150,0,Bench Candidate
+sa3017372,PHI,Paul McIntosh,C/OF,27.3,,,,R5,Bench Candidate
+22164,PHI,Payton Henry,C,27.7,,,0.066,2,Bench Candidate
+16375,PHI,Óscar Mercado,OF,30.2,,,3.031,0,Bench Candidate
+16434,PHI,Christian Arroyo,INF,29.8,,,4.166,0,Bench Candidate
+sa3020577,PHI,Otto Kemp,INF,25.5,,,,Dec'25,Bench Candidate
+sa3007502,PHI,Matt Kroon,OF,28.3,,,,R5,Bench Candidate
+sa3003219,PHI,Rafael Lantigua,INF/OF,26.9,,,,R5,Bench Candidate
+sa3017880,PHI,Andrew Painter,SP,21.9,,64,,Dec'25,Rotation Candidate
+20629,PHI,Tyler Phillips,SP/RP,27.4,,43,0.048,0,Bullpen Candidate
+23223,PHI,Michael Mercado,SP/RP,25.9,,40,0.031,2,Bullpen Candidate
+27942,PHI,John McMillon,RP,27.1,,36,0.099,2,Bullpen Candidate
+22092,PHI,Kyle Tyler,SP/RP,28.2,,30,0.089,1,Bullpen Candidate
+25348,PHI,Devin Sweet,RP,28.5,,24,0.047,2,Bullpen Candidate
+sa877578,PHI,Alan Rangel,SP/RP,27.5,,22,0.012,2,Bullpen Candidate
+26020,PHI,Seth Johnson,SP/RP,26.5,,20,0.022,1,Bullpen Candidate
+sa3014534,PHI,Mick Abel,SP/RP,23.6,,18,0.000,3,Bullpen Candidate
+19588,PHI,Guillo Zuñiga,RP,26.4,,15,0.129,1,Bullpen Candidate
+17701,PHI,Jose Cuas,RP,30.7,,10,2.019,1,Bullpen Candidate
+21327,PHI,Nicholas Padilla,RP,28.2,,,0.040,1,Bullpen Candidate
+sa3066034,PHI,Koyo Aoyagi,SP/RP,31.2,,,,3,Bullpen Candidate
+19995,PHI,Joel Kuhnel,RP,30.1,,,1.127,0,Bullpen Candidate
+21093,PHI,Nick Vespi,RP,29.4,,,0.159,0,Bullpen Candidate
+17732,PHI,Nabil Crismatt,RP,30.2,,,2.158,0,Bullpen Candidate
+23426,PHI,Max Lazar,RP,25.8,,50,0.052,3,Optioned
+sa3015433,PHI,Jean Cabrera,SP,23.4,,,0.000,3,Optioned
+sa3015346,PHI,Moisés Chace,SP,21.7,,,0.000,3,Optioned
+sa3007585,PHI,Austin Schulfer,RP,29.2,,,,R5,Optioned
+sa3017130,PHI,Griff McGarry,SP/RP,25.8,,16,,R5,Reassigned
+sa3017473,PHI,Tristan Garnett,RP,26.9,,,,R5,Reassigned
+sa3022609,PHI,Aidan Miller,SS,20.7,,,,Dec'27,Reassigned
+sa3020240,PHI,Justin Crawford,OF,21.2,,,,Dec'26,Reassigned
+sa3014468,PHI,Carson Taylor,1B/C,25.8,,,,R5,Reassigned
+sa3019917,PHI,Caleb Ricketts,C,24.8,,,,Dec'25,Reassigned
+19326,PIT,Bryan Reynolds,RF,30.1,644,,5.163,n/a,Lineup Regular
+21711,PIT,Oneil Cruz,CF,26.4,630,,2.110,0,Lineup Regular
+18577,PIT,Ke'Bryan Hayes,3B,28.1,588,,4.075,2,Lineup Regular
+16512,PIT,Isiah Kiner-Falefa,SS,30.0,553,,7.000,n/a,Lineup Regular
+27490,PIT,Nick Gonzales,2B,25.8,483,,1.018,1,Lineup Regular
+9847,PIT,Andrew McCutchen,DH,38.4,455,,15.123,n/a,Lineup Regular
+2967,PIT,Tommy Pham,LF,37.0,448,,9.092,n/a,Lineup Regular
+21524,PIT,Joey Bart,C,28.2,379,,3.020,0,Lineup Regular
+25807,PIT,Jared Triolo,INF,27.1,231,,1.078,2,Platoon vs L
+17766,PIT,DJ Stewart,1B,31.3,119,,3.144,0,Platoon vs R
+17594,PIT,Mitch Keller,SP,28.9,,180,5.026,n/a,Starting Rotation
+33677,PIT,Paul Skenes,SP,22.8,,174,1.000,3,Starting Rotation
+27863,PIT,Jared Jones,SP,23.6,,159,1.000,3,Starting Rotation
+15423,PIT,Andrew Heaney,SP,33.8,,130,9.150,n/a,Starting Rotation
+20070,PIT,Bailey Falter,SP,27.9,,124,2.138,0,Starting Rotation
+25332,PIT,Endy Rodríguez,C,24.8,352,,1.077,2,Bench
+15223,PIT,Adam Frazier,INF/OF,33.2,224,,8.075,n/a,Bench
+19818,PIT,Joshua Palacios,OF,29.6,105,,1.111,0,Bench
+19569,PIT,David Bednar,RP,30.4,,64,4.076,2,Closer
+17878,PIT,Dennis Santana,RP,28.9,,66,4.126,0,Setup Man
+22361,PIT,Colin Holderman,RP,29.4,,62,2.144,3,Setup Man
+17639,PIT,Justin Lawrence,RP,30.3,,66,2.167,0,Middle Reliever
+27572,PIT,Carmen Mlodzinski,RP,26.1,,61,1.088,2,Middle Reliever
+19349,PIT,Caleb Ferguson,RP,28.7,,60,6.093,n/a,Middle Reliever
+15042,PIT,Tim Mayza,RP,33.1,,55,5.129,n/a,Middle Reliever
+19962,PIT,Joey Wentz,RP,27.4,,57,1.166,0,Long Reliever
+22487,PIT,Johan Oviedo,SP,27.0,,76,3.079,1,60-Day IL
+21101,PIT,Dauri Moreta,RP,28.9,,37,2.104,1,60-Day IL
+26477,PIT,Spencer Horwitz,1B,27.3,441,,0.152,1,Projected Injured List
+27504,PIT,Nick Yorke,INF/OF,22.9,168,,0.014,3,Lineup/Bench Candidate
+22244,PIT,Jack Suwinski,OF,26.6,140,,2.058,1,Lineup/Bench Candidate
+29573,PIT,Billy Cook,1B/OF,26.2,91,,0.022,3,Lineup/Bench Candidate
+29617,PIT,Henry Davis,C,25.5,72,,1.039,2,Lineup/Bench Candidate
+23818,PIT,Ji Hwan Bae,OF/INF,25.6,42,,1.099,2,Lineup/Bench Candidate
+24273,PIT,Liover Peguero,INF,24.2,28,,0.089,1,Lineup/Bench Candidate
+19806,PIT,Jason Delay,C,30.0,19,,2.005,2,Bench Candidate
+21716,PIT,Enmanuel Valdez,INF,26.2,14,,1.018,1,Lineup/Bench Candidate
+19717,PIT,Darick Hall,1B,29.6,14,,0.163,1,Lineup/Bench Candidate
+sa3015376,PIT,Tsung-Che Cheng,INF,23.6,,,0.000,2,Lineup/Bench Candidate
+sa3016977,PIT,Aaron McKeithan,C,25.2,,,,R5,Bench Candidate
+sa3015665,PIT,Omar Alfonzo,C/1B,21.6,,,,R5,Bench Candidate
+sa3008113,PIT,Malcom Nuñez,3B/1B,24.0,,,,R5,Bench Candidate
+sa3004263,PIT,Abrahan Gutierrez,C,25.4,,,,R5,Bench Candidate
+19294,PIT,Nick Solak,OF,30.2,,,2.131,0,Bench Candidate
+20002,PIT,Bryce Johnson,OF,29.4,,,0.164,0,Bench Candidate
+sa3010399,PIT,Matt Gorski,OF,27.2,,,,R5,Bench Candidate
+27604,PIT,Alika Williams,INF,26.0,,,1.032,2,Bench Candidate
+sa3008470,PIT,Braxton Ashcraft,SP/RP,25.4,,46,0.000,2,Rotation/Bullpen Candidate
+27775,PIT,Kyle Nicolas,RP,26.0,,44,0.170,2,Bullpen Candidate
+17610,PIT,Tanner Rainey,RP,32.2,,42,5.127,n/a,Bullpen Candidate
+24728,PIT,Mike Burrows,SP/RP,25.3,,41,0.002,1,Rotation/Bullpen Candidate
+16350,PIT,Ryan Borucki,RP,30.9,,28,6.006,n/a,Bullpen Candidate
+21367,PIT,Peter Strzelecki,RP,30.4,,26,1.029,0,Bullpen Candidate
+21544,PIT,Chase Shugart,RP,28.4,,19,0.034,2,Bullpen Candidate
+19444,PIT,Yohan Ramírez,RP,29.8,,17,3.055,0,Bullpen Candidate
+23455,PIT,Hunter Stratton,RP,28.3,,15,1.028,3,Bullpen Candidate
+sa3020752,PIT,Thomas Harrington,SP,23.7,,9,,Dec'25,Rotation Candidate
+19891,PIT,Ryder Ryan,RP,29.8,,,0.061,1,Bullpen Candidate
+18311,PIT,Carson Fulmer,SP/RP,31.2,,,3.108,0,Rotation/Bullpen Candidate
+20385,PIT,Isaac Mattson,RP,29.7,,,0.029,2,Bullpen Candidate
+sa3006543,PIT,Eddy Yean,RP,23.7,,,,R5,Bullpen Candidate
+12784,PIT,Burch Smith,RP,34.9,,,5.086,n/a,Bullpen Candidate
+21955,PIT,Yerry Rodríguez,RP,27.4,,,0.111,0,Released
+sa3017428,PIT,Bubba Chandler,SP,22.5,,75,,Dec'25,Reassigned
+sa3020214,PIT,Termarr Johnson,INF,20.7,,,,Dec'26,Reassigned
+sa3022409,PIT,Hunter Barco,SP,24.2,,,,Dec'25,Reassigned
+sa3018259,PIT,Anthony Solometo,SP,22.3,,,,Dec'25,Reassigned
+sa3065496,PIT,Konnor Griffin,SS/OF,18.9,,,,Dec'28,Reassigned
+sa3018185,PIT,Sean Sullivan,SP,24.4,,,,R5,Reassigned
+sa3019922,PIT,Jack Brannigan,INF,24.0,,,,Dec'25,Reassigned
+29490,SDP,Jackson Merrill,CF,21.9,665,,1.000,3,Lineup Regular
+19709,SDP,Fernando Tatis Jr.,RF,26.2,658,,5.120,n/a,Lineup Regular
+11493,SDP,Manny Machado,3B,32.7,651,,12.056,n/a,Lineup Regular
+18568,SDP,Luis Arraez,DH,27.9,644,,5.121,n/a,Lineup Regular
+12161,SDP,Xander Bogaerts,SS,32.4,644,,11.042,n/a,Lineup Regular
+18036,SDP,Jake Cronenworth,1B,31.1,602,,5.000,n/a,Lineup Regular
+10231,SDP,Jose Iglesias,2B,35.2,378,,10.158,n/a,Lineup Regular
+11680,SDP,Elias Díaz,C,34.3,307,,8.087,n/a,Lineup Regular
+4940,SDP,Jason Heyward,LF,35.6,350,,15.000,n/a,Platoon vs R
+16572,SDP,Connor Joe,1B/OF,32.6,245,,3.136,2,Platoon vs L
+18525,SDP,Dylan Cease,SP,29.2,,185,5.089,n/a,Starting Rotation
+19853,SDP,Michael King,SP,29.8,,178,5.004,n/a,Starting Rotation
+13074,SDP,Yu Darvish,SP,38.6,,164,12.146,n/a,Starting Rotation
+15454,SDP,Nick Pivetta,SP,32.1,,154,6.166,n/a,Starting Rotation
+19646,SDP,Kyle Hart,SP,32.3,,107,0.128,2,Starting Rotation
+22217,SDP,Luis Campusano,C,26.4,322,,2.144,1,Bench
+19964,SDP,Eguy Rosario,INF/OF,25.5,266,,1.080,0,Bench
+15730,SDP,Tyler Wade,INF/OF,30.3,91,,5.058,n/a,Bench
+30115,SDP,Robert Suarez,RP,34.0,,65,3.000,n/a,Closer
+11861,SDP,Jason Adam,RP,33.6,,67,4.132,1,Setup Man
+22210,SDP,Jeremiah Estrada,RP,26.4,,63,1.069,1,Setup Man
+20039,SDP,Adrian Morejon,RP,26.0,,61,4.140,1,Middle Reliever
+33826,SDP,Yuki Matsui,RP,29.4,,58,1.000,n/a,Middle Reliever
+14295,SDP,Wandy Peralta,RP,33.6,,52,7.168,n/a,Middle Reliever
+29628,SDP,Alek Jacob,RP,26.7,,48,0.130,2,Middle Reliever
+23488,SDP,Ron Marinaccio,RP,29.7,,40,2.027,1,Long Reliever
+26304,SDP,Bryan Hoeing,RP,28.4,,56,2.015,2,Projected Injured List
+22253,SDP,Sean Reynolds,RP,26.9,,53,0.039,1,Projected Injured List
+12970,SDP,Joe Musgrove,SP,32.3,,,8.063,n/a,Projected Injured List
+sa3004048,SDP,Tirso Ornelas,OF,25.0,308,,0.000,2,Lineup/Bench Candidate
+21496,SDP,Brandon Lockridge,OF,28.0,42,,0.030,3,Bench Candidate
+6887,SDP,Martín Maldonado,C,38.6,32,,12.100,n/a,Bench Candidate
+19198,SDP,Yuli Gurriel,1B,40.7,14,,7.073,n/a,Lineup/Bench Candidate
+20970,SDP,Oscar Gonzalez,OF,27.2,14,,1.040,2,Lineup/Bench Candidate
+18217,SDP,Brett Sullivan,C/1B,31.0,6,,0.110,0,Bench Candidate
+19384,SDP,Trenton Brooks,1B/OF,29.7,,,0.035,3,Lineup/Bench Candidate
+22232,SDP,Mason McCoy,INF,29.9,,,0.065,3,Bench Candidate
+16496,SDP,Forrest Wall,OF,29.3,,,0.124,2,Bench Candidate
+12092,SDP,Niko Goodrum,INF,33.0,,,4.097,1,Bench Candidate
+sa1169803,SDP,Clay Dungan,INF/OF,28.8,,,,R5,Bench Candidate
+19901,SDP,Gavin Sheets,1B/OF,28.9,,,3.076,1,Lineup/Bench Candidate
+19683,SDP,Mike Brosseau,INF/OF,31.0,,,3.099,1,Bench Candidate
+25550,SDP,Matt Waldron,SP,28.4,,80,1.039,1,Rotation Candidate
+24719,SDP,Randy Vásquez,SP,26.3,,65,0.147,1,Rotation Candidate
+21487,SDP,Stephen Kolek,SP/RP,27.9,,57,1.000,3,Rotation/Bullpen Candidate
+23443,SDP,Tom Cosgrove,RP,28.7,,46,1.085,1,Bullpen Candidate
+25386,SDP,Jhony Brito,SP,27.1,,37,1.048,1,Bullpen Candidate
+sa3016035,SDP,Bradgley Rodriguez,RP,21.3,,33,,Dec'25,Bullpen Candidate
+sa3006971,SDP,Omar Cruz,SP/RP,26.1,,22,0.000,3,Rotation/Bullpen Candidate
+sa3015464,SDP,Juan Nuñez,SP/RP,24.3,,10,0.000,n/a,Bullpen Candidate
+22461,SDP,Logan Gillaspie,RP,27.9,,,0.110,0,Bullpen Candidate
+19243,SDP,Wes Benjamin,SP/RP,31.6,,,1.028,2,Bullpen Candidate
+sa3017418,SDP,Ryan Bergert,SP/RP,25.0,,17,0.000,3,Optioned
+sa3016584,SDP,Henry Baez,SP,22.4,,,0.000,3,Optioned
+sa3019374,SDP,Francis Pena,RP,24.1,,26,,Dec'25,Reassigned
+14506,SDP,J.B. Wendelken,RP,32.0,,19,3.028,0,Reassigned
+22815,SDP,Luis Patiño,SP/RP,25.4,,12,3.061,0,Reassigned
+sa917302,SDP,Yonathan Perlaza,OF,26.3,,,,R5,Reassigned
+sa3020336,SDP,Braden Nett,SP,22.7,,,,Dec'25,Reassigned
+sa3017146,SDP,Ryan Och,RP,26.6,,,,R5,Reassigned
+sa3019865,SDP,Romeo Sanabria,1B,22.9,,,,Dec'25,Reassigned
+sa3017660,SDP,Anthony Vilar,C/INF,25.9,,,,R5,Reassigned
+21131,SDP,Jose Espada,RP,28.0,,,0.010,3,Reassigned
+17117,SDP,Austin Davis,RP,32.1,,,3.120,0,Reassigned
+sa3005284,SDP,Eduarniel Nunez,RP,25.8,,,,R5,Reassigned
+sa917637,SDP,Harold Chirino,RP,27.2,,,,R5,Reassigned
+sa877500,SDP,Rodolfo Durán,C,27.0,,,,R5,Reassigned
+sa3005729,SDP,Brandon Valenzuela,C,24.4,,,,R5,Reassigned
+sa3020881,SDP,Ethan Salas,C,18.8,,,,Dec'27,Reassigned
+sa3023363,SDP,Leo De Vries,SS,18.4,,,,Dec'28,Reassigned
+sa3007590,SDP,Jake Higginbotham,RP,29.2,,,,R5,Reassigned
+sa3020594,SDP,Austin Krob,SP,25.5,,,,Dec'25,Reassigned
+23697,SEA,Julio Rodríguez,CF,24.2,679,,3.000,3,Lineup Regular
+19290,SEA,Randy Arozarena,LF,30.0,658,,4.129,2,Lineup Regular
+15491,SEA,J.P. Crawford,SS,30.2,609,,6.163,n/a,Lineup Regular
+21534,SEA,Cal Raleigh,C,28.3,584,,3.085,3,Lineup Regular
+18363,SEA,Victor Robles,RF,27.8,553,,6.033,n/a,Lineup Regular
+29547,SEA,Ryan Bliss,2B,25.2,329,,0.061,2,Lineup Regular
+13152,SEA,Jorge Polanco,3B,31.7,518,,8.024,n/a,Platoon vs R
+19354,SEA,Luke Raley,1B,30.5,483,,2.106,0,Platoon vs R
+14274,SEA,Mitch Haniger,DH,34.2,385,,8.048,n/a,Platoon vs R
+18042,SEA,Dylan Moore,INF/OF,32.6,378,,6.000,n/a,Platoon vs L
+8623,SEA,Donovan Solano,INF,37.2,371,,9.057,n/a,Platoon vs L
+15161,SEA,Mitch Garver,C,34.1,316,,7.045,n/a,Platoon vs L
+22250,SEA,Logan Gilbert,SP,27.8,,196,3.144,3,Starting Rotation
+15689,SEA,Luis Castillo,SP,32.2,,181,7.101,n/a,Starting Rotation
+29837,SEA,Bryce Miller,SP,26.5,,173,1.153,3,Starting Rotation
+30279,SEA,Bryan Woo,SP,25.1,,134,1.121,3,Starting Rotation
+27470,SEA,Emerson Hancock,SP,25.8,,62,0.116,2,Starting Rotation
+26438,SEA,Dominic Canzone,OF,27.6,49,,1.068,2,Bench
+20373,SEA,Andrés Muñoz,RP,26.1,,64,5.080,n/a,Closer
+23307,SEA,Collin Snider,RP,29.4,,65,1.128,0,Setup Man
+21894,SEA,Gregory Santos,RP,25.5,,62,2.055,1,Setup Man
+17948,SEA,Trent Thornton,RP,31.4,,67,4.148,0,Middle Reliever
+17888,SEA,Tayler Saucedo,RP,31.7,,61,3.112,1,Middle Reliever
+17170,SEA,Gabe Speier,RP,29.9,,58,3.000,0,Middle Reliever
+21045,SEA,Seth Martinez,RP,30.5,,56,2.077,0,Middle Reliever
+22915,SEA,Carlos Vargas,RP,25.4,,50,0.140,0,Long Reliever
+25436,SEA,George Kirby,SP,27.1,,159,2.151,3,Projected Injured List
+25756,SEA,Matt Brash,RP,26.8,,48,2.121,2,Projected Injured List
+21549,SEA,Jackson Kowar,RP,28.4,,34,1.163,1,60-Day IL
+sa3020459,SEA,Cole Young,INF,21.6,105,,,Dec'26,Lineup Candidate
+31396,SEA,Tyler Locklear,1B,24.3,91,,0.023,2,Lineup/Bench Candidate
+21009,SEA,Leo Rivas,INF,27.4,49,,0.098,2,Lineup/Bench Candidate
+25425,SEA,Austin Shenton,1B/3B,27.1,35,,0.075,2,Lineup/Bench Candidate
+20017,SEA,Miles Mastrobuoni,INF/OF,29.4,21,,1.077,1,Lineup/Bench Candidate
+15679,SEA,Rowdy Tellez,1B,30.0,21,,6.004,n/a,Lineup/Bench Candidate
+sa3004153,SEA,Blake Hunt,C,26.3,6,,0.002,2,Bench Candidate
+sa3022437,SEA,Ben Williamson,INF,24.3,,,,Dec'26,Lineup/Bench Candidate
+22274,SEA,Samad Taylor,INF/OF,26.7,,,0.071,1,Bench Candidate
+sa915613,SEA,Nick Dunn,INF,28.1,,,,R5,Lineup/Bench Candidate
+16448,SEA,Jacob Nottingham,C,29.9,,,1.098,0,Bench Candidate
+sa3018409,SEA,Lazaro Montes,OF,20.4,,,,Dec'26,Lineup Candidate
+sa3017627,SEA,Harry Ford,C/OF,22.0,,,,Dec'25,Lineup/Bench Candidate
+sa3022923,SEA,Colt Emerson,INF,19.6,,,,Dec'27,Lineup Candidate
+sa3015018,SEA,Nick Raposo,C,26.8,,,0.003,2,Bench Candidate
+sa3018429,SEA,Michael Arroyo,INF,20.3,,,,Dec'26,Bench Candidate
+31883,SEA,Troy Taylor,RP,23.5,,54,0.051,3,Bullpen Candidate
+25921,SEA,Casey Legumina,RP,27.7,,41,0.139,1,Bullpen Candidate
+23265,SEA,Cody Bolton,RP,26.7,,35,0.148,1,Bullpen Candidate
+20997,SEA,Eduard Bazardo,RP,29.5,,28,1.118,0,Bullpen Candidate
+31839,SEA,Shintaro Fujinami,RP,30.9,,26,1.079,2,Bullpen Candidate
+27787,SEA,Will Klein,RP,25.3,,21,0.035,2,Bullpen Candidate
+sa3023077,SEA,Logan Evans,SP,23.8,,16,,Dec'26,Rotation/Bullpen Candidate
+sa3022951,SEA,Brandyn Garcia,SP,24.8,,15,,Dec'26,Rotation/Bullpen Candidate
+18,SEA,Neftalí Feliz,RP,36.9,,14,7.156,n/a,Bullpen Candidate
+11426,SEA,Drew Pomeranz,RP,36.3,,13,11.021,n/a,Bullpen Candidate
+15046,SEA,Trevor Gott,RP,32.5,,10,6.057,n/a,Bullpen Candidate
+20298,SEA,Jhonathan Díaz,SP/RP,28.5,,9,0.119,2,Bullpen Candidate
+13287,SEA,Jesse Hahn,RP,35.6,,,6.067,n/a,Bullpen Candidate
+19903,SEA,Adonis Medina,RP,28.2,,,0.082,0,Bullpen Candidate
+sa917331,SEA,Sauryn Lao,RP,25.6,,,,R5,Bullpen Candidate
+27910,SEA,Austin Kitchen,RP,28.1,,,0.041,2,Bullpen Candidate
+20638,SEA,Luis F. Castillo,SP/RP,30.0,,,0.009,2,Bullpen Candidate
+11121,SEA,Casey Lawrence,SP,37.4,,,1.064,0,Bullpen Candidate
+sa917999,SEA,Dauris Valdez,RP,29.4,,,,R5,Released
+sa3006617,SEA,Blas Castano,SP/RP,26.5,,26,0.000,3,Optioned
+22116,SEA,Hagen Danner,RP,26.4,,22,0.052,1,Optioned
+sa3020014,SEA,Connor Charping,C,25.9,,,,Dec'25,Reassigned
+sa3020124,SEA,Rhylan Thomas,OF,24.9,,,,Dec'25,Reassigned
+sa3025298,SEA,Hunter Cranton,RP,24.4,,,,Dec'27,Reassigned
+sa3025435,SEA,Josh Caron,C,21.6,,,,Dec'27,Reassigned
+sa3020840,SEA,Tyler Cleveland,RP,25.5,,,,Dec'25,Reassigned
+sa3016803,SEA,Spencer Packard,OF/1B,27.4,,,,R5,Reassigned
+20418,SEA,Josh Fleming,RP,28.8,,,3.069,0,Reassigned
+25505,SEA,Cade Marlowe,OF,27.7,,,0.090,1,Reassigned
+sa3022432,SEA,Brock Rodden,INF,24.8,,,,Dec'26,Reassigned
+sa3016843,SEA,Peyton Alford,RP,27.6,,,,R5,Reassigned
+16505,SFG,Matt Chapman,3B,31.9,679,,7.109,n/a,Lineup Regular
+15986,SFG,Willy Adames,SS,29.5,672,,6.105,n/a,Lineup Regular
+33824,SFG,Jung Hoo Lee,CF,26.6,616,,1.000,3,Lineup Regular
+22515,SFG,Heliot Ramos,LF,25.5,602,,1.103,0,Lineup Regular
+26208,SFG,Tyler Fitzgerald,2B,27.5,588,,1.000,2,Lineup Regular
+27478,SFG,Patrick Bailey,C,25.8,506,,1.136,3,Lineup Regular
+21871,SFG,Jerar Encarnacion,DH,27.4,364,,0.112,0,Lineup Regular
+14854,SFG,Mike Yastrzemski,RF,34.5,497,,5.128,n/a,Platoon vs R
+18126,SFG,LaMonte Wade Jr.,1B,31.2,490,,5.035,n/a,Platoon vs R
+5827,SFG,Wilmer Flores,INF,33.6,308,,11.003,n/a,Platoon vs L
+26467,SFG,Luis Matos,OF,23.1,238,,1.014,1,Platoon vs L
+17995,SFG,Logan Webb,SP,28.3,,201,5.044,n/a,Starting Rotation
+11486,SFG,Robbie Ray,SP,33.4,,151,10.007,n/a,Starting Rotation
+8700,SFG,Justin Verlander,SP,42.0,,138,19.002,n/a,Starting Rotation
+19618,SFG,Jordan Hicks,SP,28.5,,135,7.000,n/a,Starting Rotation
+27758,SFG,Kyle Harrison,SP,23.6,,109,1.041,3,Starting Rotation
+27735,SFG,Brett Wisely,INF/OF,25.8,147,,1.035,1,Bench
+22209,SFG,Sam Huff,C,27.1,45,,1.156,0,Bench
+20423,SFG,Ryan Walker,RP,29.3,,68,1.136,3,Closer
+15541,SFG,Tyler Rogers,RP,34.2,,70,5.034,n/a,Setup Man
+21992,SFG,Camilo Doval,RP,27.7,,62,3.071,2,Setup Man
+21481,SFG,Sean Hjelle,RP,27.8,,66,1.072,1,Middle Reliever
+26252,SFG,Erik Miller,RP,27.1,,61,1.000,3,Middle Reliever
+15043,SFG,Lou Trivino,RP,33.4,,56,6.163,n/a,Middle Reliever
+23974,SFG,Randy Rodríguez,RP,25.5,,53,0.148,1,Middle Reliever
+23499,SFG,Keaton Winn,RP,27.0,,54,1.053,2,Long Reliever
+13499,SFG,Tom Murphy,C,33.9,146,,7.092,n/a,Projected Injured List
+25690,SFG,Grant McCray,OF,24.3,119,,0.047,3,Lineup/Bench Candidate
+27577,SFG,Casey Schmitt,INF,26.0,49,,1.035,1,Lineup/Bench Candidate
+31490,SFG,Wade Meckler,OF,24.9,14,,0.024,1,Lineup/Bench Candidate
+23985,SFG,Osleivis Basabe,INF,24.5,7,,0.050,1,Bench Candidate
+24782,SFG,David Villar,INF,28.1,,,0.162,0,Lineup/Bench Candidate
+13329,SFG,Jake Lamb,INF/OF,34.4,,,8.010,n/a,Lineup/Bench Candidate
+sa3015190,SFG,Adrián Sugastey,C,22.4,,,,R5,Bench Candidate
+16417,SFG,Sergio Alcántara,INF,28.7,,,2.005,0,Bench Candidate
+10059,SFG,Max Stassi,C,34.0,,,8.033,n/a,Bench Candidate
+20626,SFG,Logan Porter,C/1B,29.7,,,0.021,3,Bench Candidate
+sa3011227,SFG,Christian Koss,INF/OF,27.1,,,,R5,Bench Candidate
+31635,SFG,Hayden Birdsong,SP/RP,23.5,,108,0.096,3,Rotation/Bullpen Candidate
+30076,SFG,Landen Roupp,SP/RP,26.5,,92,0.085,2,Rotation/Bullpen Candidate
+21584,SFG,Tristan Beck,SP/RP,28.7,,42,1.129,2,Rotation/Bullpen Candidate
+30226,SFG,Spencer Bivens,SP/RP,30.7,,40,0.077,2,Rotation/Bullpen Candidate
+sa3008074,SFG,Antonio Jimenez,RP,23.8,,26,,R5,Bullpen Candidate
+19320,SFG,Joey Lucchesi,SP/RP,31.8,,8,4.113,0,Rotation/Bullpen Candidate
+sa917689,SFG,Joel Peguero,RP,27.8,,,,R5,Bullpen Candidate
+sa3002818,SFG,Juan Mercedes,SP,24.9,,,,R5,Bullpen Candidate
+4001,SFG,Enny Romero,SP/RP,34.1,,,3.017,0,Bullpen Candidate
+sa3002965,SFG,Helcris Olivarez,SP/RP,24.6,,,0.131,1,Bullpen Candidate
+19784,SFG,Justin Garza,RP,31.0,,,0.157,2,Bullpen Candidate
+18815,SFG,Miguel Díaz,RP,30.3,,,3.006,0,Bullpen Candidate
+30171,SFG,Mason Black,SP/RP,25.2,,50,0.048,2,Optioned
+26448,SFG,Trevor McDonald,SP/RP,24.0,,38,0.001,2,Optioned
+sa3014922,SFG,Carson Ragsdale,SP/RP,26.8,,28,0.000,3,Optioned
+sa3017868,SFG,Carson Seymour,SP/RP,26.2,,24,0.000,3,Optioned
+25616,SFG,Marco Luciano,OF/INF,23.5,63,,0.092,1,Optioned
+sa3020529,SFG,Carson Whisenhunt,SP,24.4,,35,,Dec'25,Reassigned
+25665,SFG,Cole Waites,RP,26.7,,14,0.110,2,Reassigned
+26364,SFG,Ethan Small,RP,28.1,,11,0.151,1,Reassigned
+sa3022757,SFG,Bryce Eldridge,1B,20.4,91,,,Dec'27,Reassigned
+18792,SFG,Miguel Del Pozo,RP,32.4,,,0.124,1,Reassigned
+22370,SFG,Raymond Burgos,RP,26.3,,,0.003,3,Reassigned
+24282,SFG,Kai-Wei Teng,SP/RP,26.3,,,0.022,2,Reassigned
+27479,STL,Masyn Winn,SS,23.0,665,,1.045,3,Lineup Regular
+9777,STL,Nolan Arenado,3B,33.9,658,,11.155,n/a,Lineup Regular
+11609,STL,Willson Contreras,1B,32.8,602,,8.108,n/a,Lineup Regular
+24679,STL,Brendan Donovan,LF,28.1,595,,3.000,3,Lineup Regular
+27475,STL,Jordan Walker,RF,22.8,567,,1.044,1,Lineup Regular
+21454,STL,Lars Nootbaar,CF,27.5,539,,3.076,2,Lineup Regular
+20599,STL,Iván Herrera,C,24.8,398,,1.034,0,Lineup Regular
+27615,STL,Alec Burleson,DH,26.3,476,,2.029,3,Platoon vs R
+22263,STL,Nolan Gorman,2B,24.8,455,,2.114,2,Platoon vs R
+27883,STL,Thomas Saggese,INF,22.9,224,,0.020,3,Platoon vs L
+21497,STL,Luken Baker,1B,28.0,133,,0.122,1,Platoon vs L
+12768,STL,Sonny Gray,SP,35.3,,181,11.061,n/a,Starting Rotation
+9803,STL,Miles Mikolas,SP,36.5,,176,8.037,n/a,Starting Rotation
+17425,STL,Erick Fedde,SP,32.0,,164,5.099,n/a,Starting Rotation
+26108,STL,Andre Pallante,SP,26.5,,152,2.145,1,Starting Rotation
+13361,STL,Steven Matz,SP,33.8,,116,9.099,n/a,Starting Rotation
+22557,STL,Michael Siani,OF,25.6,259,,1.033,2,Bench
+25782,STL,Pedro Pagés,C,26.5,243,,0.166,2,Bench
+18138,STL,Ryan Helsley,RP,30.6,,66,5.105,n/a,Closer
+22294,STL,Matthew Liberatore,RP,25.3,,85,1.144,1,Setup Man
+24862,STL,Ryan Fernandez,RP,26.7,,65,1.000,3,Setup Man
+19574,STL,JoJo Romero,RP,28.5,,61,4.045,0,Middle Reliever
+22051,STL,John King,RP,30.5,,59,3.148,1,Middle Reliever
+24763,STL,Kyle Leahy,RP,27.8,,56,0.140,1,Middle Reliever
+20348,STL,Riley O'Brien,RP,30.1,,53,1.009,1,Middle Reliever
+29519,STL,Gordon Graceffo,RP,25.0,,49,0.004,2,Long Reliever
+25918,STL,Zack Thompson,RP,27.4,,35,1.072,1,Projected Injured List
+31349,STL,Victor Scott II,OF,24.1,294,,0.083,2,Lineup/Bench Candidate
+24605,STL,Michael Helman,INF/OF,28.8,56,,0.029,3,Bench Candidate
+sa3014834,STL,Matt Koperniak,OF,27.1,35,,0.000,3,Lineup/Bench Candidate
+23378,STL,Jose Barrero,INF/OF,26.9,21,,1.161,0,Bench Candidate
+21746,STL,José Fermín,INF,25.9,7,,0.166,1,Bench Candidate
+15694,STL,Chance Sisco,C,30.0,,,3.009,0,Bench Candidate
+18848,STL,Yohel Pozo,C,27.7,,,0.036,3,Bench Candidate
+22165,STL,Ryan Vilade,OF,26.1,,,0.051,1,Bench Candidate
+sa3025154,STL,JJ Wetherholt,INF,22.5,,,,Dec'27,Lineup Candidate
+sa857219,STL,Gavin Collins,C,29.6,,,,R5,Bench Candidate
+sa3019840,STL,R.J. Yeager,1B/3B,26.4,,,,Dec'25,Bench Candidate
+sa3018100,STL,César Prieto,INF,25.8,,,,Dec'25,Bench Candidate
+sa3017000,STL,Wade Stauss,C,25.9,,,,R5,Bench Candidate
+sa3019842,STL,Nathan Church,OF,24.7,,,,Dec'25,Bench Candidate
+29869,STL,Michael McGreevy,SP/RP,24.7,,57,0.014,2,Rotation/Bullpen Candidate
+31261,STL,Chris Roycroft,RP,27.7,,51,0.083,2,Bullpen Candidate
+29521,STL,Ryan Loutos,RP,26.1,,44,0.021,2,Bullpen Candidate
+18337,STL,Nick Anderson,RP,34.7,,38,5.094,n/a,Bullpen Candidate
+25311,STL,Roddery Muñoz,SP/RP,24.9,,32,0.087,1,Rotation/Bullpen Candidate
+sa3016913,STL,Andre Granillo,RP,24.8,,14,,R5,Bullpen Candidate
+sa3020746,STL,Max Rajcic,SP,23.6,,10,,Dec'25,Rotation Candidate Candidate
+sa3014519,STL,Tekoah Roby,SP/RP,23.5,,8,0.000,3,Rotation/Bullpen Candidate
+sa3008454,STL,Michael Gomez,RP,28.6,,,,R5,Bullpen Candidate
+sa917882,STL,Oddanier Mosqueda,RP,25.8,,,,R5,Bullpen Candidate
+24602,STL,Drew Rom,SP,25.2,,,1.044,2,Rotation Candidate Candidate
+sa3017070,STL,Matt Svanson,RP,26.1,,26,0.000,3,Optioned
+27753,STL,Bailey Horn,RP,27.1,,22,0.060,2,Optioned
+sa3011735,STL,Sem Robberse,SP/RP,23.4,,20,0.000,2,Optioned
+sa3014709,STL,Tink Hence,SP,22.6,,16,0.000,3,Optioned
+sa3023407,STL,Quinn Mathews,SP,24.4,,99,,Dec'26,Reassigned
+sa3017501,STL,Alex Cornwell,SP,25.8,,8,,R5,Reassigned
+sa3019841,STL,Jimmy Crooks,C,23.6,13,,,Dec'25,Reassigned
+sa3015773,STL,Leonardo Bernal,C,21.1,,,,Dec'25,Reassigned
+sa3014813,STL,Edwin Nuñez,SP/RP,23.3,,,,R5,Reassigned
+sa3020141,STL,Sammy Hernandez,C,20.8,,,,Dec'26,Reassigned
+sa3020736,STL,Cooper Hjerpe,SP,24.0,,,,Dec'25,Reassigned
+sa3016346,STL,Carlos Linarez,C,23.4,,,,R5,Reassigned
+sa3015193,STL,Jeremy Rivas,INF,22.0,,,,R5,Reassigned
+sa3014538,STL,Ian Bedell,SP,25.5,,,,R5,Reassigned
+sa885119,STL,Bryan Torres,OF/INF,27.7,,,,R5,Reassigned
+sa3022426,STL,Chase Davis,OF,23.3,,,,Dec'26,Reassigned
+16578,TBR,Yandy Díaz,1B,33.6,651,,6.122,n/a,Lineup Regular
+28163,TBR,Junior Caminero,3B,21.7,609,,0.058,2,Lineup Regular
+19953,TBR,Josh Lowe,RF,27.1,539,,2.093,1,Lineup Regular
+18882,TBR,Brandon Lowe,2B,30.7,532,,6.058,n/a,Lineup Regular
+21897,TBR,Christopher Morel,LF,25.7,497,,2.117,0,Lineup Regular
+26365,TBR,Jonny DeLuca,CF,26.7,469,,1.085,2,Lineup Regular
+16535,TBR,Danny Jansen,C,29.9,359,,6.050,n/a,Lineup Regular
+22458,TBR,Taylor Walls,SS,28.7,245,,3.092,2,Lineup Regular
+21837,TBR,Jonathan Aranda,DH,26.8,385,,1.030,1,Platoon vs R
+23986,TBR,Curtis Mead,INF,24.4,245,,0.103,1,Platoon vs L
+22543,TBR,Taj Bradley,SP,24.0,,159,1.114,2,Starting Rotation
+21483,TBR,Shane McClanahan,SP,27.9,,159,3.158,2,Starting Rotation
+26221,TBR,Ryan Pepiot,SP,27.5,,155,2.005,1,Starting Rotation
+22264,TBR,Shane Baz,SP,25.7,,139,2.158,2,Starting Rotation
+15823,TBR,Zack Littell,SP,29.4,,134,5.043,n/a,Starting Rotation
+25385,TBR,Drew Rasmussen,SP,29.6,,125,4.111,2,Starting Rotation
+24589,TBR,Richie Palacios,OF/INF,27.8,336,,1.156,1,Bench
+23401,TBR,José Caballero,INF/OF,28.5,287,,1.170,3,Bench
+20287,TBR,Ben Rortvedt,C,27.5,256,,3.043,0,Bench
+17998,TBR,Pete Fairbanks,RP,31.2,,60,5.057,n/a,Closer
+20539,TBR,Edwin Uceta,RP,27.2,,65,1.150,0,Setup Man
+17897,TBR,Garrett Cleavinger,RP,30.9,,63,3.060,0,Setup Man
+20794,TBR,Manuel Rodríguez,RP,28.6,,61,1.139,0,Middle Reliever
+29770,TBR,Mason Montgomery,RP,24.7,,60,0.025,3,Middle Reliever
+19874,TBR,Alex Faedo,RP,29.3,,57,1.169,0,Middle Reliever
+sa3017915,TBR,Mike Vasil,RP,25.0,,48,0.000,n/a,Long Reliever
+sa3017917,TBR,Nate Lavender,RP,25.1,,22,0.000,n/a,60-Day IL
+27506,TBR,Ha-Seong Kim,INF,29.4,434,,4.000,3,Projected Injured List
+sa3011255,TBR,Jake Mangum,OF,29.0,119,,0.000,3,Lineup/Bench Candidate
+17484,TBR,Eloy Jiménez,OF,28.3,119,,6.000,n/a,Lineup/Bench Candidate
+sa3020219,TBR,Chandler Simpson,OF,24.3,98,,,Dec'25,Lineup/Bench Candidate
+25475,TBR,Logan Driscoll,C,27.3,32,,0.029,3,Bench Candidate
+26374,TBR,Kameron Misner,OF,27.2,28,,0.029,2,Lineup/Bench Candidate
+sa3022919,TBR,Tre' Morgan,1B/OF,22.6,,,,Dec'26,Lineup Candidate
+sa3017852,TBR,Bob Seymour,1B,26.4,,,,R5,Lineup/Bench Candidate
+sa3020194,TBR,Dominic Keegan,C,24.6,,,,Dec'25,Bench Candidate
+21547,TBR,Coco Montes,INF,28.4,,,0.030,2,Bench Candidate
+sa3016805,TBR,Tanner Murray,INF,25.5,,,,R5,Lineup/Bench Candidate
+15504,TBR,Jamie Westbrook,INF/OF,29.7,,,0.039,2,Bench Candidate
+sa3017664,TBR,Kenny Piper,C,26.7,,,,R5,Bench Candidate
+sa3017795,TBR,Carson Williams,SS,21.7,,,,Dec'25,Lineup Candidate
+sa916844,TBR,Ricardo Genovés,C,25.8,,,,R5,Bench Candidate
+19977,TBR,Tres Barrera,C,30.5,,,1.032,1,Bench Candidate
+sa3017851,TBR,Tristan Peters,OF,25.0,,,,R5,Lineup/Bench Candidate
+29608,TBR,Joe Boyle,SP/RP,25.6,,67,0.115,2,Rotation/Bullpen Candidate
+26259,TBR,Hunter Bigge,RP,26.7,,55,0.049,2,Bullpen Candidate
+27626,TBR,Eric Orze,RP,27.5,,53,0.010,2,Bullpen Candidate
+22288,TBR,Mason Englert,RP,25.4,,46,1.035,2,Bullpen Candidate
+18318,TBR,Jacob Waguespack,SP/RP,31.3,,45,2.096,1,Rotation/Bullpen Candidate
+25679,TBR,Kevin Kelly,RP,27.3,,41,2.000,3,Bullpen Candidate
+15256,TBR,Cole Sulser,RP,35.0,,28,4.031,1,Bullpen Candidate
+17464,TBR,Jonathan Hernández,RP,28.7,,26,4.096,0,Bullpen Candidate
+19695,TBR,Connor Seabold,SP/RP,29.1,,,1.013,0,Rotation/Bullpen Candidate
+17783,TBR,Jake Brentz,RP,30.5,,,3.054,2,Bullpen Candidate
+sa3011784,TBR,Ben Peoples,SP,23.9,,,,R5,Bullpen Candidate
+13707,TBR,Joey Krehbiel,RP,32.2,,,1.062,1,Bullpen Candidate
+sa3010307,TBR,Nathan Wiles,SP,26.7,,,,R5,Bullpen Candidate
+sa3014443,TBR,Cole Wilcox,SP/RP,25.7,,,,R5,Bullpen Candidate
+27583,TBR,Garrett Acton,RP,26.7,,,0.015,2,Bullpen Candidate
+sa3014512,TBR,Ian Seymour,SP/RP,26.2,,32,0.000,3,Optioned
+sa3017755,TBR,Joe Rock,SP/RP,24.6,,26,0.000,3,Optioned
+sa3015446,TBR,Yoniel Curet,SP/RP,22.3,,,0.000,2,Optioned
+24591,TBR,Joey Gerber,RP,27.8,,19,0.153,2,Reassigned
+sa3017138,TBR,Austin Vernon,RP,26.1,,,,R5,Reassigned
+sa3022921,TBR,Brayden Taylor,INF,22.8,,,,Dec'26,Reassigned
+sa3017916,TBR,Keyshawn Askew,RP,25.2,,,,R5,Reassigned
+sa3019957,TBR,Paul Gervase,RP,24.8,,,,Dec'25,Reassigned
+sa3017313,TBR,Logan Workman,SP,26.3,,,,R5,Reassigned
+sa3020498,TBR,Xavier Isaac,1B,21.2,,,,Dec'26,Reassigned
+sa3018276,TBR,Alfredo Zarraga,RP,24.3,,,,R5,Reassigned
+sa3006803,TBR,Michael Flynn,RP,28.6,,,,R5,Reassigned
+sa3015800,TBR,Gregory Barrios,INF,20.9,,,,Dec'25,Reassigned
+sa3020879,TBR,Alex Cook,SP,23.9,,,,Dec'25,Reassigned
+sa3022815,TBR,Matthew Etzel,OF,22.9,,,,Dec'26,Reassigned
+12533,TEX,Marcus Semien,2B,34.5,665,,10.118,n/a,Lineup Regular
+19287,TEX,Adolis García,RF,32.0,616,,4.095,1,Lineup Regular
+22275,TEX,Jake Burger,1B,28.9,616,,2.127,1,Lineup Regular
+33333,TEX,Wyatt Langford,LF,23.3,609,,1.000,3,Lineup Regular
+26299,TEX,Josh Jung,3B,27.1,588,,2.027,3,Lineup Regular
+13624,TEX,Corey Seager,SS,30.9,546,,9.032,n/a,Lineup Regular
+27790,TEX,Evan Carter,CF,22.5,511,,1.024,3,Lineup Regular
+16930,TEX,Jonah Heim,C,29.7,333,,4.097,2,Lineup Regular
+11899,TEX,Joc Pederson,DH,32.9,455,,10.028,n/a,Platoon vs R
+12434,TEX,Kevin Pillar,OF,36.2,126,,10.072,n/a,Platoon vs L
+9132,TEX,Nathan Eovaldi,SP,35.1,,172,13.013,n/a,Starting Rotation
+14916,TEX,Jon Gray,SP,33.3,,144,9.062,n/a,Starting Rotation
+16358,TEX,Tyler Mahle,SP,30.4,,141,7.018,n/a,Starting Rotation
+10954,TEX,Jacob deGrom,SP,36.7,,132,10.139,n/a,Starting Rotation
+27597,TEX,Cody Bradford,SP,27.0,,88,1.086,2,Starting Rotation
+26396,TEX,Josh Smith,INF/OF,27.6,392,,2.129,3,Bench
+5517,TEX,Kyle Higashioka,C,34.9,315,,6.005,n/a,Bench
+18900,TEX,Leody Taveras,OF,26.5,294,,3.124,0,Bench
+11847,TEX,Chris Martin,RP,38.8,,58,7.133,n/a,Closer
+23363,TEX,Robert Garcia,RP,28.7,,64,1.086,3,Setup Man
+19274,TEX,Jacob Webb,RP,31.6,,62,4.046,0,Setup Man
+12857,TEX,Shawn Armstrong,RP,34.5,,61,6.113,n/a,Middle Reliever
+26353,TEX,Marc Church,RP,23.9,,60,0.003,2,Middle Reliever
+13346,TEX,Hoby Milner,RP,34.2,,58,5.068,n/a,Middle Reliever
+11752,TEX,Luke Jackson,RP,33.5,,55,8.019,n/a,Middle Reliever
+19409,TEX,Dane Dunning,RP,30.2,,71,4.078,1,Long Reliever
+18323,TEX,Josh Sborz,RP,31.2,,38,4.055,0,60-Day IL
+23733,TEX,Ezequiel Duran,INF/OF,25.8,98,,2.053,1,Bench Candidate
+24597,TEX,Jonathan Ornelas,INF/OF,24.8,28,,0.092,1,Bench Candidate
+25705,TEX,Dustin Harris,OF/INF,25.7,21,,0.006,1,Bench Candidate
+27501,TEX,Justin Foscue,INF,26.0,7,,0.126,2,Bench Candidate
+18054,TEX,Sam Haggerty,INF/OF,30.8,7,,4.036,0,Bench Candidate
+12147,TEX,Nick Ahmed,INF,35.0,7,,10.017,n/a,Bench Candidate
+10200,TEX,Tucker Barnhart,C,34.2,6,,9.148,n/a,Bench Candidate
+17161,TEX,Chad Wallach,C,33.3,,,4.018,0,Bench Candidate
+20056,TEX,Alan Trejo,INF,28.8,,,2.033,0,Bench Candidate
+sa3015127,TEX,Alejandro Osuna,OF,22.4,,,,Dec'25,Bench Candidate
+31843,TEX,Kumar Rocker,SP,25.3,,119,0.018,3,Rotation Candidate
+30146,TEX,Jack Leiter,SP,24.9,,115,0.033,2,Rotation/Bullpen Candidate
+sa3015158,TEX,Emiliano Teodo,SP,24.1,,36,0.000,3,Bullpen Candidate
+21229,TEX,Daniel Robert,RP,30.5,,33,0.017,2,Bullpen Candidate
+5448,TEX,Jesse Chavez,RP,41.5,,26,14.038,n/a,Bullpen Candidate
+sa3008169,TEX,Luis Curvelo,RP,24.4,,22,0.000,R5,Bullpen Candidate
+13767,TEX,JT Chargois,RP,34.3,,21,5.101,n/a,Bullpen Candidate
+19835,TEX,Gerson Garabito,SP/RP,29.6,,18,0.068,2,Bullpen Candidate
+19330,TEX,Matt Festa,RP,32.0,,13,2.003,0,Bullpen Candidate
+19712,TEX,Patrick Murphy,RP,29.7,,6,1.002,0,Bullpen Candidate
+12718,TEX,Adrian Houser,SP/RP,32.1,,,5.136,n/a,Rotation/Bullpen Candidate
+23293,TEX,Codi Heuer,RP,28.7,,,4.000,2,Bullpen Candidate
+22296,TEX,Joe Barlow,RP,29.4,,,1.155,2,Bullpen Candidate
+11176,TEX,David Buchanan,SP/RP,35.8,,,1.012,0,Bullpen Candidate
+19736,TEX,Caleb Boushley,SP/RP,31.4,,,0.009,2,Bullpen Candidate
+21306,TEX,Jacob Latz,RP,28.9,,46,1.022,3,Optioned
+27624,TEX,Walter Pennington,RP,26.9,,42,0.058,2,Optioned
+22113,TEX,Cole Winn,RP,25.3,,,0.145,1,Optioned
+sa3015213,TEX,Jose Corniell,SP,21.7,,,0.000,2,Optioned
+sa3015952,TEX,Winston Santos,SP,22.9,,,0.000,3,Optioned
+sa3014924,TEX,Dane Acker,SP,25.9,,8,,R5,Reassigned
+sa3008251,TEX,Jax Biggers,INF,27.9,,,,R5,Reassigned
+23191,TEX,Michael Plassmeyer,SP/RP,28.3,,,0.005,1,Reassigned
+sa3007471,TEX,Nolan Hoffman,RP,27.6,,,,R5,Reassigned
+sa3021723,TEX,Kohl Drake,SP,24.6,,,,Dec'25,Reassigned
+sa3021069,TEX,Sebastian Walcott,SS,19.0,,,,Dec'27,Reassigned
+sa3010584,TEX,Cooper Johnson,C,26.9,,,,R5,Reassigned
+sa3014448,TEX,Trevor Hauver,OF,26.3,,,,R5,Reassigned
+sa3010170,TEX,Blaine Crim,1B,27.7,,,,R5,Reassigned
+sa3018193,TEX,Robby Ahlstrom,RP,25.7,,,,R5,Reassigned
+19828,TEX,Cody Thomas,OF,30.4,,,0.089,2,Reassigned
+sa3022739,TEX,Skylar Hales,RP,23.4,,,,Dec'26,Reassigned
+sa3010153,TEX,Cody Freeman,INF,24.2,,,,R5,Reassigned
+sa3016926,TEX,Abimelec Ortiz,1B/OF,23.0,,,,R5,Reassigned
+sa3025250,TEX,Malcolm Moore,C,21.6,,,,Dec'27,Reassigned
+19611,TOR,Vladimir Guerrero Jr.,1B,26.0,679,,5.157,n/a,Lineup Regular
+14551,TOR,Anthony Santander,LF,30.4,672,,6.162,n/a,Lineup Regular
+19950,TOR,Andrés Giménez,2B,26.5,637,,4.106,2,Lineup Regular
+19612,TOR,Bo Bichette,SS,27.0,623,,5.063,n/a,Lineup Regular
+12856,TOR,George Springer,RF,35.5,609,,10.166,n/a,Lineup Regular
+19918,TOR,Daulton Varsho,DH,28.7,595,,4.128,2,Lineup Regular
+22581,TOR,Alejandro Kirk,C,26.3,436,,4.047,3,Lineup Regular
+20352,TOR,Ernie Clement,3B,29.0,315,,2.168,0,Lineup Regular
+29630,TOR,Joey Loperfido,CF,25.8,182,,0.131,2,Platoon vs R
+17620,TOR,Myles Straw,OF,30.4,70,,4.125,2,Platoon vs L
+14168,TOR,José Berríos,SP,30.8,,194,8.044,n/a,Starting Rotation
+14107,TOR,Kevin Gausman,SP,34.2,,192,10.151,n/a,Starting Rotation
+12304,TOR,Chris Bassitt,SP,36.0,,177,8.130,n/a,Starting Rotation
+20548,TOR,Bowden Francis,SP,28.9,,157,1.098,1,Starting Rotation
+3137,TOR,Max Scherzer,SP,40.6,,122,16.079,n/a,Starting Rotation
+29634,TOR,Will Wagner,INF,26.6,399,,0.049,3,Bench
+23565,TOR,Davis Schneider,INF/OF,26.1,196,,1.059,3,Bench
+13897,TOR,Tyler Heineman,C,33.7,141,,2.066,0,Bench
+17432,TOR,Jeff Hoffman,RP,32.2,,65,6.084,n/a,Closer
+15552,TOR,Chad Green,RP,33.8,,63,8.050,n/a,Setup Man
+12095,TOR,Yimi García,RP,34.6,,61,9.149,n/a,Setup Man
+20517,TOR,Nick Sandlin,RP,28.2,,60,3.157,3,Middle Reliever
+21574,TOR,Brendon Little,RP,28.6,,59,0.135,2,Middle Reliever
+19178,TOR,Tommy Nance,RP,34.0,,56,2.082,0,Middle Reliever
+20185,TOR,Zach Pop,RP,28.5,,55,2.171,0,Middle Reliever
+33838,TOR,Yariel Rodríguez,RP,28.0,,102,1.000,n/a,Long Reliever
+16587,TOR,Erik Swanson,RP,31.5,,46,5.059,n/a,Projected Injured List
+17536,TOR,Ryan Burr,RP,30.8,,42,2.109,0,Projected Injured List
+26410,TOR,Alek Manoah,SP,27.2,,17,3.063,2,Projected Injured List
+sa3009716,TOR,Angel Bastardo,SP,22.7,,15,0.000,n/a,Projected Injured List
+19337,TOR,Richard Lovelady,RP,29.7,,32,3.008,0,Bench Candidate
+25967,TOR,Orelvis Martinez,INF,23.3,224,,0.012,1,Lineup/Bench Candidate
+sa3020212,TOR,Alan Roden,OF,25.2,119,,,Dec'25,Lineup/Bench Candidate
+24598,TOR,Addison Barger,OF/INF,25.3,112,,0.103,1,Lineup/Bench Candidate
+10028,TOR,Christian Bethancourt,C,33.5,77,,5.023,n/a,Bench Candidate
+18123,TOR,Nathan Lukes,OF,30.7,63,,0.145,1,Lineup/Bench Candidate
+23782,TOR,Leo Jiménez,INF,23.8,49,,0.090,1,Bench Candidate
+26599,TOR,Jonatan Clase,OF,22.8,35,,0.052,1,Lineup/Bench Candidate
+22766,TOR,Steward Berroa,OF,25.8,7,,0.075,2,Lineup/Bench Candidate
+sa3022489,TOR,Jacob Sharp,C,23.5,,,,Dec'26,Bench Candidate
+25353,TOR,Michael Stefanic,INF,29.0,,,1.063,0,Bench Candidate
+18551,TOR,Ali Sánchez,C,28.1,,,1.000,0,Bench Candidate
+sa915868,TOR,Matt Whatley,C,29.2,,,,R5,Bench Candidate
+26226,TOR,Nick Robertson,RP,26.6,,44,0.141,1,Bullpen Candidate
+23617,TOR,Josh Walker,RP,28.3,,39,0.108,1,Bullpen Candidate
+33168,TOR,Jake Bloss,SP,23.7,,36,0.039,2,Rotation/Bullpen Candidate
+26058,TOR,Easton Lucas,RP,28.5,,35,0.047,2,Bullpen Candidate
+16502,TOR,Ryan Yarbrough,SP/RP,33.2,,26,6.117,n/a,Bullpen Candidate
+sa3020261,TOR,Mason Fluharty,RP,23.6,,24,,Dec'25,Bullpen Candidate
+sa3007929,TOR,Braydon Fisher,RP,24.6,,22,,R5,Bullpen Candidate
+12323,TOR,Jacob Barnes,RP,34.9,,18,6.100,n/a,Bullpen Candidate
+sa3020634,TOR,Ryan Jennings,SP/RP,25.7,,,,Dec'25,Bullpen Candidate
+sa917928,TOR,Kevin Gowdy,RP,27.3,,,,R5,Bullpen Candidate
+19316,TOR,Eric Lauer,SP/RP,29.8,,,4.111,0,Rotation/Bullpen Candidate
+sa3017103,TOR,Hayden Juenger,RP,24.6,,,,R5,Bullpen Candidate
+sa3011555,TOR,Adam Macko,SP,24.2,,8,0.000,2,Optioned
+sa3009538,TOR,Eddinson Paulino,INF,22.7,,,,R5,Reassigned
+sa968102,TOR,Eric Pardinho,RP,24.2,,,,R5,Reassigned
+sa3022602,TOR,RJ Schreck,OF,24.7,,,,Dec'26,Reassigned
+sa3017605,TOR,Andres Sosa,C,27.3,,,,R5,Reassigned
+sa3022160,TOR,Robert Brooks,C,26.3,,,,Dec'26,Reassigned
+sa3017078,TOR,Riley Tirotta,INF/OF,26.5,,,,R5,Reassigned
+sa3005551,TOR,Rainer Nunez,1B,24.3,,,,R5,Reassigned
+sa3020203,TOR,Josh Kasevich,INF,24.1,,,,Dec'25,Reassigned
+24493,TOR,Adam Kloffenstein,SP/RP,24.5,,,0.001,2,Reassigned
+sa3005471,TOR,Lazaro Estrada,SP,25.9,,,,R5,Reassigned
+sa3022823,TOR,Charles McAdoo,INF/OF,23.0,,,,Dec'26,Reassigned
+sa3011379,TOR,Phil Clarke,C/1B,27.0,,,,R5,Reassigned
+sa3010259,TOR,Andrew Bash,SP/RP,28.6,,,,R5,Reassigned
+19566,WSN,Nathaniel Lowe,1B,29.7,623,,4.145,1,Lineup Regular
+25768,WSN,CJ Abrams,SS,24.4,602,,2.130,2,Lineup Regular
+29518,WSN,James Wood,LF,22.5,602,,0.091,3,Lineup Regular
+13145,WSN,Josh Bell,DH,32.6,581,,8.053,n/a,Lineup Regular
+33541,WSN,Dylan Crews,RF,23.0,581,,0.035,3,Lineup Regular
+29931,WSN,Jacob Young,CF,25.6,560,,1.037,3,Lineup Regular
+19610,WSN,Keibert Ruiz,C,26.6,480,,3.064,0,Lineup Regular
+18015,WSN,Paul DeJong,3B,31.6,357,,7.057,n/a,Lineup Regular
+20391,WSN,Luis García Jr.,2B,24.8,539,,3.142,0,Platoon vs R
+15518,WSN,Amed Rosario,INF/OF,29.3,210,,7.062,n/a,Platoon vs L
+22201,WSN,MacKenzie Gore,SP,26.0,,167,3.000,3,Starting Rotation
+21504,WSN,Jake Irvin,SP,28.1,,163,1.152,2,Starting Rotation
+27636,WSN,Mitchell Parker,SP,25.4,,147,1.000,3,Starting Rotation
+18383,WSN,Michael Soroka,SP,27.6,,121,6.009,n/a,Starting Rotation
+16977,WSN,Trevor Williams,SP,32.9,,113,8.027,n/a,Starting Rotation
+23691,WSN,José Tena,INF,24.0,294,,0.100,1,Bench
+19296,WSN,Alex Call,OF,30.4,259,,1.161,2,Bench
+19864,WSN,Riley Adams,C,28.7,115,,2.171,0,Bench
+15009,WSN,Kyle Finnegan,RP,33.5,,64,5.000,n/a,Closer
+13133,WSN,Derek Law,RP,34.5,,72,5.081,n/a,Setup Man
+14527,WSN,Jorge López,RP,32.1,,60,6.094,n/a,Setup Man
+24017,WSN,Jose A. Ferrer,RP,25.0,,62,1.094,2,Middle Reliever
+13470,WSN,Lucas Sims,RP,30.8,,58,6.014,n/a,Middle Reliever
+19403,WSN,Colin Poche,RP,31.1,,56,5.114,n/a,Middle Reliever
+sa3014860,WSN,Evan Reifert,RP,25.8,,50,0.000,n/a,Middle Reliever
+sa3058454,WSN,Shinnosuke Ogasawara,RP,27.4,,73,0.000,3,Long Reliever
+21850,WSN,Mason Thompson,RP,27.0,,40,3.046,1,60-Day IL
+24580,WSN,Josiah Gray,SP,27.2,,17,3.075,3,60-Day IL
+sa3014701,WSN,Robert Hassell III,OF,23.6,126,,0.000,3,Lineup/Bench Candidate
+18400,WSN,Juan Yepez,1B,27.0,98,,1.105,1,Lineup/Bench Candidate
+25643,WSN,Drew Millas,C,27.1,45,,0.116,2,Bench Candidate
+25979,WSN,Nasim Nuñez,INF,24.6,42,,1.000,3,Lineup/Bench Candidate
+sa3017694,WSN,Brady House,3B,21.8,35,,,Dec'25,Lineup Candidate
+29912,WSN,Darren Baker,INF/OF,26.1,28,,0.029,3,Bench Candidate
+21797,WSN,Andrés Chaparro,1B/3B,25.8,28,,0.048,3,Bench Candidate
+31567,WSN,Trey Lipscomb,INF,24.7,28,,0.099,2,Lineup/Bench Candidate
+sa3019996,WSN,Cayden Wallace,3B,23.6,,,,Dec'25,Lineup Candidate
+sa3022670,WSN,Andrew Pinckney,OF,24.3,,,,Dec'26,Lineup/Bench Candidate
+sa3022672,WSN,Yohandy Morales,3B/1B,23.4,,,,Dec'26,Lineup Candidate
+19514,WSN,Andrew Knizner,C,30.1,,,4.145,0,Bench Candidate
+sa3017698,WSN,Daylen Lile,OF,22.3,,,,Dec'25,Bench Candidate
+26389,WSN,DJ Herz,SP,24.2,,106,0.104,2,Rotation/Bullpen Candidate
+27473,WSN,Cade Cavalli,SP,26.6,,80,2.041,3,Rotation/Bullpen Candidate
+23135,WSN,Eduardo Salazar,RP,26.8,,52,0.103,1,Bullpen Candidate
+27783,WSN,Zach Brzykcy,RP,25.7,,42,0.029,2,Bullpen Candidate
+26247,WSN,Orlando Ribalta,RP,27.0,,35,0.013,2,Bullpen Candidate
+26215,WSN,Jackson Rutledge,SP/RP,25.9,,29,0.025,1,Rotation/Bullpen Candidate
+sa3020812,WSN,Brad Lord,SP,25.1,,23,,Dec'25,Rotation/Bullpen Candidate
+sa3007459,WSN,Clay Helvey,RP,28.1,,,,R5,Bullpen Candidate
+sa3014446,WSN,Cole Henry,SP/RP,25.7,,48,0.000,2,Optioned
+sa3014716,WSN,Andry Lara,SP/RP,22.2,,18,0.000,3,Optioned
+sa3020264,WSN,Tyler Stuart,SP,25.4,,15,,Dec'25,Reassigned
+19273,WSN,Stone Garrett,OF,29.3,7,,1.085,2,Reassigned
+sa3020312,WSN,Marquis Grissom Jr.,RP,23.6,,,,Dec'25,Reassigned
+sa3018808,WSN,Jarlin Susana,SP,21.0,,,,Dec'26,Reassigned
+sa3017596,WSN,Jack Sinclair,RP,25.9,,,,R5,Reassigned
+sa3025404,WSN,Caleb Lomavita,C,22.3,,,,Dec'27,Reassigned
+sa3020271,WSN,Maxwell Romero Jr.,C,23.9,,,,Dec'25,Reassigned
+21453,WSN,Konnor Pilkington,SP/RP,27.5,,,0.083,1,Reassigned
+sa944989,WSN,Daison Acosta,RP,26.5,,,,R5,Reassigned
+22925,WSN,Joan Adon,SP/RP,26.6,,,1.026,0,Reassigned

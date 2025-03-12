@@ -16,10 +16,10 @@ This project aims to build a lightweight, strategic draft tool for two co-owners
 
 ### Sprint 1: Core Setup & Player Database (Days 1-3)
 
-- [ ] **Project initialization (4 points)**
-  - [ ] Set up Git repository
-  - [ ] Create basic project structure (HTML, CSS, JavaScript)
-  - [ ] Set up local development environment
+- [] **Project initialization (4 points)**
+  - [x] Set up Git repository
+  - [] Create basic project structure (HTML, CSS, JavaScript)
+  - [x] Set up local development environment
 - [ ] **Player database creation (8 points)**
   - [ ] Create CSV or JSON file with MLB player data
     - [ ] Include names, positions, teams, key stats
@@ -81,7 +81,8 @@ This project aims to build a lightweight, strategic draft tool for two co-owners
 
 - **HTML/CSS/JavaScript** - Simple stack for quick development
 - **Framework options**:
-  - Lightweight framework Vue.js
+  - Plain JavaScript with minimal dependencies
+  - Or lightweight framework like Alpine.js or Vue.js if preferred
 - **Responsive design** for viewing on laptops/tablets during draft
 
 ### Data Management

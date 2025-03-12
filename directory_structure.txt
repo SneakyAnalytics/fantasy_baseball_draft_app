@@ -1,0 +1,9 @@
+fantasy_baseball_draft_app/
+├── data/
+│   ├── fangraphs_batting_projections.csv
+│   ├── fangraphs_pitching_projections.csv
+│   └── merged_projections.json
+├── scripts/
+│   ├── csvProcessor.js
+│   └── dataMerger.js
+└── package.json
