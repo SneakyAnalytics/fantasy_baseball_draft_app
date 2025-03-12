@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "update-players": "node scripts/dataMerger.js"
+    "update-players": "node scripts/dataMerger.js",
+    "deploy": "npm run build && gh-pages -d dist"
   },
   "dependencies": {
     "csv-parse": "^5.5.3",
@@ -17,6 +18,7 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.3",
     "autoprefixer": "^10.4.17",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.4.35",
     "tailwindcss": "^3.4.1",
     "vite": "^5.1.0"
